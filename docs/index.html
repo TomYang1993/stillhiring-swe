@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Still Hiring SWE</title>
+<style>
+:root{--bg:#fafaf9;--fg:#1c1917;--mute:#78716c;--line:#e7e5e4;--card:#fff;--acc:#2563eb;--new:#16a34a;--warn:#b45309}
+@media (prefers-color-scheme:dark){:root{--bg:#0c0a09;--fg:#e7e5e4;--mute:#a8a29e;--line:#292524;--card:#1c1917;--acc:#60a5fa;--new:#4ade80;--warn:#fbbf24}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.45 system-ui,-apple-system,sans-serif}
+header{padding:16px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline}
+h1{font-size:20px;margin:0}
+.mute{color:var(--mute)}
+nav button{background:none;border:0;border-bottom:2px solid transparent;padding:6px 2px;margin-right:14px;color:var(--mute);font:inherit;cursor:pointer}
+nav button.on{color:var(--fg);border-color:var(--acc)}
+.bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:12px 16px}
+input[type=search],select{font:inherit;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}
+input[type=search]{flex:1;min-width:200px}
+label{white-space:nowrap}
+.wrap{padding:0 16px 40px;overflow-x:auto}
+table{border-collapse:collapse;width:100%;background:var(--card)}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{position:sticky;top:0;background:var(--card);font-weight:600;font-size:12px;color:var(--mute);cursor:pointer;user-select:none}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.tag{font-size:11px;padding:1px 6px;border-radius:9px;border:1px solid currentColor;margin-left:6px}
+.new{color:var(--new)}.maybe{color:var(--warn)}
+tr.closed td{opacity:.45;text-decoration:line-through}
+tr.applied td:not(:last-child){opacity:.55}
+td.act button{font:inherit;font-size:12px;border:1px solid var(--line);background:none;color:var(--mute);border-radius:5px;padding:1px 6px;cursor:pointer}
+td.act button.on{color:var(--new);border-color:var(--new)}
+.loc{max-width:320px;color:var(--mute)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Still Hiring · US SWE</h1>
+  <span class="mute" id="meta">loading…</span>
+  <nav><button data-tab="jobs" class="on">Jobs</button><button data-tab="cos">Companies</button></nav>
+</header>
+
+<section id="jobs">
+  <div class="bar">
+    <input type="search" id="q" placeholder="Filter title, company, location… (e.g. backend remote)">
+    <select id="since">
+      <option value="0">All open</option><option value="1">New · 24h</option>
+      <option value="3">New · 3 days</option><option value="7">New · 7 days</option>
+    </select>
+    <label><input type="checkbox" id="maybe" checked> Unclear location (Remote/“2 Locations”)</label>
+    <label><input type="checkbox" id="closed"> Show closed</label>
+    <label><input type="checkbox" id="hide"> Hide applied/dismissed</label>
+    <span class="mute" id="count"></span>
+  </div>
+  <div class="wrap"><table>
+    <thead><tr><th data-k="company">Company</th><th data-k="title">Title</th><th data-k="location">Location</th><th data-k="first_seen">First seen ▾</th><th></th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table></div>
+</section>
+
+<section id="cos" hidden>
+  <div class="bar">
+    <select id="cstatus">
+      <option value="check">Needs manual check</option><option value="ok">Scraped OK</option><option value="">All</option>
+    </select>
+    <label><input type="checkbox" id="cus" checked> US HQ only</label>
+    <label><input type="checkbox" id="cswe" checked> Sheet says hiring SWE</label>
+    <span class="mute" id="ccount"></span>
+  </div>
+  <div class="wrap"><table>
+    <thead><tr><th>Company</th><th>Status</th><th>HQ</th><th>Employees</th><th>SWE (US) / all</th><th>Board</th></tr></thead>
+    <tbody id="crows"></tbody>
+  </table></div>
+</section>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let marks = {};  // per-viewer applied/dismissed, browser-only
+try { marks = JSON.parse(localStorage.getItem("marks") || "{}"); } catch {}
+const save = () => { try { localStorage.setItem("marks", JSON.stringify(marks)); } catch {} };
+let jobs = [], cos = [], sortK = "first_seen", sortDir = -1;
+
+const ago = iso => { const h = (Date.now() - Date.parse(iso)) / 36e5;
+  return h < 1 ? "just now" : h < 24 ? `${h|0}h ago` : `${(h/24)|0}d ago`; };
+
+function renderJobs() {
+  const terms = $("#q").value.toLowerCase().split(/\s+/).filter(Boolean);
+  const days = +$("#since").value, cutoff = Date.now() - days * 864e5;
+  const rows = jobs.filter(j =>
+    (j.open || $("#closed").checked) &&
+    ($("#maybe").checked || j.us === "yes") &&
+    (!days || Date.parse(j.first_seen) >= cutoff) &&
+    (!$("#hide").checked || !marks[j.url]) &&
+    terms.every(t => (j.company + " " + j.title + " " + j.location).toLowerCase().includes(t))
+  ).sort((a, b) => sortDir * String(a[sortK]).localeCompare(String(b[sortK])));
+  $("#count").textContent = `${rows.length} jobs`;
+  $("#rows").innerHTML = rows.map(j => {
+    const isNew = Date.now() - Date.parse(j.first_seen) < 864e5 * 2, m = marks[j.url];
+    return `<tr class="${j.open ? "" : "closed"} ${m ? "applied" : ""}">
+      <td>${esc(j.company)}</td>
+      <td><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>${isNew ? '<span class="tag new">new</span>' : ""}</td>
+      <td class="loc">${esc(j.location) || "—"}${j.us === "maybe" ? '<span class="tag maybe">unclear</span>' : ""}</td>
+      <td class="mute" title="${esc(j.first_seen)}">${ago(j.first_seen)}</td>
+      <td class="act"><button data-u="${esc(j.url)}" data-m="applied" class="${m === "applied" ? "on" : ""}">applied</button>
+        <button data-u="${esc(j.url)}" data-m="hide" class="${m === "hide" ? "on" : ""}">hide</button></td></tr>`;
+  }).join("");
+}
+
+function renderCos() {
+  const st = $("#cstatus").value;
+  const rows = cos.filter(c =>
+    (st === "" || (st === "ok" ? c.status === "ok" : c.status !== "ok" && c.status !== "duplicate")) &&
+    (!$("#cus").checked || c.country === "US") && (!$("#cswe").checked || c.swe_flag)
+  ).sort((a, b) => (b.swe_us ?? -1) - (a.swe_us ?? -1) || (a.employees || 0) - (b.employees || 0));
+  $("#ccount").textContent = `${rows.length} companies`;
+  $("#crows").innerHTML = rows.map(c => `<tr>
+    <td><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.name)}</a></td>
+    <td class="${c.status === "ok" ? "" : "maybe"}">${esc(c.status)}${c.ats ? ` · ${esc(c.ats)}` : ""}${c.how === "guessed" ? " (guessed)" : ""}</td>
+    <td class="mute">${esc([c.city, c.country].filter(Boolean).join(", "))}</td>
+    <td class="mute">${esc(c.employees)}</td>
+    <td>${c.status === "ok" ? `${c.swe_us} / ${c.total}` : "—"}</td>
+    <td class="mute">${esc(c.slug || "")}</td></tr>`).join("");
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button[data-u]");
+  if (b) { const u = b.dataset.u; marks[u] === b.dataset.m ? delete marks[u] : marks[u] = b.dataset.m; save(); renderJobs(); }
+  const t = e.target.closest("nav button");
+  if (t) { document.querySelectorAll("nav button").forEach(x => x.classList.toggle("on", x === t));
+    $("#jobs").hidden = t.dataset.tab !== "jobs"; $("#cos").hidden = t.dataset.tab !== "cos"; }
+  const th = e.target.closest("#jobs th[data-k]");
+  if (th) { sortDir = sortK === th.dataset.k ? -sortDir : (th.dataset.k === "first_seen" ? -1 : 1); sortK = th.dataset.k; renderJobs(); }
+});
+["#q", "#since", "#maybe", "#closed", "#hide"].forEach(s => $(s).addEventListener("input", renderJobs));
+["#cstatus", "#cus", "#cswe"].forEach(s => $(s).addEventListener("input", renderCos));
+
+Promise.all([fetch("jobs.json").then(r => r.json()), fetch("companies.json").then(r => r.json())]).then(([j, c]) => {
+  jobs = Object.values(j.jobs); cos = c.companies;
+  const ok = cos.filter(x => x.status === "ok").length;
+  $("#meta").textContent = `updated ${ago(j.updated)} · ${jobs.filter(x => x.open).length} open roles · ${ok}/${cos.length} company boards scraped`;
+  renderJobs(); renderCos();
+}).catch(e => $("#meta").textContent = "failed to load data: " + e);
+</script>
+</body>
+</html>
