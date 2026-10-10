@@ -1477,11 +1477,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---canada---british-columbia---remote/principal-software-developer---databases_26wd99177-2": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-08T21:20:34Z",
 "location": "12 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal Software Developer - Databases",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Remote/Principal-Software-Developer---Databases_26WD99177-2",
@@ -1780,12 +1781,11 @@
 },
 "https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/usa-or-ashland---flowjo/staff-ux-engineer_r-555118-1": {
 "ats": "workday",
-"closed_at": "2026-10-09T15:18:53Z",
 "company": "BD",
 "company_id": "recKk4aLoHNHwWDTh",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "4 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Staff UX Engineer",
 "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-OR-Ashland---FlowJo/Staff-UX-Engineer_R-555118-1",
@@ -11874,11 +11874,12 @@
 },
 "https://genesys.wd1.myworkdayjobs.com/genesys/job/brest-france/software-engineer-intern_jr112584": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Genesys",
 "company_id": "rec2z4dfqNd2hD4Vn",
 "first_seen": "2026-10-09T15:18:53Z",
 "location": "2 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Engineer Intern",
 "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Brest-France/Software-Engineer-Intern_JR112584",
@@ -11997,12 +11998,11 @@
 },
 "https://genesys.wd1.myworkdayjobs.com/genesys/job/north-carolina-usa/principal-software-engineer_jr111620-3": {
 "ats": "workday",
-"closed_at": "2026-10-09T20:55:01Z",
 "company": "Genesys",
 "company_id": "rec2z4dfqNd2hD4Vn",
 "first_seen": "2026-10-06T15:12:59Z",
 "location": "2 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "AI CX Agent Principal Software Engineer, Go",
 "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/North-Carolina-USA/Principal-Software-Engineer_JR111620-3",
@@ -12055,6 +12055,18 @@
 "posted": null,
 "title": "Sr. Salesforce Developer, Quote-to-Cash",
 "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/Salesforce-Developer--Quote-to-Cash_JR111789",
+"us": "maybe"
+},
+"https://genesys.wd1.myworkdayjobs.com/genesys/job/virtual-office-tamil-nadu/staff-application-developer---record-to-report--workday-financials-_jr111784": {
+"ats": "workday",
+"company": "Genesys",
+"company_id": "rec2z4dfqNd2hD4Vn",
+"first_seen": "2026-10-10T14:28:37Z",
+"location": "4 Locations",
+"open": true,
+"posted": null,
+"title": "Staff Application Developer - Record to Report (Workday Financials)",
+"url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Tamil-Nadu/Staff-Application-Developer---Record-to-Report--Workday-Financials-_JR111784",
 "us": "maybe"
 },
 "https://genesys.wd1.myworkdayjobs.com/genesys/job/virtual-office-telangana/principal-software-engineer_jr112434-1": {
@@ -12267,11 +12279,12 @@
 },
 "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/principal-network-security---cloud-developer_1190830-2": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Juniper Networks",
 "company_id": "rece3qr4ha1O1XIpM",
 "first_seen": "2026-10-10T05:53:47Z",
 "location": "San Jose, California, United States of America",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Network Security & Cloud Developer",
 "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Principal-Network-Security---Cloud-Developer_1190830-2",
@@ -36871,11 +36884,12 @@
 },
 "https://leidos.wd5.myworkdayjobs.com/external/job/reston-va/senior-systems-developer_r-00194188-1": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Kudu Dynamics LLC",
 "company_id": "recDWFYXGbY5uqdZH",
 "first_seen": "2026-10-08T21:20:34Z",
 "location": "Reston, VA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Systems Developer",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Senior-Systems-Developer_R-00194188-1",
@@ -40560,11 +40574,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/sr-software-development-engineer---core-platform-integration_jr-0108019": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-10T05:53:47Z",
 "location": "USA, CA, Pleasanton",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Sr Software Development Engineer - Core Platform Integration",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer---Core-Platform-Integration_JR-0108019",
@@ -40889,11 +40904,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usavareston/software-development-engineer--us-federal-_jr-0105503": {
 "ats": "workday",
+"closed_at": "2026-10-10T14:28:37Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA.VA.Reston",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Mid/Senior Software Development Engineer (US Federal)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105503",
@@ -40934,6 +40950,18 @@
 "title": "(Senior) Software Development Engineer (US Federal)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/XMLNAME--Senior--Software-Development-Engineer--US-Federal-_JR-0108565",
 "us": "yes"
+},
+"https://workday.wd5.myworkdayjobs.com/workday/job/vnmda-nang/senior-devops-engineer---da-nang_jr-0109934": {
+"ats": "workday",
+"company": "Workday",
+"company_id": "recpuddymbqf3Jzbo",
+"first_seen": "2026-10-10T14:28:37Z",
+"location": "VNM.Da Nang",
+"open": true,
+"posted": null,
+"title": "Senior DevOps Engineer - Da Nang",
+"url": "https://workday.wd5.myworkdayjobs.com/Workday/job/VNMDa-Nang/Senior-DevOps-Engineer---Da-Nang_JR-0109934",
+"us": "maybe"
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/vnmda-nang/senior-software-development-engineer--back-end----paradox---da-nang_jr-0107621": {
 "ats": "workday",
@@ -43966,5 +43994,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-10T05:53:47Z"
+"updated": "2026-10-10T14:28:37Z"
 }
