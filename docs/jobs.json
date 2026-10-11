@@ -31047,11 +31047,12 @@
 },
 "https://jobs.ashbyhq.com/snowflake/59fb145c-1a98-4fbb-897c-22b9b4d5a97d": {
 "ats": "ashby",
+"closed_at": "2026-10-11T05:47:53Z",
 "company": "Snowflake",
 "company_id": "rec9swSfeg0Xu9WW6",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US-CA-Menlo Park / United States",
-"open": true,
+"open": false,
 "posted": "2026-09-22T02:09:08.591+00:00",
 "title": "Senior Software Engineer, Trust & Platform Security",
 "url": "https://jobs.ashbyhq.com/snowflake/59fb145c-1a98-4fbb-897c-22b9b4d5a97d",
@@ -31586,6 +31587,18 @@
 "posted": "2026-07-28T17:56:18.161+00:00",
 "title": "Principal Software Engineer ",
 "url": "https://jobs.ashbyhq.com/snowflake/ef4a5f8b-76c5-4b98-a52a-6e65aef426ba",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed": {
+"ats": "ashby",
+"company": "Snowflake",
+"company_id": "rec9swSfeg0Xu9WW6",
+"first_seen": "2026-10-11T05:47:53Z",
+"location": "US-WA-Bellevue / United States",
+"open": true,
+"posted": "2026-10-11T00:42:47.064+00:00",
+"title": "Staff Software Engineer \u2013 Engineering Systems, Continuous Integration Team",
+"url": "https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/snowflake/f4754cf9-8e07-46b9-8874-528e810892f0": {
@@ -42937,11 +42950,11 @@
 "company": "NexHealth",
 "company_id": "reclQmTppNnGW7Fz7",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Denver, Colorado, United States",
+"location": "San Francisco, California, United States",
 "open": true,
-"posted": "2026-10-09T14:34:52-04:00",
+"posted": "2026-10-09T14:35:05-04:00",
 "title": "Senior Software Engineer",
-"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219641004",
+"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6220068004",
 "us": "yes"
 },
 "https://www.praetorian.com/careers": {
@@ -44008,5 +44021,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-10T23:34:14Z"
+"updated": "2026-10-11T05:47:53Z"
 }
