@@ -11657,11 +11657,12 @@
 },
 "https://expedia.wd108.myworkdayjobs.com/search/job/usa---illinois---chicago/mobile-engineer-ii--android-_r-108950-1": {
 "ats": "workday",
+"closed_at": "2026-10-12T05:59:15Z",
 "company": "Expedia",
 "company_id": "recRxbhkgilBdHQPT",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA - Illinois - Chicago",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Mobile Engineer II (Android)",
 "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Mobile-Engineer-II--Android-_R-108950-1",
@@ -18838,7 +18839,7 @@
 "location": "Austin, TX - Remote; Burlingame, CA - Hybrid; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
 "open": true,
 "posted": "2026-10-01T18:51:13-04:00",
-"title": "Staff Software Engineer, Financial Platform",
+"title": "Staff Software Engineer, Retirement Financial Platform",
 "url": "https://job-boards.greenhouse.io/gusto/jobs/8205075",
 "us": "yes"
 },
@@ -20892,6 +20893,18 @@
 "posted": "2026-09-25T16:49:51-04:00",
 "title": "Senior Staff Software Engineer - AI Governance",
 "url": "https://job-boards.greenhouse.io/onetrust/jobs/8234245",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/onetrust/jobs/8236793": {
+"ats": "greenhouse",
+"company": "OneTrust",
+"company_id": "recT3cymDEGbAuTqr",
+"first_seen": "2026-10-12T05:59:15Z",
+"location": "Atlanta, Georgia",
+"open": true,
+"posted": "2026-10-11T16:51:30-04:00",
+"title": "Senior AI Systems Engineer",
+"url": "https://job-boards.greenhouse.io/onetrust/jobs/8236793",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/osano/jobs/5390304008": {
@@ -37255,12 +37268,11 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/warsaw-poland/lead-software-engineer---java_r-273155": {
 "ats": "workday",
-"closed_at": "2026-10-08T15:37:49Z",
 "company": "Mastercard",
 "company_id": "recgWQkJgT9Duul1s",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "2 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Lead Software Engineer (Java)",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Lead-Software-Engineer---Java_R-273155",
@@ -44020,5 +44032,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-11T20:17:31Z"
+"updated": "2026-10-12T05:59:15Z"
 }
