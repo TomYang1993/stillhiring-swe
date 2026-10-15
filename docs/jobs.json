@@ -1544,12 +1544,11 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---canada---ontario---toronto---university-ave/senior-software-developer--precon_26wd98043-1": {
 "ats": "workday",
-"closed_at": "2026-10-14T23:15:12Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-14T13:44:23Z",
 "location": "3 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Senior Software Developer, PreCon",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Senior-Software-Developer--PreCon_26WD98043-1",
@@ -1607,11 +1606,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/ontario-can---remote/senior-software-developer_26wd100706-1": {
 "ats": "workday",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "2 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Developer",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Senior-Software-Developer_26WD100706-1",
@@ -7945,11 +7945,12 @@
 },
 "https://boards.greenhouse.io/spacex/jobs/8829675002": {
 "ats": "greenhouse",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "SpaceX",
 "company_id": "reccEp5jDQy5044Zw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Palo Alto, CA",
-"open": true,
+"open": false,
 "posted": "2026-09-21T21:31:05-04:00",
 "title": "Network Engineer, AI Infrastructure (Starshield)",
 "url": "https://boards.greenhouse.io/spacex/jobs/8829675002?gh_jid=8829675002",
@@ -12751,6 +12752,18 @@
 "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-III_1205852-2",
 "us": "yes"
 },
+"https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/graduate-cloud-developer_1214989": {
+"ats": "workday",
+"company": "Juniper Networks",
+"company_id": "rece3qr4ha1O1XIpM",
+"first_seen": "2026-10-15T04:40:21Z",
+"location": "San Jose, California, United States of America",
+"open": true,
+"posted": null,
+"title": "Graduate Cloud Developer",
+"url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Graduate-Cloud-Developer_1214989",
+"us": "yes"
+},
 "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/principal-network-security---cloud-developer_1190830-2": {
 "ats": "workday",
 "company": "Juniper Networks",
@@ -15020,11 +15033,12 @@
 },
 "https://job-boards.greenhouse.io/anthropic/jobs/5229345008": {
 "ats": "greenhouse",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Anthropic",
 "company_id": "rec5kwVgAYWhk4UoC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-"open": true,
+"open": false,
 "posted": "2026-05-27T20:20:38-04:00",
 "title": "Staff Software Engineer, Claude Design",
 "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
@@ -25986,11 +26000,12 @@
 },
 "https://jobs.ashbyhq.com/abridge/57967034-08cb-4cfe-8243-4e9564acc32e": {
 "ats": "ashby",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Abridge",
 "company_id": "recSZvwgAJxbgkqcQ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "SF Office / USA",
-"open": true,
+"open": false,
 "posted": "2025-04-14T16:55:01.344+00:00",
 "title": "Senior Application Security Engineer",
 "url": "https://jobs.ashbyhq.com/Abridge/57967034-08cb-4cfe-8243-4e9564acc32e",
@@ -26060,11 +26075,12 @@
 },
 "https://jobs.ashbyhq.com/abridge/b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69": {
 "ats": "ashby",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Abridge",
 "company_id": "recSZvwgAJxbgkqcQ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "SF Office / USA",
-"open": true,
+"open": false,
 "posted": "2026-06-10T21:16:24.706+00:00",
 "title": "Staff Application Security Engineer",
 "url": "https://jobs.ashbyhq.com/Abridge/b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69",
@@ -26144,11 +26160,12 @@
 },
 "https://jobs.ashbyhq.com/airwallex/23e17f1d-517d-4964-b30b-509aff010212": {
 "ats": "ashby",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Airwallex",
 "company_id": "recNnMGv53brZv8SC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "KR - Seoul / South Korea",
-"open": true,
+"open": false,
 "posted": "2026-06-26T09:26:58.091+00:00",
 "title": "Staff Software Engineer, GTPN Platform",
 "url": "https://jobs.ashbyhq.com/airwallex/23e17f1d-517d-4964-b30b-509aff010212",
@@ -26259,7 +26276,7 @@
 "location": "US - San Francisco / United States",
 "open": true,
 "posted": "2026-10-14T20:39:25.802+00:00",
-"title": "Staff Software Engineer - Growth",
+"title": "Staff Software Engineer, Growth",
 "url": "https://jobs.ashbyhq.com/airwallex/550e26a2-0b07-4cbd-9087-f7d50190115f",
 "us": "yes"
 },
@@ -26273,6 +26290,18 @@
 "posted": "2026-10-08T18:30:06.554+00:00",
 "title": "Senior Data Engineer (Seattle)",
 "url": "https://jobs.ashbyhq.com/airwallex/5baeefbf-f0d1-4e50-9b4d-f983fcc74738",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/airwallex/5d5ae093-c9ea-4fce-b504-a8bca9330e13": {
+"ats": "ashby",
+"company": "Airwallex",
+"company_id": "recNnMGv53brZv8SC",
+"first_seen": "2026-10-15T04:40:21Z",
+"location": "KR - Seoul / South Korea",
+"open": true,
+"posted": "2026-10-15T03:06:25.053+00:00",
+"title": "Staff Software Engineer, GTPN Platform",
+"url": "https://jobs.ashbyhq.com/airwallex/5d5ae093-c9ea-4fce-b504-a8bca9330e13",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/airwallex/613cbcbf-18df-4f97-b17a-1a30821755d6": {
@@ -26307,7 +26336,7 @@
 "location": "US - San Francisco / United States",
 "open": true,
 "posted": "2026-07-27T19:56:59.171+00:00",
-"title": "Senior Software Engineer - Growth",
+"title": "Senior Software Engineer, Growth",
 "url": "https://jobs.ashbyhq.com/airwallex/6e884138-9e2b-441d-864f-a57945fdea4e",
 "us": "yes"
 },
@@ -26439,7 +26468,7 @@
 "location": "US - San Francisco / United States",
 "open": true,
 "posted": "2026-06-19T20:48:26.595+00:00",
-"title": "Senior Frontend Engineer - Growth",
+"title": "Senior Frontend Engineer, Growth",
 "url": "https://jobs.ashbyhq.com/airwallex/edf012e3-aeb6-4c6f-a002-416df8c4dc91",
 "us": "yes"
 },
@@ -29619,11 +29648,12 @@
 },
 "https://jobs.ashbyhq.com/ncontracts/a53c19bd-31de-4fac-b87a-46851d7e1d0d": {
 "ats": "ashby",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Ncontracts",
 "company_id": "recFpK3cCUBgu74Iu",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote / United States",
-"open": true,
+"open": false,
 "posted": "2026-09-03T03:03:22.057+00:00",
 "title": "Data Engineer II",
 "url": "https://jobs.ashbyhq.com/ncontracts/a53c19bd-31de-4fac-b87a-46851d7e1d0d",
@@ -30567,6 +30597,18 @@
 "posted": "2026-09-12T05:49:25.777+00:00",
 "title": "Senior Machine Learning Engineer - Fraud",
 "url": "https://jobs.ashbyhq.com/plaid/85cd5d07-9920-45fa-931a-daf8c3558e5b",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/plaid/865f7c94-9da4-49ac-b490-2f770bd94b1c": {
+"ats": "ashby",
+"company": "Plaid",
+"company_id": "recFOX2lyxkFnHnaX",
+"first_seen": "2026-10-15T04:40:21Z",
+"location": "Seattle Office / San Francisco HQ / New York City Office / United States",
+"open": true,
+"posted": "2026-10-15T00:03:50.134+00:00",
+"title": "Senior Product Security Engineer",
+"url": "https://jobs.ashbyhq.com/plaid/865f7c94-9da4-49ac-b490-2f770bd94b1c",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/plaid/8de90516-8070-42c5-8b04-267bf6785bea": {
@@ -32143,11 +32185,12 @@
 },
 "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74": {
 "ats": "ashby",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Snowflake",
 "company_id": "rec9swSfeg0Xu9WW6",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US-CA-Menlo Park / United States",
-"open": true,
+"open": false,
 "posted": "2026-03-09T22:42:01.730+00:00",
 "title": "Infrastructure Engineer, Observe by Snowflake",
 "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74",
@@ -32373,13 +32416,12 @@
 },
 "https://jobs.ashbyhq.com/snowflake/5f731aa9-26a6-4760-8941-9f4aff96864d": {
 "ats": "ashby",
-"closed_at": "2026-10-10T05:53:47Z",
 "company": "Snowflake",
 "company_id": "rec9swSfeg0Xu9WW6",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US-WA-Bellevue / US-CA-Menlo Park / United States",
-"open": false,
-"posted": "2026-07-14T17:45:07.118+00:00",
+"open": true,
+"posted": "2026-10-15T03:10:32.336+00:00",
 "title": "Senior Software Engineer - Identity, Data Security and Trust",
 "url": "https://jobs.ashbyhq.com/snowflake/5f731aa9-26a6-4760-8941-9f4aff96864d",
 "us": "yes"
@@ -32479,6 +32521,18 @@
 "posted": "2026-10-08T00:52:13.298+00:00",
 "title": "Principal Software Engineer - Elastic Global Services",
 "url": "https://jobs.ashbyhq.com/snowflake/778634b7-b2db-418e-a7b1-922f8a775ff6",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/snowflake/797cadbe-fad8-4f1d-a656-d14ca76d29b9": {
+"ats": "ashby",
+"company": "Snowflake",
+"company_id": "rec9swSfeg0Xu9WW6",
+"first_seen": "2026-10-15T04:40:21Z",
+"location": "US-WA-Bellevue / United States",
+"open": true,
+"posted": "2026-10-15T02:58:48.061+00:00",
+"title": "Principal Software Engineer, Anti-Abuse",
+"url": "https://jobs.ashbyhq.com/snowflake/797cadbe-fad8-4f1d-a656-d14ca76d29b9",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/snowflake/79e0f681-fed6-42cc-9754-9e150e056c5a": {
@@ -33922,6 +33976,18 @@
 "url": "https://jobs.ashbyhq.com/workos/ffba59a1-cead-4231-bd2d-a24649c6a3b9",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/xero/0b67a53e-9f63-471c-8f1a-b06fad21b506": {
+"ats": "ashby",
+"company": "Xero",
+"company_id": "recIEsqX4JClcA64E",
+"first_seen": "2026-10-15T04:40:21Z",
+"location": "CAN: Vancouver (333 Seymour St) / CAN: Toronto (111 Richmond Street West) / US: San Mateo (1875 South Grant Street) / Canada",
+"open": true,
+"posted": "2026-10-15T04:18:22.983+00:00",
+"title": "Lead/Staff Software Engineer",
+"url": "https://jobs.ashbyhq.com/xero/0b67a53e-9f63-471c-8f1a-b06fad21b506",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/xero/10cbea43-191b-44c3-9fec-4021a5176f43": {
 "ats": "ashby",
 "company": "Xero",
@@ -34458,11 +34524,12 @@
 },
 "https://jobs.lever.co/brightmachines/f051001d-4533-4974-bad6-63f0693e6634": {
 "ats": "lever",
+"closed_at": "2026-10-15T04:40:21Z",
 "company": "Bright Machines",
 "company_id": "recLzxBFjaCxN39zZ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Burlingame, California / US",
-"open": true,
+"open": false,
 "posted": 1790281668488,
 "title": "Staff Platform Engineer",
 "url": "https://jobs.lever.co/brightmachines/f051001d-4533-4974-bad6-63f0693e6634",
@@ -39084,12 +39151,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-14T13:44:23Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -39097,12 +39163,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-14T13:44:23Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -42821,12 +42886,11 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/vnmda-nang/senior-devops-engineer---da-nang_jr-0109934": {
 "ats": "workday",
-"closed_at": "2026-10-13T19:18:13Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-10T14:28:37Z",
 "location": "VNM.Da Nang",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Senior DevOps Engineer - Da Nang",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/VNMDa-Nang/Senior-DevOps-Engineer---Da-Nang_JR-0109934",
@@ -44881,11 +44945,11 @@
 "company": "NexHealth",
 "company_id": "reclQmTppNnGW7Fz7",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Chicago, Illinois, United States",
+"location": "Denver, Colorado, United States",
 "open": true,
-"posted": "2026-10-09T14:34:44-04:00",
+"posted": "2026-10-09T14:34:52-04:00",
 "title": "Senior Software Engineer",
-"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219621004",
+"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219641004",
 "us": "yes"
 },
 "https://www.praetorian.com/careers": {
@@ -46088,5 +46152,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-14T23:15:12Z"
+"updated": "2026-10-15T04:40:21Z"
 }
