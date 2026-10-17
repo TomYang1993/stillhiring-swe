@@ -910,11 +910,12 @@
 },
 "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/platform-engineer-4_r170850-1": {
 "ats": "workday",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Adobe",
 "company_id": "recpRCIjVv7HCC37E",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Jose",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Platform Engineer 4",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Platform-Engineer-4_R170850-1",
@@ -1570,11 +1571,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/amer---canada---ontario---toronto---university-ave/senior-software-developer--precon_26wd98043-1": {
 "ats": "workday",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-14T13:44:23Z",
 "location": "3 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Developer, PreCon",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Senior-Software-Developer--PreCon_26WD98043-1",
@@ -1657,11 +1659,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/toronto-on-can/principal-backend-software-developer_26wd96355-1": {
 "ats": "workday",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-08T21:20:34Z",
 "location": "3 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal Software Developer",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Principal-Backend-Software-Developer_26WD96355-1",
@@ -1720,11 +1723,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/toronto-on-can/senior-software-developer_26wd96718": {
 "ats": "workday",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "2 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Developer",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Software-Developer_26WD96718",
@@ -9790,6 +9794,18 @@
 "url": "https://careers.nlsnow.com/jobs/681665-duck-creek-senior-developer-billing",
 "us": "yes"
 },
+"https://careers.nlsnow.com/jobs/721534-duck-creek-developer-ii-policy": {
+"ats": "teamtailor",
+"company": "Next Level Solutions",
+"company_id": "recXQ0ro6qcjFFgCe",
+"first_seen": "2026-10-17T04:27:11Z",
+"location": "Springfield, Springfield, United States / United States, Remote, United States",
+"open": true,
+"posted": "Fri, 16 Oct 2026 17:57:02 -0500",
+"title": "Duck Creek Developer II - Policy",
+"url": "https://careers.nlsnow.com/jobs/721534-duck-creek-developer-ii-policy",
+"us": "yes"
+},
 "https://careers.roblox.com/jobs/7332473": {
 "ats": "greenhouse",
 "company": "Roblox",
@@ -13501,12 +13517,11 @@
 },
 "https://huron.wd1.myworkdayjobs.com/huroncareers/job/chicago---550-van-buren/servicenow-developer--sr-associate-_jr-0016235": {
 "ats": "workday",
-"closed_at": "2026-10-09T20:55:01Z",
 "company": "Huron",
 "company_id": "recZjtrannEvIY4Ca",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "2 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "ServiceNow Developer (Sr. Associate)",
 "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/ServiceNow-Developer--Sr-Associate-_JR-0016235",
@@ -15253,7 +15268,7 @@
 "company": "Anthropic",
 "company_id": "rec5kwVgAYWhk4UoC",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "San Francisco, CA | New York City, NY | Seattle, WA",
+"location": "San Francisco, CA | New York City, NY",
 "open": true,
 "posted": "2026-01-08T15:47:40-05:00",
 "title": "Applied AI Engineer, Enterprise Tech",
@@ -17119,6 +17134,18 @@
 "posted": "2026-09-30T13:33:24-04:00",
 "title": "Staff Software Engineer, Compute and Network",
 "url": "https://job-boards.greenhouse.io/attentive/jobs/4424815009",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/attentive/jobs/4456112009": {
+"ats": "greenhouse",
+"company": "Attentive",
+"company_id": "recI2IEqW083yGfIW",
+"first_seen": "2026-10-17T04:27:11Z",
+"location": "United States",
+"open": true,
+"posted": "2026-10-16T20:05:40-04:00",
+"title": "Senior Software Engineer, Shopper Data Platform",
+"url": "https://job-boards.greenhouse.io/attentive/jobs/4456112009",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/audioeye/jobs/6225356004": {
@@ -20907,11 +20934,12 @@
 },
 "https://job-boards.greenhouse.io/khanacademy/jobs/8250259": {
 "ats": "greenhouse",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Khan Academy",
 "company_id": "recjUscewIIwtHRDm",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote (US + Canada Only)",
-"open": true,
+"open": false,
 "posted": "2026-10-05T10:46:40-04:00",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
@@ -26689,11 +26717,12 @@
 },
 "https://job-boards.greenhouse.io/zscaler/jobs/5265821007": {
 "ats": "greenhouse",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Zscaler",
 "company_id": "rec6vlXnqlTpgtdzt",
 "first_seen": "2026-10-15T23:04:32Z",
 "location": "Santa Clara, California, USA",
-"open": true,
+"open": false,
 "posted": "2026-10-15T17:21:29-04:00",
 "title": "Principal Software Development Engineer, Platform Engineering",
 "url": "https://job-boards.greenhouse.io/zscaler/jobs/5265821007",
@@ -37210,6 +37239,18 @@
 "url": "https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136",
 "us": "yes"
 },
+"https://jobs.lever.co/teamsnap/4f98ad5c-024f-4c4c-96f9-df171909aa1f": {
+"ats": "lever",
+"company": "TeamSnap",
+"company_id": "rec64MGx6S86u3ZQY",
+"first_seen": "2026-10-17T04:27:11Z",
+"location": "Remote / US",
+"open": true,
+"posted": 1792199809631,
+"title": "Staff Software Engineer (Android)",
+"url": "https://jobs.lever.co/teamsnap/4f98ad5c-024f-4c4c-96f9-df171909aa1f",
+"us": "yes"
+},
 "https://jobs.lever.co/teamsnap/58d0ad09-5a31-47c2-8cd0-251815b207d9": {
 "ats": "lever",
 "company": "TeamSnap",
@@ -37230,7 +37271,7 @@
 "location": "Remote / US",
 "open": true,
 "posted": 1786736374703,
-"title": "Senior Software Engineer (Backend)",
+"title": "Senior Backend Engineer",
 "url": "https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713",
 "us": "yes"
 },
@@ -40531,11 +40572,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -40543,11 +40585,12 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-17T04:27:11Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -47808,5 +47851,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-16T22:51:56Z"
+"updated": "2026-10-17T04:27:11Z"
 }
