@@ -16754,6 +16754,18 @@
 "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/anthropic/jobs/5456039008": {
+"ats": "greenhouse",
+"company": "Anthropic",
+"company_id": "rec5kwVgAYWhk4UoC",
+"first_seen": "2026-10-18T18:38:39Z",
+"location": "San Francisco, CA",
+"open": true,
+"posted": "2026-10-18T10:11:38-04:00",
+"title": "Principal Engineer Capacity/Compute",
+"url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
+"us": "yes"
+},
 "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002": {
 "ats": "greenhouse",
 "company": "Aquatic Capital Management",
@@ -40663,11 +40675,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-18T18:38:39Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -40675,11 +40688,12 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-18T18:38:39Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -47940,5 +47954,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-18T12:37:03Z"
+"updated": "2026-10-18T18:38:39Z"
 }
