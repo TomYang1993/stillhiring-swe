@@ -1547,11 +1547,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/alberta-can---remote/senior-software-developer_26wd101268-1": {
 "ats": "workday",
+"closed_at": "2026-10-18T22:26:06Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "7 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Developer",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Alberta-CAN---Remote/Senior-Software-Developer_26WD101268-1",
@@ -1644,6 +1645,18 @@
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1",
 "us": "maybe"
 },
+"https://autodesk.wd1.myworkdayjobs.com/ext/job/california-usa---remote/senior-principal-ai-ml-developer_26wd100188": {
+"ats": "workday",
+"company": "Autodesk",
+"company_id": "reczLXQrzqzQlKbZh",
+"first_seen": "2026-10-18T22:26:06Z",
+"location": "California, USA - Remote",
+"open": true,
+"posted": null,
+"title": "Senior Principal AI/ML Developer",
+"url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Senior-Principal-AI-ML-Developer_26WD100188",
+"us": "yes"
+},
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/montreal-qc-can/principal-software-engineer_24wd83815": {
 "ats": "workday",
 "company": "Autodesk",
@@ -1654,6 +1667,18 @@
 "posted": null,
 "title": "Principal Software Developer (Hybrid) - Product Data",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Principal-Software-Engineer_24WD83815",
+"us": "maybe"
+},
+"https://autodesk.wd1.myworkdayjobs.com/ext/job/ontario-can---remote/senior-applied-ai-ml-developer_26wd99788-1": {
+"ats": "workday",
+"company": "Autodesk",
+"company_id": "reczLXQrzqzQlKbZh",
+"first_seen": "2026-10-18T22:26:06Z",
+"location": "4 Locations",
+"open": true,
+"posted": null,
+"title": "Senior Applied AI/ML Developer",
+"url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Senior-Applied-AI-ML-Developer_26WD99788-1",
 "us": "maybe"
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/ontario-can---remote/senior-devops-developer_26wd100437-1": {
@@ -1683,11 +1708,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/sheffield-gbp/software-development-engineer-in-test_26wd100960-1": {
 "ats": "workday",
+"closed_at": "2026-10-18T22:26:06Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Sheffield, GBP",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Development Engineer in Test",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Development-Engineer-in-Test_26WD100960-1",
@@ -1772,11 +1798,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/toronto-on-can/software-developer--pipeline-integration_26wd100629-1": {
 "ats": "workday",
+"closed_at": "2026-10-18T22:26:06Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-15T13:26:55Z",
 "location": "3 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Developer, Pipeline Integration",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer--Pipeline-Integration_26WD100629-1",
@@ -14691,11 +14718,12 @@
 },
 "https://job-boards.greenhouse.io/affirm/jobs/7993030003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-18T22:26:06Z",
 "company": "Affirm",
 "company_id": "rec2ybztZlf2yizli",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote US",
-"open": true,
+"open": false,
 "posted": "2026-09-25T18:32:58-04:00",
 "title": "Staff Software Engineer, Backend (Trust and Safety)",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/7993030003",
@@ -40675,12 +40703,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-18T18:38:39Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -40688,12 +40715,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-18T18:38:39Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -46744,11 +46770,11 @@
 "company": "NexHealth",
 "company_id": "reclQmTppNnGW7Fz7",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Chicago, Illinois, United States",
+"location": "Seattle, Washington, United States",
 "open": true,
-"posted": "2026-10-09T14:34:44-04:00",
+"posted": "2026-10-09T14:35:02-04:00",
 "title": "Senior Software Engineer",
-"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219621004",
+"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6220067004",
 "us": "yes"
 },
 "https://www.praetorian.com/careers": {
@@ -47954,5 +47980,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-18T18:38:39Z"
+"updated": "2026-10-18T22:26:06Z"
 }
