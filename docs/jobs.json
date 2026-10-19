@@ -16794,6 +16794,30 @@
 "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/anthropic/jobs/5456405008": {
+"ats": "greenhouse",
+"company": "Anthropic",
+"company_id": "rec5kwVgAYWhk4UoC",
+"first_seen": "2026-10-19T04:41:22Z",
+"location": "New York City, NY",
+"open": true,
+"posted": "2026-10-18T20:49:28-04:00",
+"title": "Principal Engineer Capacity/Compute",
+"url": "https://job-boards.greenhouse.io/anthropic/jobs/5456405008",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/anthropic/jobs/5456406008": {
+"ats": "greenhouse",
+"company": "Anthropic",
+"company_id": "rec5kwVgAYWhk4UoC",
+"first_seen": "2026-10-19T04:41:22Z",
+"location": "Seattle, WA",
+"open": true,
+"posted": "2026-10-18T20:53:03-04:00",
+"title": "Principal Engineer Capacity/Compute",
+"url": "https://job-boards.greenhouse.io/anthropic/jobs/5456406008",
+"us": "yes"
+},
 "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002": {
 "ats": "greenhouse",
 "company": "Aquatic Capital Management",
@@ -22033,11 +22057,12 @@
 },
 "https://job-boards.greenhouse.io/mozilla/jobs/8189943": {
 "ats": "greenhouse",
+"closed_at": "2026-10-19T04:41:22Z",
 "company": "Mozilla",
 "company_id": "recX5Zkt2VHpxmgLw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote",
-"open": true,
+"open": false,
 "posted": "2026-09-25T11:41:17-04:00",
 "title": "Staff Application Engineer, Salesforce",
 "url": "https://job-boards.greenhouse.io/mozilla/jobs/8189943",
@@ -27567,6 +27592,18 @@
 "url": "https://jobs.ashbyhq.com/airwallex/9dee394c-6e2d-4314-98f1-ff313180bae4",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/airwallex/9ebfb692-a1b4-4eba-9c21-eaa705d02886": {
+"ats": "ashby",
+"company": "Airwallex",
+"company_id": "recNnMGv53brZv8SC",
+"first_seen": "2026-10-19T04:41:22Z",
+"location": "US - Seattle / United States",
+"open": true,
+"posted": "2026-10-19T03:25:13.302+00:00",
+"title": "Senior Frontend Engineer, Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/9ebfb692-a1b4-4eba-9c21-eaa705d02886",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/airwallex/af22a815-44f3-4217-ab91-c9861a949c45": {
 "ats": "ashby",
 "company": "Airwallex",
@@ -27579,6 +27616,18 @@
 "url": "https://jobs.ashbyhq.com/airwallex/af22a815-44f3-4217-ab91-c9861a949c45",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/airwallex/bb4b0d82-a68f-4949-9357-dc79a3636ab9": {
+"ats": "ashby",
+"company": "Airwallex",
+"company_id": "recNnMGv53brZv8SC",
+"first_seen": "2026-10-19T04:41:22Z",
+"location": "US - Seattle / United States",
+"open": true,
+"posted": "2026-10-19T03:25:59.649+00:00",
+"title": "Senior Software Engineer, Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/bb4b0d82-a68f-4949-9357-dc79a3636ab9",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/airwallex/be298e1a-9eed-4845-bc5c-57bf1aaa5589": {
 "ats": "ashby",
 "company": "Airwallex",
@@ -27589,6 +27638,18 @@
 "posted": "2026-07-29T09:18:46.019+00:00",
 "title": "Corporate Security Engineer",
 "url": "https://jobs.ashbyhq.com/airwallex/be298e1a-9eed-4845-bc5c-57bf1aaa5589",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/airwallex/c1ce5c89-9c88-4111-aa37-0a363d8f51c8": {
+"ats": "ashby",
+"company": "Airwallex",
+"company_id": "recNnMGv53brZv8SC",
+"first_seen": "2026-10-19T04:41:22Z",
+"location": "US - Seattle / United States",
+"open": true,
+"posted": "2026-10-19T03:27:04.746+00:00",
+"title": "Staff Software Engineer, Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/c1ce5c89-9c88-4111-aa37-0a363d8f51c8",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/airwallex/c581a0dd-619f-4462-87e0-5ee946b3283a": {
@@ -35401,11 +35462,12 @@
 },
 "https://jobs.ashbyhq.com/xero/c886a547-918d-4df1-8c23-93dda08b8618": {
 "ats": "ashby",
+"closed_at": "2026-10-19T04:41:22Z",
 "company": "Xero",
 "company_id": "recIEsqX4JClcA64E",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "NZ: Wellington: Xero One (19-23 Taranaki St) / AU: Melbourne: (260 Burwood Rd) / NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3) / AU: Sydney (45 Clarence St) / New Zealand",
-"open": true,
+"open": false,
 "posted": "2026-09-25T00:07:27.831+00:00",
 "title": "Senior Security Engineer - Cloud Platform",
 "url": "https://jobs.ashbyhq.com/xero/c886a547-918d-4df1-8c23-93dda08b8618",
@@ -40703,11 +40765,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-19T04:41:22Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -40715,11 +40778,12 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-19T04:41:22Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -44419,12 +44483,11 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usavareston/software-development-engineer---integration-platform--us-federal-_jr-0105495": {
 "ats": "workday",
-"closed_at": "2026-10-17T12:11:52Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA.VA.Reston",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Software Development Engineer - Integration Platform (US Federal)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495",
@@ -44626,11 +44689,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/vnmda-nang/senior-devops-engineer---da-nang_jr-0109934": {
 "ats": "workday",
+"closed_at": "2026-10-19T04:41:22Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-10T14:28:37Z",
 "location": "VNM.Da Nang",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior DevOps Engineer - Da Nang",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/VNMDa-Nang/Senior-DevOps-Engineer---Da-Nang_JR-0109934",
@@ -46770,11 +46834,11 @@
 "company": "NexHealth",
 "company_id": "reclQmTppNnGW7Fz7",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Seattle, Washington, United States",
+"location": "Chicago, Illinois, United States",
 "open": true,
-"posted": "2026-10-09T14:35:02-04:00",
+"posted": "2026-10-09T14:34:44-04:00",
 "title": "Senior Software Engineer",
-"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6220067004",
+"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219621004",
 "us": "yes"
 },
 "https://www.praetorian.com/careers": {
@@ -47980,5 +48044,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-18T22:26:06Z"
+"updated": "2026-10-19T04:41:22Z"
 }
