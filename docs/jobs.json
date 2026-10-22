@@ -1716,13 +1716,26 @@
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Software-Engineer--Education_26WD98536-2",
 "us": "maybe"
 },
+"https://autodesk.wd1.myworkdayjobs.com/ext/job/bengaluru-ind/principal-network-engineer_26wd98484-1": {
+"ats": "workday",
+"company": "Autodesk",
+"company_id": "reczLXQrzqzQlKbZh",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "2 Locations",
+"open": true,
+"posted": null,
+"title": "Principal Network DevOps Engineer",
+"url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Network-Engineer_26WD98484-1",
+"us": "maybe"
+},
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/bengaluru-ind/principal-network-security-engineer_26wd100041": {
 "ats": "workday",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-21T20:10:04Z",
 "location": "2 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal Network Security Engineer",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Network-Security-Engineer_26WD100041",
@@ -10084,7 +10097,7 @@
 "company": "Formlabs",
 "company_id": "recuLqovTvKIBmXqb",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Somerville, MA",
+"location": "Boston, MA",
 "open": true,
 "posted": "2026-01-16T14:58:45-05:00",
 "title": "Senior Embedded Software Engineer ",
@@ -10108,7 +10121,7 @@
 "company": "Formlabs",
 "company_id": "recuLqovTvKIBmXqb",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Somerville, MA",
+"location": "Boston, MA",
 "open": true,
 "posted": "2026-05-08T17:04:23-04:00",
 "title": "Embedded Software Engineer ",
@@ -10117,11 +10130,12 @@
 },
 "https://careers.formlabs.com/job/8241460/apply": {
 "ats": "greenhouse",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Formlabs",
 "company_id": "recuLqovTvKIBmXqb",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Somerville, MA",
-"open": true,
+"open": false,
 "posted": "2026-09-29T17:45:15-04:00",
 "title": "R&D Reliability/Test Engineer",
 "url": "https://careers.formlabs.com/job/8241460/apply/?gh_jid=8241460",
@@ -10141,11 +10155,12 @@
 },
 "https://careers.formlabs.com/job/8241465/apply": {
 "ats": "greenhouse",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Formlabs",
 "company_id": "recuLqovTvKIBmXqb",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Somerville, MA",
-"open": true,
+"open": false,
 "posted": "2026-09-29T17:45:20-04:00",
 "title": "R&D Reliability/Test Engineer - June 2027 Grads",
 "url": "https://careers.formlabs.com/job/8241465/apply/?gh_jid=8241465",
@@ -10209,6 +10224,18 @@
 "posted": "2026-10-20T17:46:39-04:00",
 "title": "Senior DevOps Engineer",
 "url": "https://careers.formlabs.com/job/8302880/apply/?gh_jid=8302880",
+"us": "yes"
+},
+"https://careers.formlabs.com/job/8311915/apply": {
+"ats": "greenhouse",
+"company": "Formlabs",
+"company_id": "recuLqovTvKIBmXqb",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "Boston, MA",
+"open": true,
+"posted": "2026-10-22T02:00:38-04:00",
+"title": "Senior R&D Reliability/Test Engineer",
+"url": "https://careers.formlabs.com/job/8311915/apply/?gh_jid=8311915",
 "us": "yes"
 },
 "https://careers.hellofresh.com/global/en/job/8097766": {
@@ -13012,11 +13039,12 @@
 },
 "https://eposnowgroup.bamboohr.com/careers/567": {
 "ats": "bamboohr",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Epos Now",
 "company_id": "receJ7snVbFZIrk3h",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Engineer IC3",
 "url": "https://eposnowgroup.bamboohr.com/careers/567",
@@ -20005,11 +20033,12 @@
 },
 "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Cohere Health",
 "company_id": "rec3pTaD8KcWt7ZgY",
 "first_seen": "2026-10-19T21:03:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-10-19T16:22:28-04:00",
 "title": "Software Engineer I, Integrations",
 "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003",
@@ -28967,6 +28996,18 @@
 "url": "https://jobs.ashbyhq.com/airwallex/9ebfb692-a1b4-4eba-9c21-eaa705d02886",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/airwallex/ad805889-55be-4ee2-9e82-afc55440bd2b": {
+"ats": "ashby",
+"company": "Airwallex",
+"company_id": "recNnMGv53brZv8SC",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "US - Seattle / United States",
+"open": true,
+"posted": "2026-10-22T07:07:06.916+00:00",
+"title": "Senior Software Engineer, Observability",
+"url": "https://jobs.ashbyhq.com/airwallex/ad805889-55be-4ee2-9e82-afc55440bd2b",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/airwallex/af22a815-44f3-4217-ab91-c9861a949c45": {
 "ats": "ashby",
 "company": "Airwallex",
@@ -29899,11 +29940,12 @@
 },
 "https://jobs.ashbyhq.com/chainalysis-careers/4808108e-6a69-46c4-b9da-930070562608": {
 "ats": "ashby",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Chainalysis",
 "company_id": "rec3XKfcL4nWSBM0Y",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote - USA / United States",
-"open": true,
+"open": false,
 "posted": "2026-07-23T19:48:22.843+00:00",
 "title": "Software Engineer II, Gov Systems",
 "url": "https://jobs.ashbyhq.com/chainalysis-careers/4808108e-6a69-46c4-b9da-930070562608",
@@ -37780,6 +37822,18 @@
 "url": "https://jobs.lever.co/aircall/cee775a1-2ac3-4ed3-8fac-72b87a602dc3",
 "us": "yes"
 },
+"https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719": {
+"ats": "lever",
+"company": "N1 Health",
+"company_id": "recKZYXaHoXEDta1Y",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "Boston, MA / US",
+"open": true,
+"posted": 1657221794593,
+"title": "Associate Data Ops Engineer",
+"url": "https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719",
+"us": "yes"
+},
 "https://jobs.lever.co/arcadia/16fb294b-eb50-4f1d-a3e9-fd0c34a8594e": {
 "ats": "lever",
 "company": "Arcadia",
@@ -39655,6 +39709,18 @@
 "url": "https://jobs.lever.co/thinkahead/77117feb-61fa-4195-9097-e34663d0eff8",
 "us": "maybe"
 },
+"https://jobs.lever.co/thinkahead/9200bbf1-3b43-4bf4-95e5-7d15c5d11001": {
+"ats": "lever",
+"company": "AHEAD",
+"company_id": "recH1ABvyMlqam8ua",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "United States / US",
+"open": true,
+"posted": 1792618146545,
+"title": "Senior Software Developer",
+"url": "https://jobs.lever.co/thinkahead/9200bbf1-3b43-4bf4-95e5-7d15c5d11001",
+"us": "yes"
+},
 "https://jobs.lever.co/thinkahead/94245c1a-52ad-4ee6-8717-b20a58c5474a": {
 "ats": "lever",
 "closed_at": "2026-10-20T04:51:48Z",
@@ -40086,11 +40152,12 @@
 },
 "https://jobs.lever.co/xsolla/3aff5760-0e40-4896-944a-980a2369608f": {
 "ats": "lever",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Xsolla",
 "company_id": "recDklx2gd0VH2cNk",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Baku / AZ",
-"open": true,
+"open": false,
 "posted": 1763389242690,
 "title": "Front-End Developer (Web & Mobile)",
 "url": "https://jobs.lever.co/xsolla/3aff5760-0e40-4896-944a-980a2369608f",
@@ -40172,11 +40239,12 @@
 },
 "https://jobs.lever.co/xsolla/8298ae62-cc3a-4110-be98-e27ade43c33f": {
 "ats": "lever",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Xsolla",
 "company_id": "recDklx2gd0VH2cNk",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Kuala Lumpur / MY",
-"open": true,
+"open": false,
 "posted": 1770289138023,
 "title": "Backend Engineer (PHP/Golang)",
 "url": "https://jobs.lever.co/xsolla/8298ae62-cc3a-4110-be98-e27ade43c33f",
@@ -41709,6 +41777,18 @@
 "url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-SAP-Developer--9-month-Fixed-Term-Contract-_0000038783",
 "us": "maybe"
 },
+"https://lego.wd103.myworkdayjobs.com/lego_external/job/billund/senior-software-engineer---data-migration_0000039621": {
+"ats": "workday",
+"company": "the LEGO Group",
+"company_id": "rec73lANmma5FJmus",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "",
+"open": true,
+"posted": null,
+"title": "Senior Software Engineer - Data Migration",
+"url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Software-Engineer---Data-Migration_0000039621",
+"us": "maybe"
+},
 "https://lego.wd103.myworkdayjobs.com/lego_external/job/billund/senior-software-engineer_0000038735": {
 "ats": "workday",
 "closed_at": "2026-10-07T15:33:54Z",
@@ -41795,6 +41875,18 @@
 "posted": null,
 "title": "Staff Engineer - Platform Engineering",
 "url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen/Staff-Engineer---Platform-Engineering_0000037927",
+"us": "maybe"
+},
+"https://lego.wd103.myworkdayjobs.com/lego_external/job/copenhagen/xmlname--associate--software-engineer---data-migration_0000039623": {
+"ats": "workday",
+"company": "the LEGO Group",
+"company_id": "rec73lANmma5FJmus",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "",
+"open": true,
+"posted": null,
+"title": "(Associate) Software Engineer - Data Migration",
+"url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen/XMLNAME--Associate--Software-Engineer---Data-Migration_0000039623",
 "us": "maybe"
 },
 "https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/software-developer_r-00194639-1": {
@@ -42991,12 +43083,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-21T13:49:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -43004,12 +43095,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-21T13:49:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -44219,11 +44309,12 @@
 },
 "https://redhat.wd5.myworkdayjobs.com/jobs/job/raanana/principal-software-engineer---openshift-virtualization-windows-guests_r-055739-1": {
 "ats": "workday",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "Red Hat",
 "company_id": "rec4qtzXDYWGmp4x5",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Raanana",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal Software Engineer - OpenShift Virtualization Windows Guests",
 "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raanana/Principal-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-055739-1",
@@ -45364,11 +45455,12 @@
 },
 "https://sumup.com/careers/positions/8874454002": {
 "ats": "greenhouse",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "SumUp",
 "company_id": "recG83Lvr58TeBWKT",
 "first_seen": "2026-10-07T15:33:54Z",
 "location": "Sofia, Bulgaria",
-"open": true,
+"open": false,
 "posted": "2026-10-07T07:37:44-04:00",
 "title": "Backend Engineer - Run & Grow",
 "url": "https://sumup.com/careers/positions/8874454002?gh_jid=8874454002",
@@ -45496,6 +45588,18 @@
 "posted": null,
 "title": "Senior Full Stack Developer",
 "url": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Makati-City-Ayala-Avenue/Senior-Developer_JR-0022992",
+"us": "maybe"
+},
+"https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/makati-city-ayala-avenue/senior-software-developer--fund-solutions_jr-0019619": {
+"ats": "workday",
+"company": "Apex Group Ltd",
+"company_id": "recDYl8760aC3Y2nC",
+"first_seen": "2026-10-22T13:48:27Z",
+"location": "Makati City, Ayala Avenue",
+"open": true,
+"posted": null,
+"title": "Senior Full Stack Software Engineer",
+"url": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Makati-City-Ayala-Avenue/Senior-Software-Developer--Fund-Solutions_JR-0019619",
 "us": "maybe"
 },
 "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/makati-city-ayala-avenue/software-developer--product-engineering_jr-0020313-1": {
@@ -45857,11 +45961,12 @@
 },
 "https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/associate-engineer---software---mobile-app-development_req370392-1": {
 "ats": "workday",
+"closed_at": "2026-10-22T13:48:27Z",
 "company": "T-Mobile",
 "company_id": "recFkNRwkmMQMvX1X",
 "first_seen": "2026-10-16T19:33:20Z",
 "location": "3 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Associate Engineer,  Software - Mobile App Development",
 "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
@@ -47899,7 +48004,7 @@
 "location": "Tel Aviv District, Israel",
 "open": true,
 "posted": "2026-08-19T03:10:22-04:00",
-"title": "Software Engineer \u2013 Cato Apps Team (AI) ",
+"title": "Senior Software Engineer \u2013 Cato Apps Team (AI) ",
 "url": "https://www.catonetworks.com/careers/careers-post/4953528101?gh_jid=4953528101",
 "us": "yes"
 },
@@ -50720,5 +50825,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-22T04:47:09Z"
+"updated": "2026-10-22T13:48:27Z"
 }
