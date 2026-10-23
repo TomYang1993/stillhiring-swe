@@ -199,12 +199,11 @@
 },
 "http://block.xyz/careers/jobs/5381381008": {
 "ats": "greenhouse",
-"closed_at": "2026-10-20T19:59:57Z",
 "company": "Block",
 "company_id": "rec18XzESnaUqmieI",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Bay Area, CA, United States of America",
-"open": false,
+"open": true,
 "posted": "2026-08-28T15:07:02-04:00",
 "title": "Software Engineer, Data Platform",
 "url": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
@@ -462,6 +461,18 @@
 "posted": "2026-10-20T13:46:42-04:00",
 "title": "Senior Software Engineer \u2014 Employee Experience Engineering (EXE)",
 "url": "http://block.xyz/careers/jobs/5453088008?gh_jid=5453088008",
+"us": "yes"
+},
+"http://block.xyz/careers/jobs/5453094008": {
+"ats": "greenhouse",
+"company": "Block",
+"company_id": "rec18XzESnaUqmieI",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Bay Area, CA, United States of America",
+"open": true,
+"posted": "2026-10-23T13:33:43-04:00",
+"title": "Senior Software Engineer, Developer Experience",
+"url": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
 "us": "yes"
 },
 "http://siteline.com/careers-listing": {
@@ -954,11 +965,12 @@
 },
 "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/operations-ai-developer_r170011-1": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Adobe",
 "company_id": "recpRCIjVv7HCC37E",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Jose",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Operations AI Developer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Operations-AI-Developer_R170011-1",
@@ -1628,12 +1640,11 @@
 },
 "https://ats.rippling.com/torus/jobs/c066d348-26ab-4a41-950a-f81b8c2fc599": {
 "ats": "rippling",
-"closed_at": "2026-10-14T20:12:28Z",
 "company": "Torus",
 "company_id": "recZiU3W6apWU0ZPP",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Salt Lake City, UT, US",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Supplier Quality and Reliability Engineer",
 "url": "https://ats.rippling.com/torus/jobs/c066d348-26ab-4a41-950a-f81b8c2fc599",
@@ -1865,11 +1876,12 @@
 },
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/san-francisco-ca-usa/principal-engineer--platform-services_26wd101134": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Autodesk",
 "company_id": "reczLXQrzqzQlKbZh",
 "first_seen": "2026-10-21T04:48:39Z",
 "location": "San Francisco, CA, USA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal Engineer, Platform Services",
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-Engineer--Platform-Services_26WD101134",
@@ -2209,6 +2221,18 @@
 "title": "Staff DevOps Engineer, Salesforce",
 "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-FL---Stuart-Airport-Road/Staff-DevOps-Engineer--Salesforce_R-550928-1",
 "us": "maybe"
+},
+"https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/usa-ne---broken-bow/equipment-reliability-engineer_r-557209-1": {
+"ats": "workday",
+"company": "BD",
+"company_id": "recKk4aLoHNHwWDTh",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "USA NE - Broken Bow",
+"open": true,
+"posted": null,
+"title": "Equipment Reliability Engineer",
+"url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Broken-Bow/Equipment-Reliability-Engineer_R-557209-1",
+"us": "yes"
 },
 "https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/usa-nj---franklin-lakes/staff-engineer-material-engineering--hybrid--franklin-lakes--nj-_r-555965-1": {
 "ats": "workday",
@@ -9552,6 +9576,18 @@
 "url": "https://boards.greenhouse.io/spacex/jobs/8907619002?gh_jid=8907619002",
 "us": "yes"
 },
+"https://boards.greenhouse.io/spacex/jobs/8910071002": {
+"ats": "greenhouse",
+"company": "SpaceX",
+"company_id": "reccEp5jDQy5044Zw",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Hawthorne, CA",
+"open": true,
+"posted": "2026-10-23T15:46:55-04:00",
+"title": "AI Software Engineer (Vehicle Engineering)",
+"url": "https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002",
+"us": "yes"
+},
 "https://boards.greenhouse.io/tomorrow/jobs/7805860003": {
 "ats": "greenhouse",
 "company": "Tomorrow.io",
@@ -12342,6 +12378,18 @@
 "url": "https://careers.roblox.com/jobs/8260221?gh_jid=8260221",
 "us": "yes"
 },
+"https://careers.roblox.com/jobs/8261393": {
+"ats": "greenhouse",
+"company": "Roblox",
+"company_id": "rec20wjQhppThtvoi",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "San Mateo, CA, United States",
+"open": true,
+"posted": "2026-10-23T15:02:33-04:00",
+"title": "Software Engineer, Notifications",
+"url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
+"us": "yes"
+},
 "https://careers.roblox.com/jobs/8262223": {
 "ats": "greenhouse",
 "company": "Roblox",
@@ -12388,6 +12436,18 @@
 "posted": "2026-10-21T13:43:44-04:00",
 "title": "Principal Network Security Engineer",
 "url": "https://careers.roblox.com/jobs/8283467?gh_jid=8283467",
+"us": "yes"
+},
+"https://careers.roblox.com/jobs/8283707": {
+"ats": "greenhouse",
+"company": "Roblox",
+"company_id": "rec20wjQhppThtvoi",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "San Mateo, CA, United States",
+"open": true,
+"posted": "2026-10-23T13:53:14-04:00",
+"title": "Software Engineer, Reliability ",
+"url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
 "us": "yes"
 },
 "https://careers.roblox.com/jobs/8287853": {
@@ -12709,11 +12769,12 @@
 },
 "https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/gurgaon/software-engineer-team-lead_r21210": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Criteo",
 "company_id": "recJI3ploABc4ibHs",
 "first_seen": "2026-10-23T13:27:35Z",
 "location": "Gurgaon",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Engineer Team Lead",
 "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Software-Engineer-Team-Lead_r21210",
@@ -13070,11 +13131,12 @@
 },
 "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/senior-sdet---ai-detection-and-response--aidr---hybrid-_r29795": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "CrowdStrike",
 "company_id": "rec3b771w9lpJz0LK",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA - Sunnyvale, CA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
 "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Senior-SDET---AI-Detection-and-Response--AIDR---Hybrid-_R29795",
@@ -13143,14 +13205,27 @@
 },
 "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/sr-engineer--sdet---ai-detection-and-response--aidr---hybrid--sunnyvale-_r29789": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "CrowdStrike",
 "company_id": "rec3b771w9lpJz0LK",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA - Sunnyvale, CA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Sr. Engineer, SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
 "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer--SDET---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29789",
+"us": "yes"
+},
+"https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/sr-software-engineer--cloud---fusion--hybrid--sunnyvale-_r30384": {
+"ats": "workday",
+"company": "CrowdStrike",
+"company_id": "rec3b771w9lpJz0LK",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "USA - Sunnyvale, CA",
+"open": true,
+"posted": null,
+"title": "Sr Software Engineer, Cloud - Fusion (Hybrid, Sunnyvale)",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer--Cloud---Fusion--Hybrid--Sunnyvale-_R30384",
 "us": "yes"
 },
 "https://crowe.wd12.myworkdayjobs.com/external_careers/job/noida-uttar-pradesh-india/senior-etl-developer-3rd_r-52534-1": {
@@ -13854,11 +13929,12 @@
 },
 "https://genesys.wd1.myworkdayjobs.com/genesys/job/chennai-flexible/srprincipal-software-engineer_jr112665": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Genesys",
 "company_id": "rec2z4dfqNd2hD4Vn",
 "first_seen": "2026-10-15T13:26:55Z",
 "location": "4 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Sr.Principal Software Engineer",
 "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Chennai-Flexible/SrPrincipal-Software-Engineer_JR112665",
@@ -15490,11 +15566,12 @@
 },
 "https://job-boards.greenhouse.io/affirm/jobs/7799631003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Affirm",
 "company_id": "rec2ybztZlf2yizli",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote US",
-"open": true,
+"open": false,
 "posted": "2026-07-10T14:56:39-04:00",
 "title": "Senior Software Engineer",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003",
@@ -16240,11 +16317,12 @@
 },
 "https://job-boards.greenhouse.io/anthropic/jobs/4720576008": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Anthropic",
 "company_id": "rec5kwVgAYWhk4UoC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-"open": true,
+"open": false,
 "posted": "2025-05-22T16:19:35-04:00",
 "title": "TPU Kernel Engineer",
 "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
@@ -18828,12 +18906,11 @@
 },
 "https://job-boards.greenhouse.io/axon/jobs/7704335003": {
 "ats": "greenhouse",
-"closed_at": "2026-10-16T19:33:20Z",
 "company": "Axon",
 "company_id": "recdhAqWt46JPjxNM",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Seattle, Washington, United States",
-"open": false,
+"open": true,
 "posted": "2026-06-24T08:56:44-04:00",
 "title": "Senior Software Engineer I ",
 "url": "https://job-boards.greenhouse.io/axon/jobs/7704335003",
@@ -19517,6 +19594,30 @@
 "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8279128",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/beyondtrust/jobs/8300876": {
+"ats": "greenhouse",
+"company": "BeyondTrust",
+"company_id": "recxyEj3m5SoYkqwA",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Remote United States ",
+"open": true,
+"posted": "2026-10-23T12:37:20-04:00",
+"title": "Associate Data Engineer  ",
+"url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/bloomreach/jobs/4806204": {
+"ats": "greenhouse",
+"company": "Bloomreach",
+"company_id": "recsvneWua6i9My5A",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Slovakia",
+"open": true,
+"posted": "2025-04-04T11:33:41-04:00",
+"title": "Senior Data Engineer, Datacraft team",
+"url": "https://job-boards.greenhouse.io/bloomreach/jobs/4806204",
+"us": "maybe"
+},
 "https://job-boards.greenhouse.io/bloomreach/jobs/7127780": {
 "ats": "greenhouse",
 "company": "Bloomreach",
@@ -19539,6 +19640,18 @@
 "posted": "2025-08-01T10:09:08-04:00",
 "title": "Senior AI/ML Engineer ",
 "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7127781",
+"us": "maybe"
+},
+"https://job-boards.greenhouse.io/bloomreach/jobs/7180575": {
+"ats": "greenhouse",
+"company": "Bloomreach",
+"company_id": "recsvneWua6i9My5A",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Czechia",
+"open": true,
+"posted": "2025-08-20T11:05:26-04:00",
+"title": "Senior Data Engineer, Datacraft team",
+"url": "https://job-boards.greenhouse.io/bloomreach/jobs/7180575",
 "us": "maybe"
 },
 "https://job-boards.greenhouse.io/bloomreach/jobs/7686682": {
@@ -21077,6 +21190,18 @@
 "title": "Senior AI Engineer",
 "url": "https://job-boards.greenhouse.io/gomotive/jobs/8814872002",
 "us": "maybe"
+},
+"https://job-boards.greenhouse.io/gomotive/jobs/8912395002": {
+"ats": "greenhouse",
+"company": "Motive",
+"company_id": "recP81ui48qeCMJpr",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "United States - Remote",
+"open": true,
+"posted": "2026-10-23T15:37:37-04:00",
+"title": "Red Team Security Engineer",
+"url": "https://job-boards.greenhouse.io/gomotive/jobs/8912395002",
+"us": "yes"
 },
 "https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004": {
 "ats": "greenhouse",
@@ -23215,6 +23340,18 @@
 "url": "https://job-boards.greenhouse.io/mercury/jobs/6221407004",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/mercury/jobs/6233238004": {
+"ats": "greenhouse",
+"company": "Mercury",
+"company_id": "rec8u8BFgmIQ8t4PH",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+"open": true,
+"posted": "2026-10-23T11:09:13-04:00",
+"title": "Software Engineer - Mercury Command",
+"url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+"us": "yes"
+},
 "https://job-boards.greenhouse.io/mitratech/jobs/8060928": {
 "ats": "greenhouse",
 "closed_at": "2026-10-06T20:59:07Z",
@@ -23250,6 +23387,18 @@
 "posted": "2026-09-10T13:27:03-04:00",
 "title": "Sr Software Engineer ",
 "url": "https://job-boards.greenhouse.io/mitratech/jobs/8180269",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/mitratech/jobs/8301932": {
+"ats": "greenhouse",
+"company": "Mitratech Trakstar",
+"company_id": "recw6IvPBX7mrlZ9p",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Remote US",
+"open": true,
+"posted": "2026-10-23T10:45:10-04:00",
+"title": "Sr Full Stack Engineer",
+"url": "https://job-boards.greenhouse.io/mitratech/jobs/8301932",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/moloco/jobs/7519526003": {
@@ -23620,11 +23769,12 @@
 },
 "https://job-boards.greenhouse.io/myfitnesspal/jobs/8191556": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "MyFitnessPal",
 "company_id": "recm5WO7PVLlhNkIw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote - US",
-"open": true,
+"open": false,
 "posted": "2026-09-10T12:30:21-04:00",
 "title": "Staff Data Engineer",
 "url": "https://job-boards.greenhouse.io/myfitnesspal/jobs/8191556",
@@ -24155,11 +24305,12 @@
 },
 "https://job-boards.greenhouse.io/onetrust/jobs/8138824": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "OneTrust",
 "company_id": "recT3cymDEGbAuTqr",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Atlanta, Georgia",
-"open": true,
+"open": false,
 "posted": "2026-09-02T17:06:59-04:00",
 "title": "Staff Software Engineer - AI Governance ",
 "url": "https://job-boards.greenhouse.io/onetrust/jobs/8138824",
@@ -24180,11 +24331,12 @@
 },
 "https://job-boards.greenhouse.io/onetrust/jobs/8144829": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "OneTrust",
 "company_id": "recT3cymDEGbAuTqr",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Atlanta, Georgia",
-"open": true,
+"open": false,
 "posted": "2026-09-03T14:02:05-04:00",
 "title": "Staff Software Engineer - Consent & Preferences",
 "url": "https://job-boards.greenhouse.io/onetrust/jobs/8144829",
@@ -24692,11 +24844,12 @@
 },
 "https://job-boards.greenhouse.io/relaypro/jobs/6140280": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Relay",
 "company_id": "rec6WEfqyVqMualBC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Raleigh, NC",
-"open": true,
+"open": false,
 "posted": "2024-08-19T15:23:22-04:00",
 "title": "Associate QA Engineer",
 "url": "https://job-boards.greenhouse.io/relaypro/jobs/6140280",
@@ -25285,6 +25438,18 @@
 "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8265318",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/smartsheet/jobs/8317967": {
+"ats": "greenhouse",
+"company": "Smartsheet",
+"company_id": "recgHLP6Q9MX0hOZp",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": " -REMOTE, BULGARIA-",
+"open": true,
+"posted": "2026-10-23T09:46:38-04:00",
+"title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+"url": "https://job-boards.greenhouse.io/smartsheet/jobs/8317967",
+"us": "maybe"
+},
 "https://job-boards.greenhouse.io/smithrx/jobs/8785837002": {
 "ats": "greenhouse",
 "company": "SmithRx",
@@ -25624,11 +25789,12 @@
 },
 "https://job-boards.greenhouse.io/thetradedesk/jobs/5120331007": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "The Trade Desk",
 "company_id": "recEnbaGFWwo9f4M7",
 "first_seen": "2026-10-08T21:20:34Z",
 "location": "Boulder",
-"open": true,
+"open": false,
 "posted": "2026-04-27T11:53:57-04:00",
 "title": "Full Stack Software Engineer II - Omnichannel ",
 "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5120331007",
@@ -26578,11 +26744,12 @@
 },
 "https://job-boards.greenhouse.io/turing/jobs/6225409004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Turing",
 "company_id": "recySgnHgBNllmHIq",
 "first_seen": "2026-10-19T21:03:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-10-19T16:22:17-04:00",
 "title": "Senior Software Engineer, AI Evaluation Infrastructure",
 "url": "https://job-boards.greenhouse.io/turing/jobs/6225409004",
@@ -27100,11 +27267,12 @@
 },
 "https://job-boards.greenhouse.io/verkada/jobs/5233103007": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Verkada",
 "company_id": "recsODhGLdNyhl8VC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Mateo, CA United States",
-"open": true,
+"open": false,
 "posted": "2026-09-08T22:42:35-04:00",
 "title": "Senior Backend Engineer - Access Control",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5233103007",
@@ -27302,7 +27470,7 @@
 "location": "San Mateo, CA United States",
 "open": true,
 "posted": "2026-10-21T15:12:37-04:00",
-"title": "Senior Software Engineer, Developer AI",
+"title": "Senior/Staff Software Engineer, Developer AI",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5270787007",
 "us": "yes"
 },
@@ -27328,6 +27496,18 @@
 "posted": "2026-10-22T17:51:48-04:00",
 "title": "Senior Software Engineer - Computer Vision",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5273085007",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/verkada/jobs/5273882007": {
+"ats": "greenhouse",
+"company": "Verkada",
+"company_id": "recsODhGLdNyhl8VC",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "San Mateo, CA United States",
+"open": true,
+"posted": "2026-10-23T12:59:05-04:00",
+"title": "Senior Backend Engineer - Access Control",
+"url": "https://job-boards.greenhouse.io/verkada/jobs/5273882007",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/vestmark/jobs/8009953": {
@@ -29064,11 +29244,12 @@
 },
 "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Abridge",
 "company_id": "recSZvwgAJxbgkqcQ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "SF Office / USA",
-"open": true,
+"open": false,
 "posted": "2026-09-01T15:49:39.626+00:00",
 "title": "Member of Technical Staff, Data",
 "url": "https://jobs.ashbyhq.com/Abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
@@ -30523,13 +30704,12 @@
 },
 "https://jobs.ashbyhq.com/circle/cb085d54-568c-46b3-829f-b18885c6cda2": {
 "ats": "ashby",
-"closed_at": "2026-10-22T20:07:17Z",
 "company": "Circle",
 "company_id": "recbjEpq9j4eIbFy3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Anywhere / Europe, Middle East, Africa, Asia-Pacific (EMEA, APAC) / United States",
-"open": false,
-"posted": "2026-09-23T18:13:24.032+00:00",
+"open": true,
+"posted": "2026-10-23T18:50:38.387+00:00",
 "title": "Lead Engineer, AI Platform",
 "url": "https://jobs.ashbyhq.com/circle/cb085d54-568c-46b3-829f-b18885c6cda2",
 "us": "yes"
@@ -31419,11 +31599,12 @@
 },
 "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Docebo",
 "company_id": "recPxJXQG5t0ed3wQ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Atlanta, Georgia / Athens, Georgia / Indiana, Indianapolis / United States",
-"open": true,
+"open": false,
 "posted": "2026-08-27T18:06:39.532+00:00",
 "title": "Senior Cloud Engineer I",
 "url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb",
@@ -31541,11 +31722,12 @@
 },
 "https://jobs.ashbyhq.com/docker/57ccbca7-6818-4e34-8f31-bf762e1f4e00": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Docker, Inc",
 "company_id": "recI7gLNrphSLdsTK",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco Bay Area / Seattle, WA / United States",
-"open": true,
+"open": false,
 "posted": "2026-07-27T19:04:38.261+00:00",
 "title": "Staff Software Engineer, Networking (Seattle or SF Bay Area) ",
 "url": "https://jobs.ashbyhq.com/docker/57ccbca7-6818-4e34-8f31-bf762e1f4e00",
@@ -31685,11 +31867,12 @@
 },
 "https://jobs.ashbyhq.com/docker/c7d880eb-4fb5-48db-b325-595cc8a8d017": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Docker, Inc",
 "company_id": "recI7gLNrphSLdsTK",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco Bay Area / Seattle, WA / United States",
-"open": true,
+"open": false,
 "posted": "2026-07-27T16:48:02.942+00:00",
 "title": "Principal Software Engineer, Networking (Seattle or SF Bay Area)",
 "url": "https://jobs.ashbyhq.com/docker/c7d880eb-4fb5-48db-b325-595cc8a8d017",
@@ -31851,6 +32034,18 @@
 "posted": "2026-05-30T00:39:10.289+00:00",
 "title": "Senior Product Engineer 2, Evidence",
 "url": "https://jobs.ashbyhq.com/drata/855d1119-f88e-4421-b0f3-884926f48a21",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/drata/9abb3432-fd1b-4258-acdc-3f4131ef1414": {
+"ats": "ashby",
+"company": "Drata",
+"company_id": "rec2H4t8K80GENFvB",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Hybrid - San Francisco / United States",
+"open": true,
+"posted": "2026-10-23T16:56:05.303+00:00",
+"title": "Staff Software Engineer, Evidence & Frameworks",
+"url": "https://jobs.ashbyhq.com/drata/9abb3432-fd1b-4258-acdc-3f4131ef1414",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/drata/bd805999-f4de-4d49-8937-179a8f1d963f": {
@@ -33007,6 +33202,18 @@
 "url": "https://jobs.ashbyhq.com/ironcladhq/fa6f1cdc-4e73-4041-a8cc-aeb26a75e647",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/iterable/00f45628-ae53-4f95-a414-e3e8fdc7155d": {
+"ats": "ashby",
+"company": "Iterable",
+"company_id": "rec5gnZN0cecaJvpM",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "REMOTE - US / Chicago, IL / Atlanta, GA / Austin, TX / Boston, MA / Denver, CO / United States",
+"open": true,
+"posted": "2026-10-23T18:44:41.471+00:00",
+"title": "Senior Cloud Security Engineer",
+"url": "https://jobs.ashbyhq.com/iterable/00f45628-ae53-4f95-a414-e3e8fdc7155d",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/iterable/168956eb-0ff2-492e-b058-adb917685e90": {
 "ats": "ashby",
 "company": "Iterable",
@@ -33748,11 +33955,12 @@
 },
 "https://jobs.ashbyhq.com/opengov/4889ede1-05e3-4453-b0db-e465c5b0a14c": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "OpenGov Inc.",
 "company_id": "recMQbDePSyE0MFwq",
 "first_seen": "2026-10-15T13:26:55Z",
 "location": "US | Massachusetts | Boston / United States",
-"open": true,
+"open": false,
 "posted": "2026-10-15T05:09:21.891+00:00",
 "title": "Staff Software Engineer",
 "url": "https://jobs.ashbyhq.com/opengov/4889ede1-05e3-4453-b0db-e465c5b0a14c",
@@ -33773,11 +33981,12 @@
 },
 "https://jobs.ashbyhq.com/opengov/b1fb46e0-36f4-49e4-bb9e-0340a4624d9d": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "OpenGov Inc.",
 "company_id": "recMQbDePSyE0MFwq",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US | Georgia | Atlanta / United States",
-"open": true,
+"open": false,
 "posted": "2026-09-23T10:02:54.928+00:00",
 "title": "Sr Software Engineer - Full Stack",
 "url": "https://jobs.ashbyhq.com/opengov/b1fb46e0-36f4-49e4-bb9e-0340a4624d9d",
@@ -33797,11 +34006,12 @@
 },
 "https://jobs.ashbyhq.com/opengov/f6a01aa0-4ab9-4646-b2c4-611e46547370": {
 "ats": "ashby",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "OpenGov Inc.",
 "company_id": "recMQbDePSyE0MFwq",
 "first_seen": "2026-10-13T19:18:13Z",
 "location": "US | Massachusetts | Boston / United States",
-"open": true,
+"open": false,
 "posted": "2026-10-13T18:02:54.486+00:00",
 "title": "Senior DevOps Engineer",
 "url": "https://jobs.ashbyhq.com/opengov/f6a01aa0-4ab9-4646-b2c4-611e46547370",
@@ -35378,7 +35588,7 @@
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Vancouver, British Columbia / Canada",
 "open": true,
-"posted": "2026-08-06T16:49:13.873+00:00",
+"posted": "2026-10-23T18:25:02.452+00:00",
 "title": "Software Engineer II, Vehicle Data Services",
 "url": "https://jobs.ashbyhq.com/rivianvw.tech/840928b2-010b-413b-b614-edf7f01dbc4c",
 "us": "yes"
@@ -35686,6 +35896,18 @@
 "posted": "2026-10-20T16:57:23.893+00:00",
 "title": "Senior Systems Integration Engineer, Simulation Platform",
 "url": "https://jobs.ashbyhq.com/rivianvw.tech/ee289eda-fcf3-4c44-b874-3723c82d5bdf",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/rivianvw.tech/f49a1fde-a2e0-43fb-b050-00e28ee001df": {
+"ats": "ashby",
+"company": "Rivian and Volkswagen Group Technologies",
+"company_id": "recVPZqkDOKAbplq9",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Irvine, California / United States",
+"open": true,
+"posted": "2026-10-23T15:51:45.424+00:00",
+"title": "Staff Data Platform Engineer",
+"url": "https://jobs.ashbyhq.com/rivianvw.tech/f49a1fde-a2e0-43fb-b050-00e28ee001df",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/rivianvw.tech/f90e082a-8007-42bf-a97a-b737f7cf4771": {
@@ -36065,6 +36287,18 @@
 "posted": "2026-09-11T16:06:10.471+00:00",
 "title": "Senior Software Engineer - Security Foundations",
 "url": "https://jobs.ashbyhq.com/snowflake/1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/snowflake/22e84b77-4bc4-4a31-99fb-f325ed9a9590": {
+"ats": "ashby",
+"company": "Snowflake",
+"company_id": "rec9swSfeg0Xu9WW6",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "US-CA-Menlo Park / United States",
+"open": true,
+"posted": "2026-10-20T19:59:04.700+00:00",
+"title": "Principal Software Engineer - Parameters & Experimentation",
+"url": "https://jobs.ashbyhq.com/snowflake/22e84b77-4bc4-4a31-99fb-f325ed9a9590",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2": {
@@ -36844,6 +37078,18 @@
 "url": "https://jobs.ashbyhq.com/snowflake/e47d5736-b86b-4c10-a487-4cc3a012096e",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754": {
+"ats": "ashby",
+"company": "Snowflake",
+"company_id": "rec9swSfeg0Xu9WW6",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "US-WA-Bellevue / United States",
+"open": true,
+"posted": "2026-10-23T17:13:25.909+00:00",
+"title": "Software Engineer",
+"url": "https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/snowflake/eb080f61-42f2-4bec-91d3-9c0466ea5918": {
 "ats": "ashby",
 "company": "Snowflake",
@@ -37128,16 +37374,15 @@
 },
 "https://jobs.ashbyhq.com/swarmaero/f7f62a1c-b260-4353-9126-da1d64d72548": {
 "ats": "ashby",
-"closed_at": "2026-10-21T20:10:04Z",
 "company": "Swarm Aero",
 "company_id": "reckp2py0XPchQCka",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Remote",
-"open": false,
-"posted": "2026-10-13T18:08:25.532+00:00",
-"title": "Senior Forward Deployed Engineer",
+"location": "Oxnard / United States",
+"open": true,
+"posted": "2026-10-23T15:53:40.862+00:00",
+"title": "Forward Deployed Engineer - Embedded",
 "url": "https://jobs.ashbyhq.com/swarmaero/f7f62a1c-b260-4353-9126-da1d64d72548",
-"us": "maybe"
+"us": "yes"
 },
 "https://jobs.ashbyhq.com/sydecar/0b2709c1-f366-4d8f-bd30-d7bfe6e8fd4a": {
 "ats": "ashby",
@@ -37417,6 +37662,18 @@
 "posted": "2026-10-19T21:10:53.814+00:00",
 "title": "Principal Software Engineer ",
 "url": "https://jobs.ashbyhq.com/uipath/3cc74eaf-9e74-462b-863a-583d3aaff6c4",
+"us": "yes"
+},
+"https://jobs.ashbyhq.com/uipath/6a2c70cc-6106-4df8-ab2d-5cc550acc572": {
+"ats": "ashby",
+"company": "UiPath",
+"company_id": "recQkqjM3MQMqxJrL",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "Bellevue / United States",
+"open": true,
+"posted": "2026-10-23T19:56:04.959+00:00",
+"title": "Senior Software Engineer -AI",
+"url": "https://jobs.ashbyhq.com/uipath/6a2c70cc-6106-4df8-ab2d-5cc550acc572",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/uipath/b14e2af1-b75f-42e7-a01b-e0a512e09d4d": {
@@ -38899,7 +39156,7 @@
 "location": "San Jose, California / US",
 "open": true,
 "posted": 1743441396885,
-"title": "SDET, Data",
+"title": "Senior Software Engineer, Data",
 "url": "https://jobs.lever.co/floqast/377c7e59-f9b6-446c-b3bf-333d64c39b41",
 "us": "yes"
 },
@@ -38947,7 +39204,7 @@
 "location": "San Jose, California / US",
 "open": true,
 "posted": 1788458554080,
-"title": "Senior Quality Engineer, Data Platform",
+"title": "SDET, Data Platform",
 "url": "https://jobs.lever.co/floqast/84e82d03-4391-43e3-a800-fa2a87e74d70",
 "us": "yes"
 },
@@ -39037,11 +39294,12 @@
 },
 "https://jobs.lever.co/goodleap/45148b63-eec4-4e8c-9ac6-de8431dfd702": {
 "ats": "lever",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "GoodLeap",
 "company_id": "recVhVjYmGHuztxGb",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco, CA / Austin, TX / Lehi, UT / Plano, TX / West Palm Beach, FL / Dallas, TX / Irvine, CA / Roseville, CA - HQ / US",
-"open": true,
+"open": false,
 "posted": 1788927146549,
 "title": "Staff Software Engineer",
 "url": "https://jobs.lever.co/goodleap/45148b63-eec4-4e8c-9ac6-de8431dfd702",
@@ -39811,11 +40069,12 @@
 },
 "https://jobs.lever.co/mbrdna/63589153-d2c0-46b6-a190-73cdbaa27068": {
 "ats": "lever",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Mercedes-Benz Research & Development North America, Inc.",
 "company_id": "reckmdi7bjWtBw2DK",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Jose, CA/Atlanta, GA/Ann Arbor, MI/Remote / US",
-"open": true,
+"open": false,
 "posted": 1785357279952,
 "title": "Software Compliance Engineer (Contractor)",
 "url": "https://jobs.lever.co/MBRDNA/63589153-d2c0-46b6-a190-73cdbaa27068",
@@ -40081,11 +40340,12 @@
 },
 "https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735": {
 "ats": "lever",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Rover.com",
 "company_id": "recTbfqjzJtyeeABV",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Seattle / US",
-"open": true,
+"open": false,
 "posted": 1786752313034,
 "title": "Software Engineer, Price Experience",
 "url": "https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735",
@@ -43477,11 +43737,12 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/senior-software-engineer_r-282821": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Mastercard",
 "company_id": "recgWQkJgT9Duul1s",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "O'Fallon, Missouri",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Engineer",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-282821",
@@ -46006,16 +46267,64 @@
 "url": "https://sofi.com/careers/job/8017077003?gh_jid=8017077003",
 "us": "yes"
 },
+"https://sofi.com/careers/job/8042378003": {
+"ats": "greenhouse",
+"company": "SoFi",
+"company_id": "recLs6KvBYEhfz6cH",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "WA - Seattle ",
+"open": true,
+"posted": "2026-10-23T09:32:22-04:00",
+"title": "Senior Software Engineer",
+"url": "https://sofi.com/careers/job/8042378003?gh_jid=8042378003",
+"us": "yes"
+},
+"https://sofi.com/careers/job/8042385003": {
+"ats": "greenhouse",
+"company": "SoFi",
+"company_id": "recLs6KvBYEhfz6cH",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "WA - Seattle",
+"open": true,
+"posted": "2026-10-23T09:34:12-04:00",
+"title": "Senior Software Engineer",
+"url": "https://sofi.com/careers/job/8042385003?gh_jid=8042385003",
+"us": "yes"
+},
+"https://sofi.com/careers/job/8042389003": {
+"ats": "greenhouse",
+"company": "SoFi",
+"company_id": "recLs6KvBYEhfz6cH",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "WA - Seattle",
+"open": true,
+"posted": "2026-10-23T09:35:12-04:00",
+"title": "Senior Software Engineer, AML Engineering",
+"url": "https://sofi.com/careers/job/8042389003?gh_jid=8042389003",
+"us": "yes"
+},
+"https://sofi.com/careers/job/8042391003": {
+"ats": "greenhouse",
+"company": "SoFi",
+"company_id": "recLs6KvBYEhfz6cH",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "WA - Seattle",
+"open": true,
+"posted": "2026-10-23T09:37:06-04:00",
+"title": "Software Engineer, AML",
+"url": "https://sofi.com/careers/job/8042391003?gh_jid=8042391003",
+"us": "yes"
+},
 "https://stripe.com/jobs/search": {
 "ats": "greenhouse",
 "company": "Stripe",
 "company_id": "recLVZd9ud9YX3tfY",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Chicago",
+"location": "San Francisco, Seattle",
 "open": true,
-"posted": "2026-10-07T11:39:36-04:00",
-"title": "AI Engineer",
-"url": "https://stripe.com/jobs/search?gh_jid=8144196",
+"posted": "2026-01-22T10:20:45-05:00",
+"title": "Android Engineer, Terminal OS Platform",
+"url": "https://stripe.com/jobs/search?gh_jid=7557403",
 "us": "yes"
 },
 "https://stryker.wd1.myworkdayjobs.com/strykercareers/job/denver-colorado/senior-product-engineer_r569738": {
@@ -47441,11 +47750,12 @@
 },
 "https://visa.wd5.myworkdayjobs.com/visa/job/us---bellevue-wa/full-stack-senior-consultant--software-engineer--generative-ai_ref088661w": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Featurespace",
 "company_id": "rec7eM9HBflPeGzbQ",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US - Bellevue, WA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Staff Fullstack Engineer (Sr. Consultant) - Corporate GenAI Technologies",
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Full-Stack-Senior-Consultant--Software-Engineer--Generative-AI_REF088661W",
@@ -47677,6 +47987,18 @@
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Senior-Software-Development-Engineer_JR-0109842",
 "us": "maybe"
 },
+"https://workday.wd5.myworkdayjobs.com/workday/job/usa-co-boulder/software-development-engineer---ai-infrastructure-development-platform_jr-0110276": {
+"ats": "workday",
+"company": "Workday",
+"company_id": "recpuddymbqf3Jzbo",
+"first_seen": "2026-10-23T19:57:30Z",
+"location": "2 Locations",
+"open": true,
+"posted": null,
+"title": "Software Development Engineer - AI Infrastructure Development Platform",
+"url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---AI-Infrastructure-Development-Platform_JR-0110276",
+"us": "maybe"
+},
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-co-boulder/sr-software-development-engineer_jr-0109804": {
 "ats": "workday",
 "company": "Workday",
@@ -47728,11 +48050,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usavareston/senior-software-development--engineer--devops--us-federal-_jr-0108829": {
 "ats": "workday",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA.VA.Reston",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Software Development  Engineer, DevOps (US Federal)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Software-Development--Engineer--DevOps--US-Federal-_JR-0108829",
@@ -50066,11 +50389,12 @@
 },
 "https://www.klaviyo.com/careers/jobs/7711217003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-23T19:57:30Z",
 "company": "Klaviyo",
 "company_id": "rec5bKcoctyeEnLCH",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Boston, MA",
-"open": true,
+"open": false,
 "posted": "2026-04-29T12:52:53-04:00",
 "title": "Senior Software Engineer - Developer Infrastructure",
 "url": "https://www.klaviyo.com/careers/jobs/7711217003?gh_jid=7711217003",
@@ -51645,5 +51969,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-23T13:27:35Z"
+"updated": "2026-10-23T19:57:30Z"
 }
