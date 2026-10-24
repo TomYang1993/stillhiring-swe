@@ -34326,11 +34326,12 @@
 },
 "https://jobs.ashbyhq.com/owner/3e4d4c76-4e16-4335-aaba-1d2f38db3cde": {
 "ats": "ashby",
+"closed_at": "2026-10-24T04:37:36Z",
 "company": "Owner.com",
 "company_id": "recL3k7o5DjWXM8D8",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Remote - United States / Remote - Canada / United States",
-"open": true,
+"open": false,
 "posted": "2026-07-31T22:52:07.021+00:00",
 "title": "Staff Database Engineer",
 "url": "https://jobs.ashbyhq.com/owner/3e4d4c76-4e16-4335-aaba-1d2f38db3cde",
@@ -34487,7 +34488,7 @@
 "company": "Plaid",
 "company_id": "recFOX2lyxkFnHnaX",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "San Francisco HQ / United States",
+"location": "San Francisco HQ / Seattle Office / New York City Office / United States",
 "open": true,
 "posted": "2026-07-10T20:44:22.290+00:00",
 "title": "Senior Software Engineer - AI Tooling",
@@ -34499,7 +34500,7 @@
 "company": "Plaid",
 "company_id": "recFOX2lyxkFnHnaX",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "San Francisco HQ / United States",
+"location": "San Francisco HQ / Seattle Office / New York City Office / United States",
 "open": true,
 "posted": "2026-08-12T21:29:59.850+00:00",
 "title": "Staff Software Engineer - AI & Intelligent Tooling",
@@ -44200,11 +44201,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-24T04:37:36Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -44212,11 +44214,12 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-24T04:37:36Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -52142,5 +52145,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-23T23:09:27Z"
+"updated": "2026-10-24T04:37:36Z"
 }
