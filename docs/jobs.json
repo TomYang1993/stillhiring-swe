@@ -25863,6 +25863,18 @@
 "url": "https://job-boards.greenhouse.io/terzo/jobs/4291476009",
 "us": "yes"
 },
+"https://job-boards.greenhouse.io/terzo/jobs/4466722009": {
+"ats": "greenhouse",
+"company": "Terzo",
+"company_id": "recc61reNAouWdV11",
+"first_seen": "2026-10-24T22:29:01Z",
+"location": "US - Remote",
+"open": true,
+"posted": "2026-10-24T16:24:12-04:00",
+"title": "Senior Staff Platform Engineer",
+"url": "https://job-boards.greenhouse.io/terzo/jobs/4466722009",
+"us": "yes"
+},
 "https://job-boards.greenhouse.io/thetradedesk/jobs/5120331007": {
 "ats": "greenhouse",
 "closed_at": "2026-10-23T19:57:30Z",
@@ -44199,12 +44211,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-24T04:37:36Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -44212,12 +44223,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-24T04:37:36Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -52170,5 +52180,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-24T18:47:40Z"
+"updated": "2026-10-24T22:29:01Z"
 }
