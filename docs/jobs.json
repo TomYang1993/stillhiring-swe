@@ -33290,6 +33290,18 @@
 "url": "https://jobs.ashbyhq.com/ironcladhq/b5d4466f-ffe3-4b31-9463-22a926206ece",
 "us": "yes"
 },
+"https://jobs.ashbyhq.com/ironcladhq/b9141554-16c2-4fbd-a555-4a95fc6677e1": {
+"ats": "ashby",
+"company": "Ironclad",
+"company_id": "rec0KPReqfj4qZYAt",
+"first_seen": "2026-10-25T19:03:40Z",
+"location": "San Francisco / United States",
+"open": true,
+"posted": "2026-10-25T17:12:43.456+00:00",
+"title": "Staff Software Engineer, Site Reliability",
+"url": "https://jobs.ashbyhq.com/ironcladhq/b9141554-16c2-4fbd-a555-4a95fc6677e1",
+"us": "yes"
+},
 "https://jobs.ashbyhq.com/ironcladhq/f01fb172-7a43-4686-b897-10f1288fbcd0": {
 "ats": "ashby",
 "closed_at": "2026-10-15T23:04:32Z",
@@ -44211,12 +44223,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-25T04:42:13Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -44224,12 +44235,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-25T04:42:13Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -52182,5 +52192,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-25T13:11:33Z"
+"updated": "2026-10-25T19:03:40Z"
 }
