@@ -2728,11 +2728,12 @@
 },
 "https://bitwarden.com/careers/7896696003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Bitwarden",
 "company_id": "recCkGiBW6Gm5YdgV",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Noida, Delhi NCR",
-"open": true,
+"open": false,
 "posted": "2026-08-18T19:10:27-04:00",
 "title": " Software Engineer - Rust",
 "url": "https://bitwarden.com/careers/7896696003/?gh_jid=7896696003",
@@ -2814,11 +2815,12 @@
 },
 "https://bitwarden.com/careers/8047229003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Bitwarden",
 "company_id": "recCkGiBW6Gm5YdgV",
 "first_seen": "2026-10-29T15:14:14Z",
 "location": "Noida, Delhi NCR",
-"open": true,
+"open": false,
 "posted": "2026-10-29T04:26:28-04:00",
 "title": "SDET (PAM)",
 "url": "https://bitwarden.com/careers/8047229003/?gh_jid=8047229003",
@@ -46165,11 +46167,12 @@
 },
 "https://leidos.wd5.myworkdayjobs.com/external/job/san-diego-ca/software-engineer_r-00192920": {
 "ats": "workday",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Kudu Dynamics LLC",
 "company_id": "recDWFYXGbY5uqdZH",
 "first_seen": "2026-10-12T17:55:16Z",
 "location": "San Diego, CA",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Engineer",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192920",
@@ -46186,6 +46189,30 @@
 "posted": null,
 "title": "Data Engineer Software Developer",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineer-Software-Developer_R-00189905",
+"us": "yes"
+},
+"https://leidos.wd5.myworkdayjobs.com/external/job/st-louis-mo/junior-software-developer_r-00195126": {
+"ats": "workday",
+"company": "Kudu Dynamics LLC",
+"company_id": "recDWFYXGbY5uqdZH",
+"first_seen": "2026-10-31T14:32:05Z",
+"location": "St. Louis, MO",
+"open": true,
+"posted": null,
+"title": "Junior Software Developer",
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Junior-Software-Developer_R-00195126",
+"us": "yes"
+},
+"https://leidos.wd5.myworkdayjobs.com/external/job/st-louis-mo/software-developer-journeyman_r-00195123": {
+"ats": "workday",
+"company": "Kudu Dynamics LLC",
+"company_id": "recDWFYXGbY5uqdZH",
+"first_seen": "2026-10-31T14:32:05Z",
+"location": "St. Louis, MO",
+"open": true,
+"posted": null,
+"title": "Software Developer Journeyman",
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Journeyman_R-00195123",
 "us": "yes"
 },
 "https://leidos.wd5.myworkdayjobs.com/external/job/st-louis-mo/software-developer_r-00192534": {
@@ -47092,11 +47119,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -47104,11 +47132,12 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": true,
+"open": false,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -48646,11 +48675,12 @@
 },
 "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/philadelphia-pa/senior-ml-ops-engineer_r106560-1": {
 "ats": "workday",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Elsevier",
 "company_id": "recnnhbpm70AgtYbo",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "9 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior ML Ops Engineer",
 "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Senior-ML-Ops-Engineer_R106560-1",
@@ -49782,6 +49812,18 @@
 "posted": "2026-10-09T12:01:26-04:00",
 "title": "Senior Backend Engineer (Kotlin) - Cards",
 "url": "https://sumup.com/careers/positions/8881640002?gh_jid=8881640002",
+"us": "maybe"
+},
+"https://sumup.com/careers/positions/8926303002": {
+"ats": "greenhouse",
+"company": "SumUp",
+"company_id": "recG83Lvr58TeBWKT",
+"first_seen": "2026-10-31T14:32:05Z",
+"location": "Sofia, Bulgaria",
+"open": true,
+"posted": "2026-10-31T06:38:06-04:00",
+"title": "Senior Software Engineer (Golang) - Card Acquiring",
+"url": "https://sumup.com/careers/positions/8926303002?gh_jid=8926303002",
 "us": "maybe"
 },
 "https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/remote/sr-software-engineer_r75768": {
@@ -51245,6 +51287,18 @@
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Software-Development-Engineer--Payroll-Development_JR-0110886-1",
 "us": "yes"
 },
+"https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/principal-dataops-engineer--devops-for-data-_jr-0111033": {
+"ats": "workday",
+"company": "Workday",
+"company_id": "recpuddymbqf3Jzbo",
+"first_seen": "2026-10-31T14:32:05Z",
+"location": "2 Locations",
+"open": true,
+"posted": null,
+"title": "Principal DataOps Engineer (DevOps for Data)",
+"url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-DataOps-Engineer--DevOps-for-Data-_JR-0111033",
+"us": "maybe"
+},
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/principal-software-development-engineer_jr-0111151-1": {
 "ats": "workday",
 "company": "Workday",
@@ -51310,11 +51364,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/software-development-engineer--admin-central_jr-0111194": {
 "ats": "workday",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-28T21:05:27Z",
 "location": "USA, CA, Pleasanton",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Development Engineer, Admin Central",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
@@ -51487,12 +51542,11 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-co-boulder/software-engineer-senior-software-engineer---ai-platform--agent-runtime-_jr-0109507": {
 "ats": "workday",
-"closed_at": "2026-10-27T20:42:07Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-24T12:40:48Z",
 "location": "3 Locations",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Software Engineer/Senior Software Engineer - AI Platform (Agent Cell)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Engineer-Senior-Software-Engineer---AI-Platform--Agent-Runtime-_JR-0109507",
@@ -51773,11 +51827,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usavareston/software-development-engineer--sre--us-federal-_jr-0110178": {
 "ats": "workday",
+"closed_at": "2026-10-31T14:32:05Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "USA.VA.Reston",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Software Development Engineer, SRE (US Federal)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178",
@@ -55633,5 +55688,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-31T05:42:11Z"
+"updated": "2026-10-31T14:32:05Z"
 }
