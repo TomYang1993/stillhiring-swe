@@ -16877,11 +16877,12 @@
 },
 "https://job-boards.greenhouse.io/affirm/jobs/8040386003": {
 "ats": "greenhouse",
+"closed_at": "2026-10-31T19:59:15Z",
 "company": "Affirm",
 "company_id": "rec2ybztZlf2yizli",
 "first_seen": "2026-10-30T20:48:31Z",
 "location": "Remote US",
-"open": true,
+"open": false,
 "posted": "2026-10-30T13:52:49-04:00",
 "title": "Senior Software Engineer, Backend (AI Platform) ",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/8040386003",
@@ -46708,12 +46709,11 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/senior-software-engineer---java_r-289291": {
 "ats": "workday",
-"closed_at": "2026-10-30T15:03:11Z",
 "company": "Mastercard",
 "company_id": "recgWQkJgT9Duul1s",
 "first_seen": "2026-10-28T05:42:58Z",
 "location": "O'Fallon, Missouri",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Senior Software Engineer - Java",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer---Java_R-289291",
@@ -46734,12 +46734,11 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/senior-software-engineer_r-281539": {
 "ats": "workday",
-"closed_at": "2026-10-30T15:03:11Z",
 "company": "Mastercard",
 "company_id": "recgWQkJgT9Duul1s",
 "first_seen": "2026-10-28T05:42:58Z",
 "location": "O'Fallon, Missouri",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Senior Software Engineer",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-281539",
@@ -47119,12 +47118,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-31T14:32:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -47132,12 +47130,11 @@
 },
 "https://orca.security/about/careers/6117749004": {
 "ats": "greenhouse",
-"closed_at": "2026-10-31T14:32:05Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "United States",
-"open": false,
+"open": true,
 "posted": "2026-07-17T14:01:15-04:00",
 "title": "Senior DevOps Engineer (FedRAMP)",
 "url": "https://orca.security/about/careers/6117749004?gh_jid=6117749004",
@@ -55688,5 +55685,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-10-31T14:32:05Z"
+"updated": "2026-10-31T19:59:15Z"
 }
