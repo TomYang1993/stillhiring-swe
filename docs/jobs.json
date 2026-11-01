@@ -51293,11 +51293,12 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/principal-dataops-engineer--devops-for-data-_jr-0111033": {
 "ats": "workday",
+"closed_at": "2026-11-01T20:30:12Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-31T14:32:05Z",
 "location": "2 Locations",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Principal DataOps Engineer (DevOps for Data)",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Principal-DataOps-Engineer--DevOps-for-Data-_JR-0111033",
@@ -51484,12 +51485,11 @@
 },
 "https://workday.wd5.myworkdayjobs.com/workday/job/usa-ca-pleasanton/sr-software-development-engineer_jr-ic-000063": {
 "ats": "workday",
-"closed_at": "2026-10-27T05:05:57Z",
 "company": "Workday",
 "company_id": "recpuddymbqf3Jzbo",
 "first_seen": "2026-10-19T15:36:32Z",
 "location": "USA, CA, Pleasanton",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Sr. Software Development Engineer",
 "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer_JR-IC-000063",
@@ -55692,5 +55692,5 @@
 "us": "maybe"
 }
 },
-"updated": "2026-11-01T15:09:49Z"
+"updated": "2026-11-01T20:30:12Z"
 }
