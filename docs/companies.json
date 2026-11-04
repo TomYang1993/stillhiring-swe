@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04T12:08:54Z",
+"updated": "2026-11-04T19:45:39Z",
 "companies": [
 {
 "id": "recRm2wApwyDqDwpl",
@@ -28,8 +28,8 @@
 "ats": "greenhouse",
 "slug": "ninjaone",
 "how": "guessed",
-"total": 4,
-"swe_us": 0
+"total": 8,
+"swe_us": 3
 },
 {
 "id": "recPxM0K5DCkJB3th",
@@ -43,7 +43,7 @@
 "ats": "greenhouse",
 "slug": "asana",
 "how": "guessed",
-"total": 109,
+"total": 110,
 "swe_us": 19
 },
 {
@@ -58,7 +58,7 @@
 "ats": "lever",
 "slug": "pigment",
 "how": "listed",
-"total": 128,
+"total": 129,
 "swe_us": 0
 },
 {
@@ -69,11 +69,16 @@
 "employees": 2370,
 "city": "Sunnyvale",
 "swe_flag": false,
+"errors": [
+"greenhouse/jfrog-ltd: HTTP Error 404: Not Found",
+"ashby/jfrog-ltd: HTTP Error 404: Not Found",
+"lever/jfrog-ltd: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "jfrog",
 "how": "guessed",
-"total": 72,
+"total": 71,
 "swe_us": 0
 },
 {
@@ -88,8 +93,8 @@
 "ats": "greenhouse",
 "slug": "databricks",
 "how": "guessed",
-"total": 918,
-"swe_us": 163
+"total": 929,
+"swe_us": 162
 },
 {
 "id": "recSRjstlkWxVbr4L",
@@ -100,12 +105,12 @@
 "city": "Montreal",
 "swe_flag": true,
 "errors": [
-"greenhouse/lightspeedcommerce: HTTP Error 404: Not Found",
-"ashby/lightspeedcommerce: HTTP Error 404: Not Found",
-"lever/lightspeedcommerce: HTTP Error 404: Not Found",
 "greenhouse/lightspeed-commerce: HTTP Error 404: Not Found",
 "ashby/lightspeed-commerce: HTTP Error 404: Not Found",
 "lever/lightspeed-commerce: HTTP Error 404: Not Found",
+"greenhouse/lightspeedcommerce: HTTP Error 404: Not Found",
+"ashby/lightspeedcommerce: HTTP Error 404: Not Found",
+"lever/lightspeedcommerce: HTTP Error 404: Not Found",
 "greenhouse/lightspeedhq: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -128,7 +133,7 @@
 "slug": "genesys.wd1.myworkdayjobs.com/Genesys",
 "how": "listed",
 "total": 40,
-"swe_us": 8
+"swe_us": 10
 },
 {
 "id": "recHz5WUF00Z52Cjd",
@@ -157,7 +162,7 @@
 "ats": "lever",
 "slug": "jumpcloud",
 "how": "listed",
-"total": 43,
+"total": 42,
 "swe_us": 0
 },
 {
@@ -187,7 +192,7 @@
 "ats": "lever",
 "slug": "sonatype",
 "how": "listed",
-"total": 15,
+"total": 16,
 "swe_us": 1
 },
 {
@@ -202,8 +207,8 @@
 "ats": "lever",
 "slug": "floqast",
 "how": "listed",
-"total": 38,
-"swe_us": 9
+"total": 36,
+"swe_us": 8
 },
 {
 "id": "recQpixPcLvoWPqxa",
@@ -248,7 +253,7 @@
 "slug": "figma",
 "how": "page",
 "total": 145,
-"swe_us": 18
+"swe_us": 19
 },
 {
 "id": "recBso5NBQWFaowsl",
@@ -277,8 +282,8 @@
 "ats": "workday",
 "slug": "paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
 "how": "listed",
-"total": 141,
-"swe_us": 59
+"total": 142,
+"swe_us": 60
 },
 {
 "id": "recyk9m3qcoR0RaEZ",
@@ -313,8 +318,8 @@
 "ats": "ashby",
 "slug": "1password",
 "how": "guessed",
-"total": 76,
-"swe_us": 7
+"total": 74,
+"swe_us": 6
 },
 {
 "id": "recyzobzc6HroSHCW",
@@ -358,7 +363,7 @@
 "ats": "ashby",
 "slug": "gorgias",
 "how": "listed",
-"total": 16,
+"total": 15,
 "swe_us": 0
 },
 {
@@ -373,7 +378,7 @@
 "ats": "greenhouse",
 "slug": "bloomreach",
 "how": "page",
-"total": 71,
+"total": 70,
 "swe_us": 17
 },
 {
@@ -418,8 +423,8 @@
 "ats": "ashby",
 "slug": "docker",
 "how": "page",
-"total": 49,
-"swe_us": 24
+"total": 50,
+"swe_us": 25
 },
 {
 "id": "recwDzr696T22Zhkg",
@@ -448,7 +453,7 @@
 "ats": "greenhouse",
 "slug": "alphasense",
 "how": "page",
-"total": 203,
+"total": 202,
 "swe_us": 12
 },
 {
@@ -463,7 +468,7 @@
 "ats": "smartrecruiters",
 "slug": "Freshworks",
 "how": "listed",
-"total": 121,
+"total": 123,
 "swe_us": 10
 },
 {
@@ -492,8 +497,8 @@
 "ats": "ashby",
 "slug": "snowflake",
 "how": "listed",
-"total": 369,
-"swe_us": 71
+"total": 372,
+"swe_us": 72
 },
 {
 "id": "recWZsn0heLqFthfp",
@@ -507,8 +512,8 @@
 "ats": "greenhouse",
 "slug": "samsara",
 "how": "guessed",
-"total": 324,
-"swe_us": 40
+"total": 322,
+"swe_us": 38
 },
 {
 "id": "recCNB7ocH6uEdm1w",
@@ -522,7 +527,7 @@
 "ats": "workday",
 "slug": "suse.wd3.myworkdayjobs.com/Jobsatsuse",
 "how": "listed",
-"total": 7,
+"total": 8,
 "swe_us": 0
 },
 {
@@ -537,7 +542,7 @@
 "ats": "ashby",
 "slug": "uipath",
 "how": "listed",
-"total": 104,
+"total": 103,
 "swe_us": 3
 },
 {
@@ -549,6 +554,9 @@
 "city": "Edmonton",
 "swe_flag": true,
 "errors": [
+"greenhouse/jobber-software: HTTP Error 404: Not Found",
+"ashby/jobber-software: HTTP Error 404: Not Found",
+"lever/jobber-software: HTTP Error 404: Not Found",
 "greenhouse/jobber: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -585,7 +593,7 @@
 "ats": "greenhouse",
 "slug": "canonical",
 "how": "listed",
-"total": 314,
+"total": 316,
 "swe_us": 33
 },
 {
@@ -626,7 +634,7 @@
 "ats": "greenhouse",
 "slug": "wrike",
 "how": "listed",
-"total": 67,
+"total": 66,
 "swe_us": 1
 },
 {
@@ -644,7 +652,7 @@
 "ats": "ashby",
 "slug": "benchling",
 "how": "guessed",
-"total": 51,
+"total": 52,
 "swe_us": 7
 },
 {
@@ -722,8 +730,8 @@
 "ats": "greenhouse",
 "slug": "workato",
 "how": "guessed",
-"total": 54,
-"swe_us": 1
+"total": 64,
+"swe_us": 4
 },
 {
 "id": "recfA7fjmGUDzyqkS",
@@ -752,7 +760,7 @@
 "ats": "greenhouse",
 "slug": "mercury",
 "how": "listed",
-"total": 76,
+"total": 77,
 "swe_us": 13
 },
 {
@@ -797,7 +805,7 @@
 "ats": "lever",
 "slug": "cloudinary",
 "how": "listed",
-"total": 10,
+"total": 11,
 "swe_us": 0
 },
 {
@@ -812,7 +820,7 @@
 "ats": "greenhouse",
 "slug": "gomotive",
 "how": "listed",
-"total": 172,
+"total": 174,
 "swe_us": 5
 },
 {
@@ -888,7 +896,7 @@
 "ats": "greenhouse",
 "slug": "cribl",
 "how": "listed",
-"total": 77,
+"total": 76,
 "swe_us": 8
 },
 {
@@ -903,7 +911,7 @@
 "ats": "ashby",
 "slug": "xero",
 "how": "listed",
-"total": 106,
+"total": 105,
 "swe_us": 10
 },
 {
@@ -914,6 +922,11 @@
 "employees": 500,
 "city": "Sunnyvale",
 "swe_flag": true,
+"errors": [
+"greenhouse/tidbpoweredbypingcap: HTTP Error 404: Not Found",
+"ashby/tidbpoweredbypingcap: HTTP Error 404: Not Found",
+"lever/tidbpoweredbypingcap: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "pingcap",
@@ -933,7 +946,7 @@
 "ats": "greenhouse",
 "slug": "beyondtrust",
 "how": "guessed",
-"total": 41,
+"total": 42,
 "swe_us": 10
 },
 {
@@ -978,7 +991,7 @@
 "ats": "greenhouse",
 "slug": "verkada",
 "how": "guessed",
-"total": 334,
+"total": 338,
 "swe_us": 52
 },
 {
@@ -1068,7 +1081,7 @@
 "ats": "greenhouse",
 "slug": "intercom",
 "how": "guessed",
-"total": 108,
+"total": 110,
 "swe_us": 2
 },
 {
@@ -1179,7 +1192,7 @@
 "slug": "hpe.wd5.myworkdayjobs.com/Jobsathpe",
 "how": "page",
 "total": 40,
-"swe_us": 9
+"swe_us": 8
 },
 {
 "id": "rec221L5n1zshj8v9",
@@ -1191,10 +1204,10 @@
 "swe_flag": true,
 "errors": [
 "lever/aircall: HTTP Error 404: Not Found",
-"greenhouse/lever: HTTP Error 404: Not Found",
-"ashby/lever: HTTP Error 404: Not Found",
 "greenhouse/aircall: HTTP Error 404: Not Found",
-"ashby/aircall: HTTP Error 404: Not Found"
+"ashby/aircall: HTTP Error 404: Not Found",
+"greenhouse/lever: HTTP Error 404: Not Found",
+"ashby/lever: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -1240,7 +1253,7 @@
 "ats": "greenhouse",
 "slug": "fastly",
 "how": "listed",
-"total": 52,
+"total": 55,
 "swe_us": 8
 },
 {
@@ -1255,7 +1268,7 @@
 "ats": "ashby",
 "slug": "zip",
 "how": "page",
-"total": 100,
+"total": 99,
 "swe_us": 5
 },
 {
@@ -1270,7 +1283,7 @@
 "ats": "ashby",
 "slug": "absorblms",
 "how": "page",
-"total": 20,
+"total": 21,
 "swe_us": 0
 },
 {
@@ -1285,7 +1298,7 @@
 "ats": "greenhouse",
 "slug": "pitchbookdata",
 "how": "listed",
-"total": 23,
+"total": 24,
 "swe_us": 3
 },
 {
@@ -1311,7 +1324,7 @@
 "ats": "ashby",
 "slug": "chainalysis-careers",
 "how": "page",
-"total": 43,
+"total": 42,
 "swe_us": 3
 },
 {
@@ -1361,7 +1374,7 @@
 "ats": "greenhouse",
 "slug": "veeamsoftware",
 "how": "guessed",
-"total": 200,
+"total": 205,
 "swe_us": 16
 },
 {
@@ -1455,7 +1468,7 @@
 "slug": "crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
 "how": "listed",
 "total": 40,
-"swe_us": 23
+"swe_us": 22
 },
 {
 "id": "rec5qTUPxNMNDpdr9",
@@ -1571,6 +1584,14 @@
 "employees": 381,
 "city": "Somerville",
 "swe_flag": true,
+"errors": [
+"greenhouse/tulipinterfaces: HTTP Error 404: Not Found",
+"ashby/tulipinterfaces: HTTP Error 404: Not Found",
+"lever/tulipinterfaces: HTTP Error 404: Not Found",
+"greenhouse/tulip-interfaces: HTTP Error 404: Not Found",
+"ashby/tulip-interfaces: HTTP Error 404: Not Found",
+"lever/tulip-interfaces: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "tulip",
@@ -1616,7 +1637,7 @@
 "ats": "greenhouse",
 "slug": "toast",
 "how": "listed",
-"total": 349,
+"total": 345,
 "swe_us": 27
 },
 {
@@ -1628,12 +1649,12 @@
 "city": "St. Cloud",
 "swe_flag": true,
 "errors": [
-"greenhouse/marcotechnologies: HTTP Error 404: Not Found",
-"ashby/marcotechnologies: HTTP Error 404: Not Found",
-"lever/marcotechnologies: HTTP Error 404: Not Found",
 "greenhouse/marco-technologies: HTTP Error 404: Not Found",
 "ashby/marco-technologies: HTTP Error 404: Not Found",
 "lever/marco-technologies: HTTP Error 404: Not Found",
+"greenhouse/marcotechnologies: HTTP Error 404: Not Found",
+"ashby/marcotechnologies: HTTP Error 404: Not Found",
+"lever/marcotechnologies: HTTP Error 404: Not Found",
 "greenhouse/marconet: HTTP Error 404: Not Found",
 "ashby/marconet: HTTP Error 404: Not Found",
 "lever/marconet: HTTP Error 404: Not Found"
@@ -1728,7 +1749,7 @@
 "ats": "greenhouse",
 "slug": "hootsuite",
 "how": "listed",
-"total": 4,
+"total": 5,
 "swe_us": 0
 },
 {
@@ -1743,7 +1764,7 @@
 "ats": "greenhouse",
 "slug": "anthropic",
 "how": "page",
-"total": 682,
+"total": 680,
 "swe_us": 135
 },
 {
@@ -1791,8 +1812,8 @@
 "ats": "greenhouse",
 "slug": "grafanalabs",
 "how": "listed",
-"total": 123,
-"swe_us": 17
+"total": 125,
+"swe_us": 18
 },
 {
 "id": "recKBES5gXJ0CE9vR",
@@ -1836,7 +1857,7 @@
 "ats": "greenhouse",
 "slug": "invoicecloud",
 "how": "page",
-"total": 22,
+"total": 23,
 "swe_us": 0
 },
 {
@@ -1851,7 +1872,7 @@
 "ats": "lever",
 "slug": "lyrahealth",
 "how": "listed",
-"total": 481,
+"total": 480,
 "swe_us": 10
 },
 {
@@ -1881,7 +1902,7 @@
 "ats": "greenhouse",
 "slug": "constantcontact",
 "how": "guessed",
-"total": 15,
+"total": 16,
 "swe_us": 0
 },
 {
@@ -1947,7 +1968,7 @@
 "ats": "greenhouse",
 "slug": "roller",
 "how": "listed",
-"total": 18,
+"total": 20,
 "swe_us": 0
 },
 {
@@ -1977,7 +1998,7 @@
 "ats": "greenhouse",
 "slug": "sumup",
 "how": "guessed",
-"total": 352,
+"total": 347,
 "swe_us": 9
 },
 {
@@ -2025,7 +2046,7 @@
 "ats": "greenhouse",
 "slug": "recordedfuture",
 "how": "listed",
-"total": 49,
+"total": 48,
 "swe_us": 3
 },
 {
@@ -2055,7 +2076,7 @@
 "ats": "ashby",
 "slug": "pleo",
 "how": "listed",
-"total": 44,
+"total": 43,
 "swe_us": 0
 },
 {
@@ -2085,17 +2106,14 @@
 "greenhouse/ownercom: HTTP Error 404: Not Found",
 "ashby/ownercom: HTTP Error 404: Not Found",
 "lever/ownercom: HTTP Error 404: Not Found",
-"greenhouse/owner-com: HTTP Error 404: Not Found",
-"ashby/owner-com: HTTP Error 404: Not Found",
-"lever/owner-com: HTTP Error 404: Not Found",
 "greenhouse/owner: HTTP Error 404: Not Found"
 ],
 "status": "ok",
 "ats": "ashby",
 "slug": "owner",
 "how": "guessed",
-"total": 48,
-"swe_us": 8
+"total": 44,
+"swe_us": 6
 },
 {
 "id": "recjEnmbB1kkYeAeg",
@@ -2139,7 +2157,7 @@
 "ats": "greenhouse",
 "slug": "vonage",
 "how": "listed",
-"total": 26,
+"total": 22,
 "swe_us": 0
 },
 {
@@ -2210,7 +2228,7 @@
 "ats": "ashby",
 "slug": "brightwheel",
 "how": "listed",
-"total": 14,
+"total": 13,
 "swe_us": 1
 },
 {
@@ -2237,12 +2255,12 @@
 "city": "Morrisville",
 "swe_flag": true,
 "errors": [
-"greenhouse/n-able: HTTP Error 404: Not Found",
-"ashby/n-able: HTTP Error 404: Not Found",
-"lever/n-able: HTTP Error 404: Not Found",
 "greenhouse/nable: HTTP Error 404: Not Found",
 "ashby/nable: HTTP Error 404: Not Found",
-"lever/nable: HTTP Error 404: Not Found"
+"lever/nable: HTTP Error 404: Not Found",
+"greenhouse/n-able: HTTP Error 404: Not Found",
+"ashby/n-able: HTTP Error 404: Not Found",
+"lever/n-able: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -2382,7 +2400,7 @@
 "ats": "lever",
 "slug": "agiloft",
 "how": "listed",
-"total": 16,
+"total": 17,
 "swe_us": 2
 },
 {
@@ -2453,8 +2471,8 @@
 "ats": "workday",
 "slug": "autodesk.wd1.myworkdayjobs.com/Ext",
 "how": "listed",
-"total": 2,
-"swe_us": 0
+"total": 3,
+"swe_us": 1
 },
 {
 "id": "recTF0XagBQa5xTeB",
@@ -2483,7 +2501,7 @@
 "ats": "greenhouse",
 "slug": "formlabs",
 "how": "guessed",
-"total": 239,
+"total": 238,
 "swe_us": 14
 },
 {
@@ -2494,12 +2512,17 @@
 "employees": 1901,
 "city": "Lehi",
 "swe_flag": true,
+"errors": [
+"greenhouse/digicert-inc-: HTTP Error 404: Not Found",
+"ashby/digicert-inc-: HTTP Error 404: Not Found",
+"lever/digicert-inc-: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "digicert",
 "how": "guessed",
-"total": 48,
-"swe_us": 9
+"total": 49,
+"swe_us": 10
 },
 {
 "id": "rec32sMOZVhcjFfQC",
@@ -2543,8 +2566,8 @@
 "ats": "greenhouse",
 "slug": "mitratech",
 "how": "listed",
-"total": 13,
-"swe_us": 3
+"total": 14,
+"swe_us": 4
 },
 {
 "id": "recGX2CZ86vqiN7uM",
@@ -2622,7 +2645,7 @@
 "ats": "greenhouse",
 "slug": "boulevard",
 "how": "listed",
-"total": 10,
+"total": 12,
 "swe_us": 0
 },
 {
@@ -2688,7 +2711,7 @@
 "ats": "ashby",
 "slug": "amplitude",
 "how": "guessed",
-"total": 49,
+"total": 50,
 "swe_us": 10
 },
 {
@@ -2811,7 +2834,7 @@
 "ats": "greenhouse",
 "slug": "zoominfo",
 "how": "guessed",
-"total": 93,
+"total": 95,
 "swe_us": 17
 },
 {
@@ -2826,8 +2849,8 @@
 "ats": "greenhouse",
 "slug": "hellofresh",
 "how": "listed",
-"total": 387,
-"swe_us": 1
+"total": 388,
+"swe_us": 0
 },
 {
 "id": "rec3d46vspirKKWFJ",
@@ -2871,7 +2894,7 @@
 "ats": "greenhouse",
 "slug": "adyen",
 "how": "guessed",
-"total": 239,
+"total": 242,
 "swe_us": 15
 },
 {
@@ -2931,7 +2954,7 @@
 "ats": "greenhouse",
 "slug": "onetrust",
 "how": "guessed",
-"total": 80,
+"total": 79,
 "swe_us": 10
 },
 {
@@ -2977,7 +3000,7 @@
 "slug": "gusto",
 "how": "listed",
 "total": 81,
-"swe_us": 28
+"swe_us": 27
 },
 {
 "id": "recUrjuBU5YsHGeVx",
@@ -3036,7 +3059,7 @@
 "ats": "greenhouse",
 "slug": "netskope",
 "how": "page",
-"total": 119,
+"total": 121,
 "swe_us": 4
 },
 {
@@ -3063,12 +3086,12 @@
 "city": "Bonn",
 "swe_flag": false,
 "errors": [
-"greenhouse/sap-leanix: HTTP Error 404: Not Found",
-"ashby/sap-leanix: HTTP Error 404: Not Found",
-"lever/sap-leanix: HTTP Error 404: Not Found",
 "greenhouse/sap: HTTP Error 404: Not Found",
 "ashby/sap: HTTP Error 404: Not Found",
 "lever/sap: HTTP Error 404: Not Found",
+"greenhouse/sap-leanix: HTTP Error 404: Not Found",
+"ashby/sap-leanix: HTTP Error 404: Not Found",
+"lever/sap-leanix: HTTP Error 404: Not Found",
 "greenhouse/sapleanix: HTTP Error 404: Not Found",
 "ashby/sapleanix: HTTP Error 404: Not Found",
 "lever/sapleanix: HTTP Error 404: Not Found"
@@ -3132,12 +3155,12 @@
 "greenhouse/lifeatvena: HTTP Error 404: Not Found",
 "ashby/lifeatvena: HTTP Error 404: Not Found",
 "lever/lifeatvena: HTTP Error 404: Not Found",
-"greenhouse/vena-solutions: HTTP Error 404: Not Found",
-"ashby/vena-solutions: HTTP Error 404: Not Found",
-"lever/vena-solutions: HTTP Error 404: Not Found",
 "greenhouse/venasolutions: HTTP Error 404: Not Found",
 "ashby/venasolutions: HTTP Error 404: Not Found",
-"lever/venasolutions: HTTP Error 404: Not Found"
+"lever/venasolutions: HTTP Error 404: Not Found",
+"greenhouse/vena-solutions: HTTP Error 404: Not Found",
+"ashby/vena-solutions: HTTP Error 404: Not Found",
+"lever/vena-solutions: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -3201,8 +3224,8 @@
 "ats": "greenhouse",
 "slug": "icapitalnetwork",
 "how": "listed",
-"total": 212,
-"swe_us": 5
+"total": 214,
+"swe_us": 7
 },
 {
 "id": "recpusZi7SVEJIsJS",
@@ -3262,7 +3285,7 @@
 "ats": "greenhouse",
 "slug": "ziprecruiter",
 "how": "guessed",
-"total": 50,
+"total": 52,
 "swe_us": 16
 },
 {
@@ -3295,7 +3318,7 @@
 "ats": "greenhouse",
 "slug": "celigo",
 "how": "page",
-"total": 21,
+"total": 20,
 "swe_us": 2
 },
 {
@@ -3326,8 +3349,6 @@
 "swe_flag": true,
 "errors": [
 "lever/livechatinc: HTTP Error 404: Not Found",
-"greenhouse/lever: HTTP Error 404: Not Found",
-"ashby/lever: HTTP Error 404: Not Found",
 "greenhouse/text: HTTP Error 404: Not Found",
 "ashby/text: HTTP Error 404: Not Found"
 ],
@@ -3395,7 +3416,7 @@
 "ats": "greenhouse",
 "slug": "klaviyo",
 "how": "listed",
-"total": 156,
+"total": 154,
 "swe_us": 31
 },
 {
@@ -3542,12 +3563,17 @@
 "city": "Miami",
 "swe_flag": true,
 "page_error": "HTTP Error 403: Forbidden",
+"errors": [
+"greenhouse/muck-rack: HTTP Error 404: Not Found",
+"ashby/muck-rack: HTTP Error 404: Not Found",
+"lever/muck-rack: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "muckrack",
 "how": "guessed",
-"total": 12,
-"swe_us": 2
+"total": 11,
+"swe_us": 1
 },
 {
 "id": "recvPg4DUknIjQjS8",
@@ -3591,12 +3617,12 @@
 "greenhouse/mondaycom: HTTP Error 404: Not Found",
 "ashby/mondaycom: HTTP Error 404: Not Found",
 "lever/mondaycom: HTTP Error 404: Not Found",
-"greenhouse/monday-com: HTTP Error 404: Not Found",
-"ashby/monday-com: HTTP Error 404: Not Found",
-"lever/monday-com: HTTP Error 404: Not Found",
 "greenhouse/mondaydotcom: HTTP Error 404: Not Found",
 "ashby/mondaydotcom: HTTP Error 404: Not Found",
-"lever/mondaydotcom: HTTP Error 404: Not Found"
+"lever/mondaydotcom: HTTP Error 404: Not Found",
+"greenhouse/monday-com: HTTP Error 404: Not Found",
+"ashby/monday-com: HTTP Error 404: Not Found",
+"lever/monday-com: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -3623,11 +3649,16 @@
 "employees": 3986,
 "city": "Bellevue",
 "swe_flag": false,
+"errors": [
+"greenhouse/smartsheet-com: HTTP Error 404: Not Found",
+"ashby/smartsheet-com: HTTP Error 404: Not Found",
+"lever/smartsheet-com: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "smartsheet",
 "how": "guessed",
-"total": 75,
+"total": 73,
 "swe_us": 10
 },
 {
@@ -3672,7 +3703,7 @@
 "ats": "lever",
 "slug": "asapp-2",
 "how": "listed",
-"total": 13,
+"total": 12,
 "swe_us": 2
 },
 {
@@ -3792,12 +3823,12 @@
 "greenhouse/teamwork-com: HTTP Error 404: Not Found",
 "ashby/teamwork-com: HTTP Error 404: Not Found",
 "lever/teamwork-com: HTTP Error 404: Not Found",
-"greenhouse/teamworkcom: HTTP Error 404: Not Found",
-"ashby/teamworkcom: HTTP Error 404: Not Found",
-"lever/teamworkcom: HTTP Error 404: Not Found",
 "greenhouse/teamwork: HTTP Error 404: Not Found",
 "ashby/teamwork: HTTP Error 404: Not Found",
-"lever/teamwork: HTTP Error 404: Not Found"
+"lever/teamwork: HTTP Error 404: Not Found",
+"greenhouse/teamworkcom: HTTP Error 404: Not Found",
+"ashby/teamworkcom: HTTP Error 404: Not Found",
+"lever/teamworkcom: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -3854,7 +3885,7 @@
 "ats": "greenhouse",
 "slug": "tipaltisolutions",
 "how": "page",
-"total": 10,
+"total": 9,
 "swe_us": 4
 },
 {
@@ -3914,7 +3945,7 @@
 "ats": "lever",
 "slug": "canarytechnologies",
 "how": "listed",
-"total": 17,
+"total": 16,
 "swe_us": 3
 },
 {
@@ -3929,8 +3960,8 @@
 "ats": "greenhouse",
 "slug": "otterai",
 "how": "page",
-"total": 20,
-"swe_us": 12
+"total": 21,
+"swe_us": 13
 },
 {
 "id": "recs92Yu61jG7BSIZ",
@@ -3962,8 +3993,8 @@
 "ats": "ashby",
 "slug": "seon",
 "how": "page",
-"total": 13,
-"swe_us": 0
+"total": 14,
+"swe_us": 1
 },
 {
 "id": "recUzh1TKGHmjJU3r",
@@ -4146,6 +4177,9 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
+"greenhouse/ashbyhq: HTTP Error 404: Not Found",
+"ashby/ashbyhq: HTTP Error 404: Not Found",
+"lever/ashbyhq: HTTP Error 404: Not Found",
 "greenhouse/ashby: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -4167,7 +4201,7 @@
 "ats": "lever",
 "slug": "emburse",
 "how": "listed",
-"total": 29,
+"total": 31,
 "swe_us": 0
 },
 {
@@ -4194,12 +4228,12 @@
 "city": "Salt Lake City",
 "swe_flag": false,
 "errors": [
-"greenhouse/aumni: HTTP Error 404: Not Found",
-"ashby/aumni: HTTP Error 404: Not Found",
-"lever/aumni: HTTP Error 404: Not Found",
 "greenhouse/breezy: HTTP Error 404: Not Found",
 "ashby/breezy: HTTP Error 404: Not Found",
-"lever/breezy: HTTP Error 404: Not Found"
+"lever/breezy: HTTP Error 404: Not Found",
+"greenhouse/aumni: HTTP Error 404: Not Found",
+"ashby/aumni: HTTP Error 404: Not Found",
+"lever/aumni: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4301,7 +4335,7 @@
 "ats": "workday",
 "slug": "criteo.wd3.myworkdayjobs.com/Criteo_Career_Site",
 "how": "listed",
-"total": 27,
+"total": 26,
 "swe_us": 9
 },
 {
@@ -4342,19 +4376,11 @@
 "employees": 450,
 "city": "Columbia",
 "swe_flag": false,
-"errors": [
-"greenhouse/amaroksecurity: HTTP Error 404: Not Found",
-"ashby/amaroksecurity: HTTP Error 404: Not Found",
-"lever/amaroksecurity: HTTP Error 404: Not Found",
-"greenhouse/amarok-security: HTTP Error 404: Not Found",
-"ashby/amarok-security: HTTP Error 404: Not Found",
-"lever/amarok-security: HTTP Error 404: Not Found"
-],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "amarok",
 "how": "guessed",
-"total": 20,
+"total": 21,
 "swe_us": 0
 },
 {
@@ -4392,12 +4418,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
-"greenhouse/tryretool: HTTP Error 404: Not Found",
-"ashby/tryretool: HTTP Error 404: Not Found",
-"lever/tryretool: HTTP Error 404: Not Found",
 "greenhouse/retool: HTTP Error 404: Not Found",
 "ashby/retool: HTTP Error 404: Not Found",
-"lever/retool: HTTP Error 404: Not Found"
+"lever/retool: HTTP Error 404: Not Found",
+"greenhouse/tryretool: HTTP Error 404: Not Found",
+"ashby/tryretool: HTTP Error 404: Not Found",
+"lever/tryretool: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4473,7 +4499,7 @@
 "ats": "ashby",
 "slug": "hopper",
 "how": "listed",
-"total": 18,
+"total": 21,
 "swe_us": 0
 },
 {
@@ -4520,12 +4546,12 @@
 "city": "New York",
 "swe_flag": true,
 "errors": [
-"greenhouse/spring-health: HTTP Error 404: Not Found",
-"ashby/spring-health: HTTP Error 404: Not Found",
-"lever/spring-health: HTTP Error 404: Not Found",
 "greenhouse/springhealth: HTTP Error 404: Not Found",
 "ashby/springhealth: HTTP Error 404: Not Found",
-"lever/springhealth: HTTP Error 404: Not Found"
+"lever/springhealth: HTTP Error 404: Not Found",
+"greenhouse/spring-health: HTTP Error 404: Not Found",
+"ashby/spring-health: HTTP Error 404: Not Found",
+"lever/spring-health: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4586,8 +4612,8 @@
 "ats": "greenhouse",
 "slug": "fleetio",
 "how": "guessed",
-"total": 16,
-"swe_us": 7
+"total": 17,
+"swe_us": 8
 },
 {
 "id": "recl3FJrey9qbjMd3",
@@ -4601,7 +4627,7 @@
 "ats": "lever",
 "slug": "perforce",
 "how": "listed",
-"total": 12,
+"total": 13,
 "swe_us": 0
 },
 {
@@ -4616,7 +4642,7 @@
 "ats": "rippling",
 "slug": "pdq",
 "how": "listed",
-"total": 10,
+"total": 11,
 "swe_us": 1
 },
 {
@@ -4631,7 +4657,7 @@
 "ats": "lever",
 "slug": "thinkahead",
 "how": "listed",
-"total": 148,
+"total": 150,
 "swe_us": 20
 },
 {
@@ -4718,12 +4744,12 @@
 "city": "Mountain View",
 "swe_flag": true,
 "errors": [
-"greenhouse/moveworksai: HTTP Error 404: Not Found",
-"ashby/moveworksai: HTTP Error 404: Not Found",
-"lever/moveworksai: HTTP Error 404: Not Found",
 "greenhouse/moveworks: HTTP Error 404: Not Found",
 "ashby/moveworks: HTTP Error 404: Not Found",
-"lever/moveworks: HTTP Error 404: Not Found"
+"lever/moveworks: HTTP Error 404: Not Found",
+"greenhouse/moveworksai: HTTP Error 404: Not Found",
+"ashby/moveworksai: HTTP Error 404: Not Found",
+"lever/moveworksai: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4757,7 +4783,7 @@
 "ats": "ashby",
 "slug": "plaid",
 "how": "guessed",
-"total": 138,
+"total": 141,
 "swe_us": 30
 },
 {
@@ -4817,15 +4843,15 @@
 "city": "Chicago",
 "swe_flag": true,
 "errors": [
-"greenhouse/rldatix-north-america: HTTP Error 404: Not Found",
-"ashby/rldatix-north-america: HTTP Error 404: Not Found",
-"lever/rldatix-north-america: HTTP Error 404: Not Found",
+"greenhouse/rldatix: HTTP Error 404: Not Found",
+"ashby/rldatix: HTTP Error 404: Not Found",
+"lever/rldatix: HTTP Error 404: Not Found",
 "greenhouse/rldatixnorthamerica: HTTP Error 404: Not Found",
 "ashby/rldatixnorthamerica: HTTP Error 404: Not Found",
 "lever/rldatixnorthamerica: HTTP Error 404: Not Found",
-"greenhouse/rldatix: HTTP Error 404: Not Found",
-"ashby/rldatix: HTTP Error 404: Not Found",
-"lever/rldatix: HTTP Error 404: Not Found"
+"greenhouse/rldatix-north-america: HTTP Error 404: Not Found",
+"ashby/rldatix-north-america: HTTP Error 404: Not Found",
+"lever/rldatix-north-america: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4857,8 +4883,8 @@
 "ats": "bamboohr",
 "slug": "opench",
 "how": "page",
-"total": 14,
-"swe_us": 5
+"total": 15,
+"swe_us": 6
 },
 {
 "id": "recRpQzNnaKLEuWtg",
@@ -4888,7 +4914,7 @@
 "slug": "workday.wd5.myworkdayjobs.com/Workday",
 "how": "listed",
 "total": 40,
-"swe_us": 29
+"swe_us": 31
 },
 {
 "id": "recer0ME9AflYSN2s",
@@ -4931,7 +4957,7 @@
 "ats": "ashby",
 "slug": "Spoton",
 "how": "listed",
-"total": 72,
+"total": 75,
 "swe_us": 1
 },
 {
@@ -4943,15 +4969,15 @@
 "city": "Eindhoven",
 "swe_flag": true,
 "errors": [
+"greenhouse/here: HTTP Error 404: Not Found",
+"ashby/here: HTTP Error 404: Not Found",
+"lever/here: HTTP Error 404: Not Found",
 "greenhouse/heretechnologies: HTTP Error 404: Not Found",
 "ashby/heretechnologies: HTTP Error 404: Not Found",
 "lever/heretechnologies: HTTP Error 404: Not Found",
 "greenhouse/here-technologies: HTTP Error 404: Not Found",
 "ashby/here-technologies: HTTP Error 404: Not Found",
-"lever/here-technologies: HTTP Error 404: Not Found",
-"greenhouse/here: HTTP Error 404: Not Found",
-"ashby/here: HTTP Error 404: Not Found",
-"lever/here: HTTP Error 404: Not Found"
+"lever/here-technologies: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -4967,7 +4993,7 @@
 "ats": "ashby",
 "slug": "hiya",
 "how": "page",
-"total": 28,
+"total": 27,
 "swe_us": 0
 },
 {
@@ -5083,8 +5109,8 @@
 "ats": "greenhouse",
 "slug": "datadog",
 "how": "listed",
-"total": 394,
-"swe_us": 3
+"total": 396,
+"swe_us": 4
 },
 {
 "id": "rec9txkeE066d3SG8",
@@ -5169,12 +5195,16 @@
 "employees": 13443,
 "city": "Menlo Park",
 "swe_flag": false,
-"status": "ok",
-"ats": "workday",
-"slug": "roberthalf.wd1.myworkdayjobs.com/ProtivitiNA",
-"how": "listed",
-"total": 40,
-"swe_us": 0
+"errors": [
+"workday/roberthalf.wd1.myworkdayjobs.com/ProtivitiNA: 'title'",
+"greenhouse/protiviti: HTTP Error 404: Not Found",
+"ashby/protiviti: HTTP Error 404: Not Found",
+"lever/protiviti: HTTP Error 404: Not Found",
+"greenhouse/roberthalf: HTTP Error 404: Not Found",
+"ashby/roberthalf: HTTP Error 404: Not Found",
+"lever/roberthalf: HTTP Error 404: Not Found"
+],
+"status": "unresolved"
 },
 {
 "id": "recXdwlm2CGkm9rH6",
@@ -5234,6 +5264,9 @@
 "city": "Mountain View",
 "swe_flag": true,
 "errors": [
+"greenhouse/arta-finance: HTTP Error 404: Not Found",
+"ashby/arta-finance: HTTP Error 404: Not Found",
+"lever/arta-finance: HTTP Error 404: Not Found",
 "greenhouse/artafinance: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -5285,7 +5318,7 @@
 "ats": "greenhouse",
 "slug": "alphasense",
 "how": "page",
-"total": 203,
+"total": 202,
 "swe_us": 0
 },
 {
@@ -5300,7 +5333,7 @@
 "ats": "greenhouse",
 "slug": "gofundme",
 "how": "page",
-"total": 19,
+"total": 21,
 "swe_us": 0
 },
 {
@@ -5345,7 +5378,7 @@
 "ats": "recruitee",
 "slug": "https://jobs.channelengine.com",
 "how": "page",
-"total": 7,
+"total": 6,
 "swe_us": 0
 },
 {
@@ -5372,12 +5405,12 @@
 "city": "Waltham",
 "swe_flag": true,
 "errors": [
-"greenhouse/thermo-fisher-scientific: HTTP Error 404: Not Found",
-"ashby/thermo-fisher-scientific: HTTP Error 404: Not Found",
-"lever/thermo-fisher-scientific: HTTP Error 404: Not Found",
 "greenhouse/thermofisherscientific: HTTP Error 404: Not Found",
 "ashby/thermofisherscientific: HTTP Error 404: Not Found",
-"lever/thermofisherscientific: HTTP Error 404: Not Found"
+"lever/thermofisherscientific: HTTP Error 404: Not Found",
+"greenhouse/thermo-fisher-scientific: HTTP Error 404: Not Found",
+"ashby/thermo-fisher-scientific: HTTP Error 404: Not Found",
+"lever/thermo-fisher-scientific: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -5465,6 +5498,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
+"greenhouse/incidentio: HTTP Error 404: Not Found",
+"ashby/incidentio: HTTP Error 404: Not Found",
+"lever/incidentio: HTTP Error 404: Not Found",
+"greenhouse/incident-io: HTTP Error 404: Not Found",
+"ashby/incident-io: HTTP Error 404: Not Found",
+"lever/incident-io: HTTP Error 404: Not Found",
 "greenhouse/incident: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -5516,7 +5555,7 @@
 "ats": "greenhouse",
 "slug": "stackadapt",
 "how": "listed",
-"total": 68,
+"total": 67,
 "swe_us": 3
 },
 {
@@ -5546,7 +5585,7 @@
 "ats": "greenhouse",
 "slug": "polyai",
 "how": "page",
-"total": 2,
+"total": 3,
 "swe_us": 0
 },
 {
@@ -5659,7 +5698,7 @@
 "ats": "greenhouse",
 "slug": "kaseya",
 "how": "guessed",
-"total": 95,
+"total": 96,
 "swe_us": 6
 },
 {
@@ -5704,7 +5743,7 @@
 "ats": "greenhouse",
 "slug": "yext",
 "how": "guessed",
-"total": 29,
+"total": 30,
 "swe_us": 3
 },
 {
@@ -5919,8 +5958,8 @@
 "ats": "greenhouse",
 "slug": "spacex",
 "how": "guessed",
-"total": 2886,
-"swe_us": 514
+"total": 2892,
+"swe_us": 516
 },
 {
 "id": "recNxsHIzcL3C5Ota",
@@ -5949,7 +5988,7 @@
 "ats": "greenhouse",
 "slug": "zocdoc",
 "how": "guessed",
-"total": 62,
+"total": 61,
 "swe_us": 7
 },
 {
@@ -5964,12 +6003,12 @@
 "greenhouse/cto: HTTP Error 404: Not Found",
 "ashby/cto: HTTP Error 404: Not Found",
 "lever/cto: HTTP Error 404: Not Found",
-"greenhouse/ctoai: HTTP Error 404: Not Found",
-"ashby/ctoai: HTTP Error 404: Not Found",
-"lever/ctoai: HTTP Error 404: Not Found",
 "greenhouse/cto-ai: HTTP Error 404: Not Found",
 "ashby/cto-ai: HTTP Error 404: Not Found",
-"lever/cto-ai: HTTP Error 404: Not Found"
+"lever/cto-ai: HTTP Error 404: Not Found",
+"greenhouse/ctoai: HTTP Error 404: Not Found",
+"ashby/ctoai: HTTP Error 404: Not Found",
+"lever/ctoai: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -6045,7 +6084,7 @@
 "ats": "ashby",
 "slug": "Prompt",
 "how": "page",
-"total": 45,
+"total": 43,
 "swe_us": 8
 },
 {
@@ -6151,11 +6190,11 @@
 "swe_flag": true,
 "errors": [
 "ashby/evenup: HTTP Error 404: Not Found",
-"greenhouse/evenup: HTTP Error 404: Not Found",
-"lever/evenup: HTTP Error 404: Not Found",
 "greenhouse/ashbyhq: HTTP Error 404: Not Found",
 "ashby/ashbyhq: HTTP Error 404: Not Found",
-"lever/ashbyhq: HTTP Error 404: Not Found"
+"lever/ashbyhq: HTTP Error 404: Not Found",
+"greenhouse/evenup: HTTP Error 404: Not Found",
+"lever/evenup: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -6201,7 +6240,7 @@
 "ats": "greenhouse",
 "slug": "axon",
 "how": "listed",
-"total": 485,
+"total": 479,
 "swe_us": 34
 },
 {
@@ -6344,7 +6383,7 @@
 "ats": "ashby",
 "slug": "plentific",
 "how": "page",
-"total": 21,
+"total": 20,
 "swe_us": 0
 },
 {
@@ -6400,11 +6439,16 @@
 "employees": 4722,
 "city": "Ventura",
 "swe_flag": true,
+"errors": [
+"greenhouse/the-trade-desk: HTTP Error 404: Not Found",
+"ashby/the-trade-desk: HTTP Error 404: Not Found",
+"lever/the-trade-desk: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "thetradedesk",
 "how": "guessed",
-"total": 105,
+"total": 106,
 "swe_us": 12
 },
 {
@@ -6432,15 +6476,15 @@
 "city": "Jacksonville",
 "swe_flag": false,
 "errors": [
-"greenhouse/breezy-hr: HTTP Error 404: Not Found",
-"ashby/breezy-hr: HTTP Error 404: Not Found",
-"lever/breezy-hr: HTTP Error 404: Not Found",
+"greenhouse/breezyhr: HTTP Error 404: Not Found",
+"ashby/breezyhr: HTTP Error 404: Not Found",
+"lever/breezyhr: HTTP Error 404: Not Found",
 "greenhouse/breezy: HTTP Error 404: Not Found",
 "ashby/breezy: HTTP Error 404: Not Found",
 "lever/breezy: HTTP Error 404: Not Found",
-"greenhouse/breezyhr: HTTP Error 404: Not Found",
-"ashby/breezyhr: HTTP Error 404: Not Found",
-"lever/breezyhr: HTTP Error 404: Not Found"
+"greenhouse/breezy-hr: HTTP Error 404: Not Found",
+"ashby/breezy-hr: HTTP Error 404: Not Found",
+"lever/breezy-hr: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -6471,8 +6515,8 @@
 "ats": "greenhouse",
 "slug": "orcasecurity",
 "how": "guessed",
-"total": 10,
-"swe_us": 2
+"total": 11,
+"swe_us": 3
 },
 {
 "id": "rec23vgSLvPzxXDaZ",
@@ -6564,7 +6608,7 @@
 "ats": "ashby",
 "slug": "candidhealth",
 "how": "listed",
-"total": 30,
+"total": 31,
 "swe_us": 7
 },
 {
@@ -6621,12 +6665,12 @@
 "city": "London",
 "swe_flag": false,
 "errors": [
-"greenhouse/info-tech-research-group: HTTP Error 404: Not Found",
-"ashby/info-tech-research-group: HTTP Error 404: Not Found",
-"lever/info-tech-research-group: HTTP Error 404: Not Found",
 "greenhouse/infotechresearchgroup: HTTP Error 404: Not Found",
 "ashby/infotechresearchgroup: HTTP Error 404: Not Found",
-"lever/infotechresearchgroup: HTTP Error 404: Not Found"
+"lever/infotechresearchgroup: HTTP Error 404: Not Found",
+"greenhouse/info-tech-research-group: HTTP Error 404: Not Found",
+"ashby/info-tech-research-group: HTTP Error 404: Not Found",
+"lever/info-tech-research-group: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -6642,7 +6686,7 @@
 "ats": "greenhouse",
 "slug": "via",
 "how": "page",
-"total": 176,
+"total": 177,
 "swe_us": 8
 },
 {
@@ -6654,12 +6698,12 @@
 "city": "Irvine",
 "swe_flag": true,
 "errors": [
-"greenhouse/blizzard-entertainment: HTTP Error 404: Not Found",
-"ashby/blizzard-entertainment: HTTP Error 404: Not Found",
-"lever/blizzard-entertainment: HTTP Error 404: Not Found",
 "greenhouse/blizzardentertainment: HTTP Error 404: Not Found",
 "ashby/blizzardentertainment: HTTP Error 404: Not Found",
-"lever/blizzardentertainment: HTTP Error 404: Not Found"
+"lever/blizzardentertainment: HTTP Error 404: Not Found",
+"greenhouse/blizzard-entertainment: HTTP Error 404: Not Found",
+"ashby/blizzard-entertainment: HTTP Error 404: Not Found",
+"lever/blizzard-entertainment: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -6675,7 +6719,7 @@
 "ats": "greenhouse",
 "slug": "shipbobinc",
 "how": "listed",
-"total": 67,
+"total": 66,
 "swe_us": 0
 },
 {
@@ -6741,7 +6785,7 @@
 "ats": "ashby",
 "slug": "airwallex",
 "how": "guessed",
-"total": 482,
+"total": 492,
 "swe_us": 35
 },
 {
@@ -6789,7 +6833,7 @@
 "ats": "greenhouse",
 "slug": "coinbase",
 "how": "guessed",
-"total": 276,
+"total": 278,
 "swe_us": 62
 },
 {
@@ -6804,7 +6848,7 @@
 "ats": "greenhouse",
 "slug": "applecart",
 "how": "page",
-"total": 15,
+"total": 14,
 "swe_us": 2
 },
 {
@@ -6836,7 +6880,7 @@
 "ats": "workday",
 "slug": "paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
 "how": "page",
-"total": 141,
+"total": 142,
 "swe_us": 0
 },
 {
@@ -6851,8 +6895,8 @@
 "ats": "greenhouse",
 "slug": "zscaler",
 "how": "guessed",
-"total": 373,
-"swe_us": 40
+"total": 377,
+"swe_us": 41
 },
 {
 "id": "recHhySoqMSrE7VoZ",
@@ -6911,7 +6955,7 @@
 "ats": "lever",
 "slug": "basis",
 "how": "listed",
-"total": 5,
+"total": 8,
 "swe_us": 2
 },
 {
@@ -6989,7 +7033,7 @@
 "ats": "greenhouse",
 "slug": "figure",
 "how": "listed",
-"total": 20,
+"total": 21,
 "swe_us": 0
 },
 {
@@ -7001,12 +7045,12 @@
 "city": "Surry Hills",
 "swe_flag": true,
 "errors": [
-"greenhouse/propeller: HTTP Error 404: Not Found",
-"ashby/propeller: HTTP Error 404: Not Found",
-"lever/propeller: HTTP Error 404: Not Found",
 "greenhouse/breezy: HTTP Error 404: Not Found",
 "ashby/breezy: HTTP Error 404: Not Found",
-"lever/breezy: HTTP Error 404: Not Found"
+"lever/breezy: HTTP Error 404: Not Found",
+"greenhouse/propeller: HTTP Error 404: Not Found",
+"ashby/propeller: HTTP Error 404: Not Found",
+"lever/propeller: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -7282,7 +7326,7 @@
 "ats": "ashby",
 "slug": "webflow",
 "how": "guessed",
-"total": 21,
+"total": 22,
 "swe_us": 3
 },
 {
@@ -7297,8 +7341,8 @@
 "ats": "greenhouse",
 "slug": "riotgames",
 "how": "listed",
-"total": 185,
-"swe_us": 37
+"total": 186,
+"swe_us": 38
 },
 {
 "id": "reczajHxaJVI6iEBT",
@@ -7424,7 +7468,7 @@
 "ats": "greenhouse",
 "slug": "mozilla",
 "how": "guessed",
-"total": 111,
+"total": 112,
 "swe_us": 8
 },
 {
@@ -7443,7 +7487,7 @@
 "ats": "ashby",
 "slug": "drata",
 "how": "guessed",
-"total": 26,
+"total": 25,
 "swe_us": 9
 },
 {
@@ -7463,8 +7507,8 @@
 "ats": "greenhouse",
 "slug": "uberfreight",
 "how": "guessed",
-"total": 97,
-"swe_us": 8
+"total": 101,
+"swe_us": 9
 },
 {
 "id": "recwyBCz8JrbAztyZ",
@@ -7646,7 +7690,7 @@
 "ats": "workday",
 "slug": "availity.wd1.myworkdayjobs.com/Availity_Careers_US",
 "how": "listed",
-"total": 2,
+"total": 3,
 "swe_us": 1
 },
 {
@@ -7766,7 +7810,7 @@
 "ats": "ashby",
 "slug": "multiverse",
 "how": "listed",
-"total": 27,
+"total": 26,
 "swe_us": 0
 },
 {
@@ -7841,8 +7885,8 @@
 "ats": "lever",
 "slug": "loftorbital",
 "how": "listed",
-"total": 76,
-"swe_us": 23
+"total": 78,
+"swe_us": 26
 },
 {
 "id": "recH9cRVmf1vEXlgu",
@@ -7856,7 +7900,7 @@
 "ats": "ashby",
 "slug": "loopio",
 "how": "listed",
-"total": 18,
+"total": 17,
 "swe_us": 0
 },
 {
@@ -7916,7 +7960,7 @@
 "ats": "greenhouse",
 "slug": "verve",
 "how": "listed",
-"total": 30,
+"total": 31,
 "swe_us": 0
 },
 {
@@ -7928,12 +7972,12 @@
 "city": "Dallas",
 "swe_flag": false,
 "errors": [
-"greenhouse/at-t: HTTP Error 404: Not Found",
-"ashby/at-t: HTTP Error 404: Not Found",
-"lever/at-t: HTTP Error 404: Not Found",
 "greenhouse/att: HTTP Error 404: Not Found",
 "ashby/att: HTTP Error 404: Not Found",
-"lever/att: HTTP Error 404: Not Found"
+"lever/att: HTTP Error 404: Not Found",
+"greenhouse/at-t: HTTP Error 404: Not Found",
+"ashby/at-t: HTTP Error 404: Not Found",
+"lever/at-t: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -7949,7 +7993,7 @@
 "ats": "greenhouse",
 "slug": "gropyus",
 "how": "page",
-"total": 78,
+"total": 47,
 "swe_us": 0
 },
 {
@@ -7995,16 +8039,11 @@
 "employees": 1702,
 "city": "Tel Aviv",
 "swe_flag": false,
-"errors": [
-"greenhouse/cato-networks: HTTP Error 404: Not Found",
-"ashby/cato-networks: HTTP Error 404: Not Found",
-"lever/cato-networks: HTTP Error 404: Not Found"
-],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "catonetworks",
 "how": "guessed",
-"total": 109,
+"total": 114,
 "swe_us": 13
 },
 {
@@ -8092,15 +8131,15 @@
 "swe_flag": false,
 "page_error": "HTTP Error 403: Forbidden",
 "errors": [
-"greenhouse/craftco: HTTP Error 404: Not Found",
-"ashby/craftco: HTTP Error 404: Not Found",
-"lever/craftco: HTTP Error 404: Not Found",
 "greenhouse/global: HTTP Error 404: Not Found",
 "ashby/global: HTTP Error 404: Not Found",
 "lever/global: HTTP Error 404: Not Found",
 "greenhouse/craft-co: HTTP Error 404: Not Found",
 "ashby/craft-co: HTTP Error 404: Not Found",
-"lever/craft-co: HTTP Error 404: Not Found"
+"lever/craft-co: HTTP Error 404: Not Found",
+"greenhouse/craftco: HTTP Error 404: Not Found",
+"ashby/craftco: HTTP Error 404: Not Found",
+"lever/craftco: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8116,7 +8155,7 @@
 "ats": "greenhouse",
 "slug": "elastic",
 "how": "listed",
-"total": 422,
+"total": 424,
 "swe_us": 35
 },
 {
@@ -8161,6 +8200,9 @@
 "greenhouse/impactmybiz: HTTP Error 404: Not Found",
 "ashby/impactmybiz: HTTP Error 404: Not Found",
 "lever/impactmybiz: HTTP Error 404: Not Found",
+"greenhouse/impactnetworking: HTTP Error 404: Not Found",
+"ashby/impactnetworking: HTTP Error 404: Not Found",
+"lever/impactnetworking: HTTP Error 404: Not Found",
 "greenhouse/impact-networking: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -8182,8 +8224,8 @@
 "ats": "lever",
 "slug": "zoox",
 "how": "listed",
-"total": 225,
-"swe_us": 67
+"total": 228,
+"swe_us": 69
 },
 {
 "id": "rec6zPLhjVnZETcsV",
@@ -8195,14 +8237,14 @@
 "swe_flag": true,
 "errors": [
 "lever/ChefRobotics: HTTP Error 404: Not Found",
+"greenhouse/chefrobotics: HTTP Error 404: Not Found",
+"ashby/chefrobotics: HTTP Error 404: Not Found",
+"lever/chefrobotics: HTTP Error 404: Not Found",
 "greenhouse/chef-robotics: HTTP Error 404: Not Found",
 "ashby/chef-robotics: HTTP Error 404: Not Found",
 "lever/chef-robotics: HTTP Error 404: Not Found",
 "greenhouse/lever: HTTP Error 404: Not Found",
-"ashby/lever: HTTP Error 404: Not Found",
-"greenhouse/chefrobotics: HTTP Error 404: Not Found",
-"ashby/chefrobotics: HTTP Error 404: Not Found",
-"lever/chefrobotics: HTTP Error 404: Not Found"
+"ashby/lever: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8233,7 +8275,7 @@
 "ats": "greenhouse",
 "slug": "ripple",
 "how": "listed",
-"total": 112,
+"total": 113,
 "swe_us": 10
 },
 {
@@ -8260,12 +8302,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
-"greenhouse/uber-com: HTTP Error 404: Not Found",
-"ashby/uber-com: HTTP Error 404: Not Found",
-"lever/uber-com: HTTP Error 404: Not Found",
 "greenhouse/uber: HTTP Error 404: Not Found",
 "ashby/uber: HTTP Error 404: Not Found",
-"lever/uber: HTTP Error 404: Not Found"
+"lever/uber: HTTP Error 404: Not Found",
+"greenhouse/uber-com: HTTP Error 404: Not Found",
+"ashby/uber-com: HTTP Error 404: Not Found",
+"lever/uber-com: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8326,7 +8368,7 @@
 "ats": "ashby",
 "slug": "mimica",
 "how": "page",
-"total": 15,
+"total": 16,
 "swe_us": 0
 },
 {
@@ -8371,15 +8413,15 @@
 "city": "Chicago",
 "swe_flag": false,
 "errors": [
-"greenhouse/lasallenetwork: HTTP Error 404: Not Found",
-"ashby/lasallenetwork: HTTP Error 404: Not Found",
-"lever/lasallenetwork: HTTP Error 404: Not Found",
+"greenhouse/lasalle-network: HTTP Error 404: Not Found",
+"ashby/lasalle-network: HTTP Error 404: Not Found",
+"lever/lasalle-network: HTTP Error 404: Not Found",
 "greenhouse/thelasallenetwork: HTTP Error 404: Not Found",
 "ashby/thelasallenetwork: HTTP Error 404: Not Found",
 "lever/thelasallenetwork: HTTP Error 404: Not Found",
-"greenhouse/lasalle-network: HTTP Error 404: Not Found",
-"ashby/lasalle-network: HTTP Error 404: Not Found",
-"lever/lasalle-network: HTTP Error 404: Not Found"
+"greenhouse/lasallenetwork: HTTP Error 404: Not Found",
+"ashby/lasallenetwork: HTTP Error 404: Not Found",
+"lever/lasallenetwork: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8410,7 +8452,7 @@
 "ats": "lever",
 "slug": "matchgroup",
 "how": "listed",
-"total": 60,
+"total": 61,
 "swe_us": 16
 },
 {
@@ -8539,7 +8581,7 @@
 "ats": "greenhouse",
 "slug": "block",
 "how": "guessed",
-"total": 203,
+"total": 201,
 "swe_us": 32
 },
 {
@@ -8581,12 +8623,12 @@
 "city": "Glen Allen",
 "swe_flag": true,
 "errors": [
-"greenhouse/apex-systems: HTTP Error 404: Not Found",
-"ashby/apex-systems: HTTP Error 404: Not Found",
-"lever/apex-systems: HTTP Error 404: Not Found",
 "greenhouse/apexsystems: HTTP Error 404: Not Found",
 "ashby/apexsystems: HTTP Error 404: Not Found",
-"lever/apexsystems: HTTP Error 404: Not Found"
+"lever/apexsystems: HTTP Error 404: Not Found",
+"greenhouse/apex-systems: HTTP Error 404: Not Found",
+"ashby/apex-systems: HTTP Error 404: Not Found",
+"lever/apex-systems: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8631,6 +8673,11 @@
 "employees": 103,
 "city": "San Francisco",
 "swe_flag": true,
+"errors": [
+"greenhouse/glideapps: HTTP Error 404: Not Found",
+"ashby/glideapps: HTTP Error 404: Not Found",
+"lever/glideapps: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "glide",
@@ -8650,8 +8697,8 @@
 "ats": "greenhouse",
 "slug": "stripe",
 "how": "listed",
-"total": 754,
-"swe_us": 78
+"total": 756,
+"swe_us": 76
 },
 {
 "id": "recjO66FyVWganzrs",
@@ -8782,11 +8829,11 @@
 "city": "New York",
 "swe_flag": true,
 "errors": [
-"ashby/doubleverify: HTTP Error 404: Not Found",
-"lever/doubleverify: HTTP Error 404: Not Found",
 "greenhouse/doubleverify-inc: HTTP Error 404: Not Found",
 "ashby/doubleverify-inc: HTTP Error 404: Not Found",
-"lever/doubleverify-inc: HTTP Error 404: Not Found"
+"lever/doubleverify-inc: HTTP Error 404: Not Found",
+"ashby/doubleverify: HTTP Error 404: Not Found",
+"lever/doubleverify: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8802,12 +8849,12 @@
 "greenhouse/keyence-corporation: HTTP Error 404: Not Found",
 "ashby/keyence-corporation: HTTP Error 404: Not Found",
 "lever/keyence-corporation: HTTP Error 404: Not Found",
-"greenhouse/keyencecorporation: HTTP Error 404: Not Found",
-"ashby/keyencecorporation: HTTP Error 404: Not Found",
-"lever/keyencecorporation: HTTP Error 404: Not Found",
 "greenhouse/keyence: HTTP Error 404: Not Found",
 "ashby/keyence: HTTP Error 404: Not Found",
-"lever/keyence: HTTP Error 404: Not Found"
+"lever/keyence: HTTP Error 404: Not Found",
+"greenhouse/keyencecorporation: HTTP Error 404: Not Found",
+"ashby/keyencecorporation: HTTP Error 404: Not Found",
+"lever/keyencecorporation: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8916,12 +8963,12 @@
 "city": "San Francisco",
 "swe_flag": false,
 "errors": [
-"greenhouse/yelp-com: HTTP Error 404: Not Found",
-"ashby/yelp-com: HTTP Error 404: Not Found",
-"lever/yelp-com: HTTP Error 404: Not Found",
 "greenhouse/yelp: HTTP Error 404: Not Found",
 "ashby/yelp: HTTP Error 404: Not Found",
-"lever/yelp: HTTP Error 404: Not Found"
+"lever/yelp: HTTP Error 404: Not Found",
+"greenhouse/yelp-com: HTTP Error 404: Not Found",
+"ashby/yelp-com: HTTP Error 404: Not Found",
+"lever/yelp-com: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -8952,12 +8999,12 @@
 "city": "Springfield",
 "swe_flag": false,
 "errors": [
-"greenhouse/massmutual-financial-group: HTTP Error 404: Not Found",
-"ashby/massmutual-financial-group: HTTP Error 404: Not Found",
-"lever/massmutual-financial-group: HTTP Error 404: Not Found",
 "greenhouse/massmutual: HTTP Error 404: Not Found",
 "ashby/massmutual: HTTP Error 404: Not Found",
-"lever/massmutual: HTTP Error 404: Not Found"
+"lever/massmutual: HTTP Error 404: Not Found",
+"greenhouse/massmutual-financial-group: HTTP Error 404: Not Found",
+"ashby/massmutual-financial-group: HTTP Error 404: Not Found",
+"lever/massmutual-financial-group: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9021,7 +9068,7 @@
 "ats": "lever",
 "slug": "zopa",
 "how": "listed",
-"total": 33,
+"total": 29,
 "swe_us": 1
 },
 {
@@ -9111,7 +9158,7 @@
 "ats": "ashby",
 "slug": "Uberall",
 "how": "listed",
-"total": 9,
+"total": 8,
 "swe_us": 1
 },
 {
@@ -9136,11 +9183,6 @@
 "employees": 170,
 "city": "Austin",
 "swe_flag": true,
-"errors": [
-"greenhouse/episode-six: HTTP Error 404: Not Found",
-"ashby/episode-six: HTTP Error 404: Not Found",
-"lever/episode-six: HTTP Error 404: Not Found"
-],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "episodesix",
@@ -9172,15 +9214,15 @@
 "city": "Copenhagen",
 "swe_flag": false,
 "errors": [
-"greenhouse/apmollermaersk: HTTP Error 404: Not Found",
-"ashby/apmollermaersk: HTTP Error 404: Not Found",
-"lever/apmollermaersk: HTTP Error 404: Not Found",
 "greenhouse/a-p-moller-maersk: HTTP Error 404: Not Found",
 "ashby/a-p-moller-maersk: HTTP Error 404: Not Found",
 "lever/a-p-moller-maersk: HTTP Error 404: Not Found",
 "greenhouse/maersk-group: HTTP Error 404: Not Found",
 "ashby/maersk-group: HTTP Error 404: Not Found",
-"lever/maersk-group: HTTP Error 404: Not Found"
+"lever/maersk-group: HTTP Error 404: Not Found",
+"greenhouse/apmollermaersk: HTTP Error 404: Not Found",
+"ashby/apmollermaersk: HTTP Error 404: Not Found",
+"lever/apmollermaersk: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9226,12 +9268,12 @@
 "greenhouse/aktionassociates: HTTP Error 404: Not Found",
 "ashby/aktionassociates: HTTP Error 404: Not Found",
 "lever/aktionassociates: HTTP Error 404: Not Found",
-"greenhouse/aktion: HTTP Error 404: Not Found",
-"ashby/aktion: HTTP Error 404: Not Found",
-"lever/aktion: HTTP Error 404: Not Found",
 "greenhouse/aktion-associates: HTTP Error 404: Not Found",
 "ashby/aktion-associates: HTTP Error 404: Not Found",
-"lever/aktion-associates: HTTP Error 404: Not Found"
+"lever/aktion-associates: HTTP Error 404: Not Found",
+"greenhouse/aktion: HTTP Error 404: Not Found",
+"ashby/aktion: HTTP Error 404: Not Found",
+"lever/aktion: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9340,7 +9382,7 @@
 "ats": "workday",
 "slug": "crowe.wd12.myworkdayjobs.com/en-US/External_Careers",
 "how": "listed",
-"total": 11,
+"total": 12,
 "swe_us": 2
 },
 {
@@ -9355,7 +9397,7 @@
 "ats": "ashby",
 "slug": "ProvenirInc",
 "how": "page",
-"total": 18,
+"total": 17,
 "swe_us": 1
 },
 {
@@ -9382,12 +9424,12 @@
 "city": "Boston",
 "swe_flag": false,
 "errors": [
-"greenhouse/vicinityenergy: HTTP Error 404: Not Found",
-"ashby/vicinityenergy: HTTP Error 404: Not Found",
-"lever/vicinityenergy: HTTP Error 404: Not Found",
 "greenhouse/vicinity-energy: HTTP Error 404: Not Found",
 "ashby/vicinity-energy: HTTP Error 404: Not Found",
-"lever/vicinity-energy: HTTP Error 404: Not Found"
+"lever/vicinity-energy: HTTP Error 404: Not Found",
+"greenhouse/vicinityenergy: HTTP Error 404: Not Found",
+"ashby/vicinityenergy: HTTP Error 404: Not Found",
+"lever/vicinityenergy: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9444,12 +9486,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
-"greenhouse/nueio: HTTP Error 404: Not Found",
-"ashby/nueio: HTTP Error 404: Not Found",
-"lever/nueio: HTTP Error 404: Not Found",
 "greenhouse/nue-io: HTTP Error 404: Not Found",
 "ashby/nue-io: HTTP Error 404: Not Found",
-"lever/nue-io: HTTP Error 404: Not Found"
+"lever/nue-io: HTTP Error 404: Not Found",
+"greenhouse/nueio: HTTP Error 404: Not Found",
+"ashby/nueio: HTTP Error 404: Not Found",
+"lever/nueio: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9462,12 +9504,12 @@
 "city": "New York",
 "swe_flag": false,
 "errors": [
-"greenhouse/goldmansachs: HTTP Error 404: Not Found",
-"ashby/goldmansachs: HTTP Error 404: Not Found",
-"lever/goldmansachs: HTTP Error 404: Not Found",
 "greenhouse/goldman-sachs: HTTP Error 404: Not Found",
 "ashby/goldman-sachs: HTTP Error 404: Not Found",
-"lever/goldman-sachs: HTTP Error 404: Not Found"
+"lever/goldman-sachs: HTTP Error 404: Not Found",
+"greenhouse/goldmansachs: HTTP Error 404: Not Found",
+"ashby/goldmansachs: HTTP Error 404: Not Found",
+"lever/goldmansachs: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9509,6 +9551,11 @@
 "employees": 1220,
 "city": "Denver",
 "swe_flag": false,
+"errors": [
+"greenhouse/guildeducation: HTTP Error 404: Not Found",
+"ashby/guildeducation: HTTP Error 404: Not Found",
+"lever/guildeducation: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "guild",
@@ -9556,12 +9603,12 @@
 "swe_flag": true,
 "errors": [
 "teamtailor/https://www.teamtailor.com: HTTP Error 404: Not Found",
-"greenhouse/oneclicklca: HTTP Error 404: Not Found",
-"ashby/oneclicklca: HTTP Error 404: Not Found",
-"lever/oneclicklca: HTTP Error 404: Not Found",
 "greenhouse/one-click-lca: HTTP Error 404: Not Found",
 "ashby/one-click-lca: HTTP Error 404: Not Found",
-"lever/one-click-lca: HTTP Error 404: Not Found"
+"lever/one-click-lca: HTTP Error 404: Not Found",
+"greenhouse/oneclicklca: HTTP Error 404: Not Found",
+"ashby/oneclicklca: HTTP Error 404: Not Found",
+"lever/oneclicklca: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9592,7 +9639,7 @@
 "ats": "greenhouse",
 "slug": "harbingermotors",
 "how": "listed",
-"total": 91,
+"total": 90,
 "swe_us": 5
 },
 {
@@ -9622,7 +9669,7 @@
 "ats": "greenhouse",
 "slug": "3cloud",
 "how": "page",
-"total": 38,
+"total": 36,
 "swe_us": 0
 },
 {
@@ -9723,7 +9770,7 @@
 "ats": "greenhouse",
 "slug": "expel",
 "how": "listed",
-"total": 6,
+"total": 7,
 "swe_us": 0
 },
 {
@@ -9735,12 +9782,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
-"greenhouse/gametime-united: HTTP Error 404: Not Found",
-"ashby/gametime-united: HTTP Error 404: Not Found",
-"lever/gametime-united: HTTP Error 404: Not Found",
 "greenhouse/gametime: HTTP Error 404: Not Found",
 "ashby/gametime: HTTP Error 404: Not Found",
-"lever/gametime: HTTP Error 404: Not Found"
+"lever/gametime: HTTP Error 404: Not Found",
+"greenhouse/gametime-united: HTTP Error 404: Not Found",
+"ashby/gametime-united: HTTP Error 404: Not Found",
+"lever/gametime-united: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -9776,7 +9823,7 @@
 "ats": "greenhouse",
 "slug": "mavenclinic",
 "how": "guessed",
-"total": 29,
+"total": 30,
 "swe_us": 8
 },
 {
@@ -9843,7 +9890,7 @@
 "ats": "lever",
 "slug": "rover",
 "how": "listed",
-"total": 33,
+"total": 32,
 "swe_us": 1
 },
 {
@@ -9921,7 +9968,7 @@
 "ats": "greenhouse",
 "slug": "ceribell",
 "how": "listed",
-"total": 36,
+"total": 37,
 "swe_us": 0
 },
 {
@@ -10039,12 +10086,12 @@
 "city": "San Francisco",
 "swe_flag": true,
 "errors": [
-"greenhouse/voltagepark: HTTP Error 404: Not Found",
-"ashby/voltagepark: HTTP Error 404: Not Found",
-"lever/voltagepark: HTTP Error 404: Not Found",
 "greenhouse/voltage-park: HTTP Error 404: Not Found",
 "ashby/voltage-park: HTTP Error 404: Not Found",
-"lever/voltage-park: HTTP Error 404: Not Found"
+"lever/voltage-park: HTTP Error 404: Not Found",
+"greenhouse/voltagepark: HTTP Error 404: Not Found",
+"ashby/voltagepark: HTTP Error 404: Not Found",
+"lever/voltagepark: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10056,11 +10103,16 @@
 "employees": 453,
 "city": "Boston",
 "swe_flag": false,
+"errors": [
+"greenhouse/fusion-worldwide: HTTP Error 404: Not Found",
+"ashby/fusion-worldwide: HTTP Error 404: Not Found",
+"lever/fusion-worldwide: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "fusionworldwide",
 "how": "guessed",
-"total": 34,
+"total": 33,
 "swe_us": 2
 },
 {
@@ -10075,7 +10127,7 @@
 "ats": "greenhouse",
 "slug": "tide",
 "how": "listed",
-"total": 84,
+"total": 81,
 "swe_us": 2
 },
 {
@@ -10094,8 +10146,8 @@
 "ats": "lever",
 "slug": "goodleap",
 "how": "guessed",
-"total": 27,
-"swe_us": 5
+"total": 28,
+"swe_us": 6
 },
 {
 "id": "rec90zwB68XyLK5IS",
@@ -10125,15 +10177,15 @@
 "city": "Danvers",
 "swe_flag": false,
 "errors": [
-"greenhouse/business-applications-division-of-atlantic: HTTP Error 404: Not Found",
-"ashby/business-applications-division-of-atlantic: HTTP Error 404: Not Found",
-"lever/business-applications-division-of-atlantic: HTTP Error 404: Not Found",
 "greenhouse/brainsell: HTTP Error 404: Not Found",
 "ashby/brainsell: HTTP Error 404: Not Found",
 "lever/brainsell: HTTP Error 404: Not Found",
 "greenhouse/businessapplicationsdivisionofatlantic: HTTP Error 404: Not Found",
 "ashby/businessapplicationsdivisionofatlantic: HTTP Error 404: Not Found",
-"lever/businessapplicationsdivisionofatlantic: HTTP Error 404: Not Found"
+"lever/businessapplicationsdivisionofatlantic: HTTP Error 404: Not Found",
+"greenhouse/business-applications-division-of-atlantic: HTTP Error 404: Not Found",
+"ashby/business-applications-division-of-atlantic: HTTP Error 404: Not Found",
+"lever/business-applications-division-of-atlantic: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10179,7 +10231,7 @@
 "ats": "smartrecruiters",
 "slug": "InformaGroupPlc",
 "how": "listed",
-"total": 144,
+"total": 147,
 "swe_us": 0
 },
 {
@@ -10194,12 +10246,12 @@
 "greenhouse/eci-software-solutions: HTTP Error 404: Not Found",
 "ashby/eci-software-solutions: HTTP Error 404: Not Found",
 "lever/eci-software-solutions: HTTP Error 404: Not Found",
-"greenhouse/eci-software--solutions: HTTP Error 404: Not Found",
-"ashby/eci-software--solutions: HTTP Error 404: Not Found",
-"lever/eci-software--solutions: HTTP Error 404: Not Found",
 "greenhouse/ecisoftwaresolutions: HTTP Error 404: Not Found",
 "ashby/ecisoftwaresolutions: HTTP Error 404: Not Found",
-"lever/ecisoftwaresolutions: HTTP Error 404: Not Found"
+"lever/ecisoftwaresolutions: HTTP Error 404: Not Found",
+"greenhouse/eci-software--solutions: HTTP Error 404: Not Found",
+"ashby/eci-software--solutions: HTTP Error 404: Not Found",
+"lever/eci-software--solutions: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10261,7 +10313,7 @@
 "ats": "lever",
 "slug": "brightmachines",
 "how": "listed",
-"total": 15,
+"total": 16,
 "swe_us": 3
 },
 {
@@ -10288,12 +10340,12 @@
 "city": "Quebec",
 "swe_flag": false,
 "errors": [
-"greenhouse/osfdigital: HTTP Error 404: Not Found",
-"ashby/osfdigital: HTTP Error 404: Not Found",
-"lever/osfdigital: HTTP Error 404: Not Found",
 "greenhouse/osf-digital: HTTP Error 404: Not Found",
 "ashby/osf-digital: HTTP Error 404: Not Found",
-"lever/osf-digital: HTTP Error 404: Not Found"
+"lever/osf-digital: HTTP Error 404: Not Found",
+"greenhouse/osfdigital: HTTP Error 404: Not Found",
+"ashby/osfdigital: HTTP Error 404: Not Found",
+"lever/osfdigital: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10309,7 +10361,7 @@
 "ats": "greenhouse",
 "slug": "tactacam",
 "how": "listed",
-"total": 14,
+"total": 13,
 "swe_us": 1
 },
 {
@@ -10432,12 +10484,12 @@
 "city": "Detroit",
 "swe_flag": false,
 "errors": [
-"greenhouse/ascent-cloud: HTTP Error 404: Not Found",
-"ashby/ascent-cloud: HTTP Error 404: Not Found",
-"lever/ascent-cloud: HTTP Error 404: Not Found",
 "greenhouse/ascentcloud: HTTP Error 404: Not Found",
 "ashby/ascentcloud: HTTP Error 404: Not Found",
-"lever/ascentcloud: HTTP Error 404: Not Found"
+"lever/ascentcloud: HTTP Error 404: Not Found",
+"greenhouse/ascent-cloud: HTTP Error 404: Not Found",
+"ashby/ascent-cloud: HTTP Error 404: Not Found",
+"lever/ascent-cloud: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10449,6 +10501,11 @@
 "employees": 703,
 "city": "San Francisco",
 "swe_flag": true,
+"errors": [
+"greenhouse/coalitioninc: HTTP Error 404: Not Found",
+"ashby/coalitioninc: HTTP Error 404: Not Found",
+"lever/coalitioninc: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "coalition",
@@ -10513,12 +10570,12 @@
 "recruitee/status: HTTP Error 404: Not Found",
 "recruitee/feedback: HTTP Error 404: Not Found",
 "recruitee/2Fsupport: HTTP Error 404: Not Found",
-"greenhouse/tellentrecruitee: HTTP Error 404: Not Found",
-"ashby/tellentrecruitee: HTTP Error 404: Not Found",
-"lever/tellentrecruitee: HTTP Error 404: Not Found",
 "greenhouse/tellent-recruitee: HTTP Error 404: Not Found",
 "ashby/tellent-recruitee: HTTP Error 404: Not Found",
-"lever/tellent-recruitee: HTTP Error 404: Not Found"
+"lever/tellent-recruitee: HTTP Error 404: Not Found",
+"greenhouse/tellentrecruitee: HTTP Error 404: Not Found",
+"ashby/tellentrecruitee: HTTP Error 404: Not Found",
+"lever/tellentrecruitee: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10561,15 +10618,15 @@
 "city": "Burlington",
 "swe_flag": false,
 "errors": [
-"greenhouse/new-breed: HTTP Error 404: Not Found",
-"ashby/new-breed: HTTP Error 404: Not Found",
-"lever/new-breed: HTTP Error 404: Not Found",
+"greenhouse/newbreedrevenue: HTTP Error 404: Not Found",
+"ashby/newbreedrevenue: HTTP Error 404: Not Found",
+"lever/newbreedrevenue: HTTP Error 404: Not Found",
 "greenhouse/newbreed: HTTP Error 404: Not Found",
 "ashby/newbreed: HTTP Error 404: Not Found",
 "lever/newbreed: HTTP Error 404: Not Found",
-"greenhouse/newbreedrevenue: HTTP Error 404: Not Found",
-"ashby/newbreedrevenue: HTTP Error 404: Not Found",
-"lever/newbreedrevenue: HTTP Error 404: Not Found"
+"greenhouse/new-breed: HTTP Error 404: Not Found",
+"ashby/new-breed: HTTP Error 404: Not Found",
+"lever/new-breed: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10597,12 +10654,12 @@
 "city": "Seattle",
 "swe_flag": false,
 "errors": [
-"greenhouse/amazon-web-services: HTTP Error 404: Not Found",
-"ashby/amazon-web-services: HTTP Error 404: Not Found",
-"lever/amazon-web-services: HTTP Error 404: Not Found",
 "greenhouse/amazonwebservices: HTTP Error 404: Not Found",
 "ashby/amazonwebservices: HTTP Error 404: Not Found",
-"lever/amazonwebservices: HTTP Error 404: Not Found"
+"lever/amazonwebservices: HTTP Error 404: Not Found",
+"greenhouse/amazon-web-services: HTTP Error 404: Not Found",
+"ashby/amazon-web-services: HTTP Error 404: Not Found",
+"lever/amazon-web-services: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10618,7 +10675,7 @@
 "ats": "ashby",
 "slug": "cleo-2",
 "how": "page",
-"total": 21,
+"total": 20,
 "swe_us": 0
 },
 {
@@ -10693,12 +10750,12 @@
 "city": "Tempe",
 "swe_flag": false,
 "errors": [
-"greenhouse/imagine-learning: HTTP Error 404: Not Found",
-"ashby/imagine-learning: HTTP Error 404: Not Found",
-"lever/imagine-learning: HTTP Error 404: Not Found",
 "greenhouse/imaginelearning: HTTP Error 404: Not Found",
 "ashby/imaginelearning: HTTP Error 404: Not Found",
-"lever/imaginelearning: HTTP Error 404: Not Found"
+"lever/imaginelearning: HTTP Error 404: Not Found",
+"greenhouse/imagine-learning: HTTP Error 404: Not Found",
+"ashby/imagine-learning: HTTP Error 404: Not Found",
+"lever/imagine-learning: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10712,12 +10769,12 @@
 "swe_flag": false,
 "errors": [
 "workday/osv-chegg.wd5.myworkdayjobs.com/Busuu: HTTP Error 422: Unprocessable Entity",
-"greenhouse/osv-chegg: HTTP Error 404: Not Found",
-"ashby/osv-chegg: HTTP Error 404: Not Found",
-"lever/osv-chegg: HTTP Error 404: Not Found",
 "greenhouse/busuu: HTTP Error 404: Not Found",
 "ashby/busuu: HTTP Error 404: Not Found",
-"lever/busuu: HTTP Error 404: Not Found"
+"lever/busuu: HTTP Error 404: Not Found",
+"greenhouse/osv-chegg: HTTP Error 404: Not Found",
+"ashby/osv-chegg: HTTP Error 404: Not Found",
+"lever/osv-chegg: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10763,12 +10820,12 @@
 "city": "Ottawa",
 "swe_flag": false,
 "errors": [
-"greenhouse/fidus-systems: HTTP Error 404: Not Found",
-"ashby/fidus-systems: HTTP Error 404: Not Found",
-"lever/fidus-systems: HTTP Error 404: Not Found",
 "greenhouse/fidussystems: HTTP Error 404: Not Found",
 "ashby/fidussystems: HTTP Error 404: Not Found",
 "lever/fidussystems: HTTP Error 404: Not Found",
+"greenhouse/fidus-systems: HTTP Error 404: Not Found",
+"ashby/fidus-systems: HTTP Error 404: Not Found",
+"lever/fidus-systems: HTTP Error 404: Not Found",
 "greenhouse/fidus: HTTP Error 404: Not Found",
 "ashby/fidus: HTTP Error 404: Not Found",
 "lever/fidus: HTTP Error 404: Not Found"
@@ -10785,12 +10842,12 @@
 "swe_flag": false,
 "page_error": "HTTP Error 403: Forbidden",
 "errors": [
-"greenhouse/trapp-technology: HTTP Error 404: Not Found",
-"ashby/trapp-technology: HTTP Error 404: Not Found",
-"lever/trapp-technology: HTTP Error 404: Not Found",
 "greenhouse/trapptechnology: HTTP Error 404: Not Found",
 "ashby/trapptechnology: HTTP Error 404: Not Found",
-"lever/trapptechnology: HTTP Error 404: Not Found"
+"lever/trapptechnology: HTTP Error 404: Not Found",
+"greenhouse/trapp-technology: HTTP Error 404: Not Found",
+"ashby/trapp-technology: HTTP Error 404: Not Found",
+"lever/trapp-technology: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -10833,6 +10890,11 @@
 "employees": 220,
 "city": "Boston",
 "swe_flag": false,
+"errors": [
+"greenhouse/tomorrow-io: HTTP Error 404: Not Found",
+"ashby/tomorrow-io: HTTP Error 404: Not Found",
+"lever/tomorrow-io: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "tomorrow",
@@ -10868,8 +10930,8 @@
 "ats": "greenhouse",
 "slug": "torcrobotics",
 "how": "guessed",
-"total": 49,
-"swe_us": 24
+"total": 48,
+"swe_us": 23
 },
 {
 "id": "recV8BReDa95EkxSJ",
@@ -11020,12 +11082,12 @@
 "city": "San Diego",
 "swe_flag": false,
 "errors": [
-"greenhouse/sayva-solutions: HTTP Error 404: Not Found",
-"ashby/sayva-solutions: HTTP Error 404: Not Found",
-"lever/sayva-solutions: HTTP Error 404: Not Found",
 "greenhouse/sayvasolutions: HTTP Error 404: Not Found",
 "ashby/sayvasolutions: HTTP Error 404: Not Found",
-"lever/sayvasolutions: HTTP Error 404: Not Found"
+"lever/sayvasolutions: HTTP Error 404: Not Found",
+"greenhouse/sayva-solutions: HTTP Error 404: Not Found",
+"ashby/sayva-solutions: HTTP Error 404: Not Found",
+"lever/sayva-solutions: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -11053,15 +11115,15 @@
 "city": "Mountain View",
 "swe_flag": true,
 "errors": [
+"greenhouse/hawkridgesys: HTTP Error 404: Not Found",
+"ashby/hawkridgesys: HTTP Error 404: Not Found",
+"lever/hawkridgesys: HTTP Error 404: Not Found",
 "greenhouse/hawk-ridge-systems: HTTP Error 404: Not Found",
 "ashby/hawk-ridge-systems: HTTP Error 404: Not Found",
 "lever/hawk-ridge-systems: HTTP Error 404: Not Found",
 "greenhouse/hawkridgesystems: HTTP Error 404: Not Found",
 "ashby/hawkridgesystems: HTTP Error 404: Not Found",
-"lever/hawkridgesystems: HTTP Error 404: Not Found",
-"greenhouse/hawkridgesys: HTTP Error 404: Not Found",
-"ashby/hawkridgesys: HTTP Error 404: Not Found",
-"lever/hawkridgesys: HTTP Error 404: Not Found"
+"lever/hawkridgesystems: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -11089,6 +11151,9 @@
 "city": "Remote",
 "swe_flag": false,
 "errors": [
+"greenhouse/circle-internet-financial: HTTP Error 404: Not Found",
+"ashby/circle-internet-financial: HTTP Error 404: Not Found",
+"lever/circle-internet-financial: HTTP Error 404: Not Found",
 "greenhouse/circle: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -11125,7 +11190,7 @@
 "ats": "greenhouse",
 "slug": "oura",
 "how": "listed",
-"total": 96,
+"total": 95,
 "swe_us": 6
 },
 {
@@ -11139,10 +11204,7 @@
 "errors": [
 "greenhouse/bestpassbyfleetworthy: HTTP Error 404: Not Found",
 "ashby/bestpassbyfleetworthy: HTTP Error 404: Not Found",
-"lever/bestpassbyfleetworthy: HTTP Error 404: Not Found",
-"greenhouse/bestpass-by-fleetworthy: HTTP Error 404: Not Found",
-"ashby/bestpass-by-fleetworthy: HTTP Error 404: Not Found",
-"lever/bestpass-by-fleetworthy: HTTP Error 404: Not Found"
+"lever/bestpassbyfleetworthy: HTTP Error 404: Not Found"
 ],
 "status": "ok",
 "ats": "greenhouse",
@@ -11181,8 +11243,8 @@
 "ats": "ashby",
 "slug": "paxos",
 "how": "guessed",
-"total": 23,
-"swe_us": 1
+"total": 24,
+"swe_us": 2
 },
 {
 "id": "recx3XBYPxO7sm1BN",
@@ -11241,8 +11303,8 @@
 "ats": "greenhouse",
 "slug": "automox",
 "how": "page",
-"total": 4,
-"swe_us": 2
+"total": 3,
+"swe_us": 1
 },
 {
 "id": "reck1cc3WGZoWfA7c",
@@ -11256,7 +11318,7 @@
 "ats": "greenhouse",
 "slug": "charterup",
 "how": "listed",
-"total": 13,
+"total": 17,
 "swe_us": 2
 },
 {
@@ -11286,7 +11348,7 @@
 "ats": "ashby",
 "slug": "propel",
 "how": "listed",
-"total": 7,
+"total": 6,
 "swe_us": 3
 },
 {
@@ -11301,7 +11363,7 @@
 "ats": "ashby",
 "slug": "grow-therapy",
 "how": "listed",
-"total": 28,
+"total": 29,
 "swe_us": 5
 },
 {
@@ -11348,7 +11410,7 @@
 "slug": "jll.wd1.myworkdayjobs.com/jllcareers",
 "how": "listed",
 "total": 40,
-"swe_us": 5
+"swe_us": 6
 },
 {
 "id": "recw7goNek5SDAzsV",
@@ -11428,7 +11490,7 @@
 "ats": "greenhouse",
 "slug": "dataiku",
 "how": "guessed",
-"total": 17,
+"total": 16,
 "swe_us": 0
 },
 {
@@ -11531,12 +11593,12 @@
 "city": "London",
 "swe_flag": false,
 "errors": [
-"greenhouse/lmaxgroup: HTTP Error 404: Not Found",
-"ashby/lmaxgroup: HTTP Error 404: Not Found",
-"lever/lmaxgroup: HTTP Error 404: Not Found",
 "greenhouse/lmax: HTTP Error 404: Not Found",
 "ashby/lmax: HTTP Error 404: Not Found",
 "lever/lmax: HTTP Error 404: Not Found",
+"greenhouse/lmaxgroup: HTTP Error 404: Not Found",
+"ashby/lmaxgroup: HTTP Error 404: Not Found",
+"lever/lmaxgroup: HTTP Error 404: Not Found",
 "greenhouse/lmax-group: HTTP Error 404: Not Found",
 "ashby/lmax-group: HTTP Error 404: Not Found",
 "lever/lmax-group: HTTP Error 404: Not Found"
@@ -11555,8 +11617,8 @@
 "ats": "greenhouse",
 "slug": "myfitnesspal",
 "how": "listed",
-"total": 6,
-"swe_us": 4
+"total": 7,
+"swe_us": 3
 },
 {
 "id": "recQpeLqmElQEsDqx",
@@ -11570,8 +11632,8 @@
 "ats": "workday",
 "slug": "aes.wd1.myworkdayjobs.com/en-US/AES_US",
 "how": "listed",
-"total": 4,
-"swe_us": 1
+"total": 3,
+"swe_us": 0
 },
 {
 "id": "recGKKA2flcsdJNDb",
@@ -11687,7 +11749,7 @@
 "ats": "workday",
 "slug": "empower.wd12.myworkdayjobs.com/empower",
 "how": "listed",
-"total": 3,
+"total": 4,
 "swe_us": 0
 },
 {
@@ -11768,7 +11830,7 @@
 "slug": "lego.wd103.myworkdayjobs.com/LEGO_External",
 "how": "listed",
 "total": 40,
-"swe_us": 8
+"swe_us": 7
 },
 {
 "id": "reccC53s6astc6ops",
@@ -12012,12 +12074,12 @@
 "city": "Richland",
 "swe_flag": true,
 "errors": [
-"greenhouse/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found",
-"ashby/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found",
-"lever/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found",
 "greenhouse/pacific-northwest-national-laboratory: HTTP Error 404: Not Found",
 "ashby/pacific-northwest-national-laboratory: HTTP Error 404: Not Found",
-"lever/pacific-northwest-national-laboratory: HTTP Error 404: Not Found"
+"lever/pacific-northwest-national-laboratory: HTTP Error 404: Not Found",
+"greenhouse/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found",
+"ashby/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found",
+"lever/pacificnorthwestnationallaboratory: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12033,7 +12095,7 @@
 "ats": "greenhouse",
 "slug": "gillig",
 "how": "page",
-"total": 8,
+"total": 7,
 "swe_us": 0
 },
 {
@@ -12070,6 +12132,11 @@
 "employees": 68,
 "city": "Morristown",
 "swe_flag": true,
+"errors": [
+"greenhouse/performline-inc: HTTP Error 404: Not Found",
+"ashby/performline-inc: HTTP Error 404: Not Found",
+"lever/performline-inc: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "performline",
@@ -12086,12 +12153,12 @@
 "city": "Austin",
 "swe_flag": false,
 "errors": [
-"greenhouse/base-power-company: HTTP Error 404: Not Found",
-"ashby/base-power-company: HTTP Error 404: Not Found",
-"lever/base-power-company: HTTP Error 404: Not Found",
 "greenhouse/basepowercompany: HTTP Error 404: Not Found",
 "ashby/basepowercompany: HTTP Error 404: Not Found",
-"lever/basepowercompany: HTTP Error 404: Not Found"
+"lever/basepowercompany: HTTP Error 404: Not Found",
+"greenhouse/base-power-company: HTTP Error 404: Not Found",
+"ashby/base-power-company: HTTP Error 404: Not Found",
+"lever/base-power-company: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12197,11 +12264,11 @@
 "city": "Waltham",
 "swe_flag": false,
 "errors": [
+"greenhouse/connectrn: HTTP Error 404: Not Found",
+"lever/connectrn: HTTP Error 404: Not Found",
 "greenhouse/breezy: HTTP Error 404: Not Found",
 "ashby/breezy: HTTP Error 404: Not Found",
-"lever/breezy: HTTP Error 404: Not Found",
-"greenhouse/connectrn: HTTP Error 404: Not Found",
-"lever/connectrn: HTTP Error 404: Not Found"
+"lever/breezy: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12258,8 +12325,8 @@
 "ats": "greenhouse",
 "slug": "invisibletech",
 "how": "page",
-"total": 23,
-"swe_us": 5
+"total": 22,
+"swe_us": 4
 },
 {
 "id": "recEjrnsK62CjYMvW",
@@ -12285,15 +12352,15 @@
 "city": "Tysons",
 "swe_flag": true,
 "errors": [
-"greenhouse/m-c-dean: HTTP Error 404: Not Found",
-"ashby/m-c-dean: HTTP Error 404: Not Found",
-"lever/m-c-dean: HTTP Error 404: Not Found",
 "greenhouse/m-c-dean-inc: HTTP Error 404: Not Found",
 "ashby/m-c-dean-inc: HTTP Error 404: Not Found",
 "lever/m-c-dean-inc: HTTP Error 404: Not Found",
 "greenhouse/mcdean: HTTP Error 404: Not Found",
 "ashby/mcdean: HTTP Error 404: Not Found",
-"lever/mcdean: HTTP Error 404: Not Found"
+"lever/mcdean: HTTP Error 404: Not Found",
+"greenhouse/m-c-dean: HTTP Error 404: Not Found",
+"ashby/m-c-dean: HTTP Error 404: Not Found",
+"lever/m-c-dean: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12306,12 +12373,12 @@
 "city": "Wilmington",
 "swe_flag": true,
 "errors": [
-"greenhouse/analogdevices: HTTP Error 404: Not Found",
-"ashby/analogdevices: HTTP Error 404: Not Found",
-"lever/analogdevices: HTTP Error 404: Not Found",
 "greenhouse/analog-devices: HTTP Error 404: Not Found",
 "ashby/analog-devices: HTTP Error 404: Not Found",
-"lever/analog-devices: HTTP Error 404: Not Found"
+"lever/analog-devices: HTTP Error 404: Not Found",
+"greenhouse/analogdevices: HTTP Error 404: Not Found",
+"ashby/analogdevices: HTTP Error 404: Not Found",
+"lever/analogdevices: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12417,12 +12484,12 @@
 "greenhouse/learn-amp-b-corp: HTTP Error 404: Not Found",
 "ashby/learn-amp-b-corp: HTTP Error 404: Not Found",
 "lever/learn-amp-b-corp: HTTP Error 404: Not Found",
-"greenhouse/learnampbcorp: HTTP Error 404: Not Found",
-"ashby/learnampbcorp: HTTP Error 404: Not Found",
-"lever/learnampbcorp: HTTP Error 404: Not Found",
 "greenhouse/learnamp: HTTP Error 404: Not Found",
 "ashby/learnamp: HTTP Error 404: Not Found",
-"lever/learnamp: HTTP Error 404: Not Found"
+"lever/learnamp: HTTP Error 404: Not Found",
+"greenhouse/learnampbcorp: HTTP Error 404: Not Found",
+"ashby/learnampbcorp: HTTP Error 404: Not Found",
+"lever/learnampbcorp: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12436,10 +12503,10 @@
 "swe_flag": false,
 "errors": [
 "lever/anyroad: HTTP Error 404: Not Found",
-"greenhouse/lever: HTTP Error 404: Not Found",
-"ashby/lever: HTTP Error 404: Not Found",
 "greenhouse/anyroad: HTTP Error 404: Not Found",
-"ashby/anyroad: HTTP Error 404: Not Found"
+"ashby/anyroad: HTTP Error 404: Not Found",
+"greenhouse/lever: HTTP Error 404: Not Found",
+"ashby/lever: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12542,6 +12609,11 @@
 "employees": 2307,
 "city": "Palo Alto",
 "swe_flag": true,
+"errors": [
+"greenhouse/khan-academy: HTTP Error 404: Not Found",
+"ashby/khan-academy: HTTP Error 404: Not Found",
+"lever/khan-academy: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "khanacademy",
@@ -12634,15 +12706,15 @@
 "city": null,
 "swe_flag": true,
 "errors": [
-"greenhouse/myurbanjungle: HTTP Error 404: Not Found",
-"ashby/myurbanjungle: HTTP Error 404: Not Found",
-"lever/myurbanjungle: HTTP Error 404: Not Found",
 "greenhouse/urban-jungle-insurance: HTTP Error 404: Not Found",
 "ashby/urban-jungle-insurance: HTTP Error 404: Not Found",
 "lever/urban-jungle-insurance: HTTP Error 404: Not Found",
 "greenhouse/urbanjungleinsurance: HTTP Error 404: Not Found",
 "ashby/urbanjungleinsurance: HTTP Error 404: Not Found",
-"lever/urbanjungleinsurance: HTTP Error 404: Not Found"
+"lever/urbanjungleinsurance: HTTP Error 404: Not Found",
+"greenhouse/myurbanjungle: HTTP Error 404: Not Found",
+"ashby/myurbanjungle: HTTP Error 404: Not Found",
+"lever/myurbanjungle: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12655,12 +12727,12 @@
 "city": "Chicago",
 "swe_flag": false,
 "errors": [
-"greenhouse/echogloballogistics: HTTP Error 404: Not Found",
-"ashby/echogloballogistics: HTTP Error 404: Not Found",
-"lever/echogloballogistics: HTTP Error 404: Not Found",
 "greenhouse/echo-global-logistics: HTTP Error 404: Not Found",
 "ashby/echo-global-logistics: HTTP Error 404: Not Found",
-"lever/echo-global-logistics: HTTP Error 404: Not Found"
+"lever/echo-global-logistics: HTTP Error 404: Not Found",
+"greenhouse/echogloballogistics: HTTP Error 404: Not Found",
+"ashby/echogloballogistics: HTTP Error 404: Not Found",
+"lever/echogloballogistics: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12709,7 +12781,7 @@
 "ats": "greenhouse",
 "slug": "fandom",
 "how": "listed",
-"total": 8,
+"total": 9,
 "swe_us": 1
 },
 {
@@ -12766,12 +12838,12 @@
 "city": "Boston",
 "swe_flag": false,
 "errors": [
-"greenhouse/fidelityinvestments: HTTP Error 404: Not Found",
-"ashby/fidelityinvestments: HTTP Error 404: Not Found",
-"lever/fidelityinvestments: HTTP Error 404: Not Found",
 "greenhouse/fidelity-investments: HTTP Error 404: Not Found",
 "ashby/fidelity-investments: HTTP Error 404: Not Found",
-"lever/fidelity-investments: HTTP Error 404: Not Found"
+"lever/fidelity-investments: HTTP Error 404: Not Found",
+"greenhouse/fidelityinvestments: HTTP Error 404: Not Found",
+"ashby/fidelityinvestments: HTTP Error 404: Not Found",
+"lever/fidelityinvestments: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -12787,8 +12859,8 @@
 "ats": "greenhouse",
 "slug": "roblox",
 "how": "listed",
-"total": 270,
-"swe_us": 146
+"total": 271,
+"swe_us": 148
 },
 {
 "id": "rec1WFv0bfz1I51CJ",
@@ -12892,12 +12964,12 @@
 "city": "Waltham",
 "swe_flag": false,
 "errors": [
-"greenhouse/marketoneinternational: HTTP Error 404: Not Found",
-"ashby/marketoneinternational: HTTP Error 404: Not Found",
-"lever/marketoneinternational: HTTP Error 404: Not Found",
 "greenhouse/marketone-international: HTTP Error 404: Not Found",
 "ashby/marketone-international: HTTP Error 404: Not Found",
 "lever/marketone-international: HTTP Error 404: Not Found",
+"greenhouse/marketoneinternational: HTTP Error 404: Not Found",
+"ashby/marketoneinternational: HTTP Error 404: Not Found",
+"lever/marketoneinternational: HTTP Error 404: Not Found",
 "greenhouse/marketone: HTTP Error 404: Not Found",
 "ashby/marketone: HTTP Error 404: Not Found",
 "lever/marketone: HTTP Error 404: Not Found"
@@ -12943,15 +13015,15 @@
 "city": "Toronto",
 "swe_flag": false,
 "errors": [
+"greenhouse/mosaic-manufacturing: HTTP Error 404: Not Found",
+"ashby/mosaic-manufacturing: HTTP Error 404: Not Found",
+"lever/mosaic-manufacturing: HTTP Error 404: Not Found",
 "greenhouse/mosaicmfg: HTTP Error 404: Not Found",
 "ashby/mosaicmfg: HTTP Error 404: Not Found",
 "lever/mosaicmfg: HTTP Error 404: Not Found",
 "greenhouse/mosaicmanufacturing: HTTP Error 404: Not Found",
 "ashby/mosaicmanufacturing: HTTP Error 404: Not Found",
-"lever/mosaicmanufacturing: HTTP Error 404: Not Found",
-"greenhouse/mosaic-manufacturing: HTTP Error 404: Not Found",
-"ashby/mosaic-manufacturing: HTTP Error 404: Not Found",
-"lever/mosaic-manufacturing: HTTP Error 404: Not Found"
+"lever/mosaicmanufacturing: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13265,12 +13337,12 @@
 "city": "Oakland",
 "swe_flag": false,
 "errors": [
-"greenhouse/credit-karma: HTTP Error 404: Not Found",
-"ashby/credit-karma: HTTP Error 404: Not Found",
-"lever/credit-karma: HTTP Error 404: Not Found",
 "greenhouse/creditkarma: HTTP Error 404: Not Found",
 "ashby/creditkarma: HTTP Error 404: Not Found",
-"lever/creditkarma: HTTP Error 404: Not Found"
+"lever/creditkarma: HTTP Error 404: Not Found",
+"greenhouse/credit-karma: HTTP Error 404: Not Found",
+"ashby/credit-karma: HTTP Error 404: Not Found",
+"lever/credit-karma: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13313,15 +13385,15 @@
 "city": "Cambridge",
 "swe_flag": true,
 "errors": [
-"greenhouse/kenshotechnologies: HTTP Error 404: Not Found",
-"ashby/kenshotechnologies: HTTP Error 404: Not Found",
-"lever/kenshotechnologies: HTTP Error 404: Not Found",
+"greenhouse/kensho-technologies: HTTP Error 404: Not Found",
+"ashby/kensho-technologies: HTTP Error 404: Not Found",
+"lever/kensho-technologies: HTTP Error 404: Not Found",
 "greenhouse/kensho: HTTP Error 404: Not Found",
 "ashby/kensho: HTTP Error 404: Not Found",
 "lever/kensho: HTTP Error 404: Not Found",
-"greenhouse/kensho-technologies: HTTP Error 404: Not Found",
-"ashby/kensho-technologies: HTTP Error 404: Not Found",
-"lever/kensho-technologies: HTTP Error 404: Not Found"
+"greenhouse/kenshotechnologies: HTTP Error 404: Not Found",
+"ashby/kenshotechnologies: HTTP Error 404: Not Found",
+"lever/kenshotechnologies: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13423,7 +13495,7 @@
 "ats": "greenhouse",
 "slug": "tysonmendesllp",
 "how": "page",
-"total": 74,
+"total": 73,
 "swe_us": 0
 },
 {
@@ -13435,15 +13507,15 @@
 "city": "Los Angeles",
 "swe_flag": false,
 "errors": [
-"greenhouse/alliedglobalmarketing: HTTP Error 404: Not Found",
-"ashby/alliedglobalmarketing: HTTP Error 404: Not Found",
-"lever/alliedglobalmarketing: HTTP Error 404: Not Found",
 "greenhouse/allied-global-mkg: HTTP Error 404: Not Found",
 "ashby/allied-global-mkg: HTTP Error 404: Not Found",
 "lever/allied-global-mkg: HTTP Error 404: Not Found",
 "greenhouse/allied-global-marketing: HTTP Error 404: Not Found",
 "ashby/allied-global-marketing: HTTP Error 404: Not Found",
-"lever/allied-global-marketing: HTTP Error 404: Not Found"
+"lever/allied-global-marketing: HTTP Error 404: Not Found",
+"greenhouse/alliedglobalmarketing: HTTP Error 404: Not Found",
+"ashby/alliedglobalmarketing: HTTP Error 404: Not Found",
+"lever/alliedglobalmarketing: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13536,12 +13608,12 @@
 "city": "Oslo",
 "swe_flag": false,
 "errors": [
-"greenhouse/multilingual-jobs-worldwide: HTTP Error 404: Not Found",
-"ashby/multilingual-jobs-worldwide: HTTP Error 404: Not Found",
-"lever/multilingual-jobs-worldwide: HTTP Error 404: Not Found",
 "greenhouse/multilingualjobsworldwide: HTTP Error 404: Not Found",
 "ashby/multilingualjobsworldwide: HTTP Error 404: Not Found",
-"lever/multilingualjobsworldwide: HTTP Error 404: Not Found"
+"lever/multilingualjobsworldwide: HTTP Error 404: Not Found",
+"greenhouse/multilingual-jobs-worldwide: HTTP Error 404: Not Found",
+"ashby/multilingual-jobs-worldwide: HTTP Error 404: Not Found",
+"lever/multilingual-jobs-worldwide: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13572,7 +13644,7 @@
 "ats": "greenhouse",
 "slug": "accelerationpartners",
 "how": "listed",
-"total": 16,
+"total": 14,
 "swe_us": 0
 },
 {
@@ -13587,12 +13659,12 @@
 "greenhouse/booking: HTTP Error 404: Not Found",
 "ashby/booking: HTTP Error 404: Not Found",
 "lever/booking: HTTP Error 404: Not Found",
-"greenhouse/bookingcom: HTTP Error 404: Not Found",
-"ashby/bookingcom: HTTP Error 404: Not Found",
-"lever/bookingcom: HTTP Error 404: Not Found",
 "greenhouse/booking-com: HTTP Error 404: Not Found",
 "ashby/booking-com: HTTP Error 404: Not Found",
-"lever/booking-com: HTTP Error 404: Not Found"
+"lever/booking-com: HTTP Error 404: Not Found",
+"greenhouse/bookingcom: HTTP Error 404: Not Found",
+"ashby/bookingcom: HTTP Error 404: Not Found",
+"lever/bookingcom: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13623,7 +13695,7 @@
 "ats": "greenhouse",
 "slug": "sofi",
 "how": "listed",
-"total": 56,
+"total": 53,
 "swe_us": 12
 },
 {
@@ -13698,8 +13770,8 @@
 "ats": "ashby",
 "slug": "rivianvw.tech",
 "how": "listed",
-"total": 159,
-"swe_us": 42
+"total": 162,
+"swe_us": 44
 },
 {
 "id": "recHiw26H0gjf1Ant",
@@ -13740,12 +13812,12 @@
 "city": "Chicago",
 "swe_flag": false,
 "errors": [
-"greenhouse/swoon: HTTP Error 404: Not Found",
-"ashby/swoon: HTTP Error 404: Not Found",
-"lever/swoon: HTTP Error 404: Not Found",
 "greenhouse/swoonstaffing: HTTP Error 404: Not Found",
 "ashby/swoonstaffing: HTTP Error 404: Not Found",
-"lever/swoonstaffing: HTTP Error 404: Not Found"
+"lever/swoonstaffing: HTTP Error 404: Not Found",
+"greenhouse/swoon: HTTP Error 404: Not Found",
+"ashby/swoon: HTTP Error 404: Not Found",
+"lever/swoon: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13773,15 +13845,15 @@
 "city": "Scottsdale",
 "swe_flag": false,
 "errors": [
-"greenhouse/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found",
-"ashby/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found",
-"lever/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found",
+"greenhouse/frenchagency: HTTP Error 404: Not Found",
+"ashby/frenchagency: HTTP Error 404: Not Found",
+"lever/frenchagency: HTTP Error 404: Not Found",
 "greenhouse/the-french-agency-professional-placement: HTTP Error 404: Not Found",
 "ashby/the-french-agency-professional-placement: HTTP Error 404: Not Found",
 "lever/the-french-agency-professional-placement: HTTP Error 404: Not Found",
-"greenhouse/frenchagency: HTTP Error 404: Not Found",
-"ashby/frenchagency: HTTP Error 404: Not Found",
-"lever/frenchagency: HTTP Error 404: Not Found"
+"greenhouse/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found",
+"ashby/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found",
+"lever/thefrenchagencyprofessionalplacement: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13812,7 +13884,7 @@
 "ats": "greenhouse",
 "slug": "freestar",
 "how": "page",
-"total": 5,
+"total": 6,
 "swe_us": 1
 },
 {
@@ -13886,15 +13958,15 @@
 "city": "Overland Park",
 "swe_flag": false,
 "errors": [
-"greenhouse/black-veatch: HTTP Error 404: Not Found",
-"ashby/black-veatch: HTTP Error 404: Not Found",
-"lever/black-veatch: HTTP Error 404: Not Found",
 "greenhouse/blackveatch: HTTP Error 404: Not Found",
 "ashby/blackveatch: HTTP Error 404: Not Found",
 "lever/blackveatch: HTTP Error 404: Not Found",
 "greenhouse/black-and-veatch: HTTP Error 404: Not Found",
 "ashby/black-and-veatch: HTTP Error 404: Not Found",
-"lever/black-and-veatch: HTTP Error 404: Not Found"
+"lever/black-and-veatch: HTTP Error 404: Not Found",
+"greenhouse/black-veatch: HTTP Error 404: Not Found",
+"ashby/black-veatch: HTTP Error 404: Not Found",
+"lever/black-veatch: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -13970,15 +14042,15 @@
 "city": "Milwaukee",
 "swe_flag": true,
 "errors": [
-"greenhouse/amla-commerce: HTTP Error 404: Not Found",
-"ashby/amla-commerce: HTTP Error 404: Not Found",
-"lever/amla-commerce: HTTP Error 404: Not Found",
+"greenhouse/amla: HTTP Error 404: Not Found",
+"ashby/amla: HTTP Error 404: Not Found",
+"lever/amla: HTTP Error 404: Not Found",
 "greenhouse/amlacommerce: HTTP Error 404: Not Found",
 "ashby/amlacommerce: HTTP Error 404: Not Found",
 "lever/amlacommerce: HTTP Error 404: Not Found",
-"greenhouse/amla: HTTP Error 404: Not Found",
-"ashby/amla: HTTP Error 404: Not Found",
-"lever/amla: HTTP Error 404: Not Found"
+"greenhouse/amla-commerce: HTTP Error 404: Not Found",
+"ashby/amla-commerce: HTTP Error 404: Not Found",
+"lever/amla-commerce: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14065,7 +14137,7 @@
 "ats": "greenhouse",
 "slug": "trolley",
 "how": "guessed",
-"total": 24,
+"total": 19,
 "swe_us": 1
 },
 {
@@ -14095,20 +14167,14 @@
 "city": "New York",
 "swe_flag": true,
 "errors": [
-"greenhouse/atomicvest: HTTP Error 404: Not Found",
-"ashby/atomicvest: HTTP Error 404: Not Found",
-"lever/atomicvest: HTTP Error 404: Not Found",
-"greenhouse/atomicinvest: HTTP Error 404: Not Found",
-"ashby/atomicinvest: HTTP Error 404: Not Found",
-"lever/atomicinvest: HTTP Error 404: Not Found",
 "greenhouse/atomic-invest: HTTP Error 404: Not Found"
 ],
 "status": "ok",
 "ats": "ashby",
 "slug": "atomic-invest",
 "how": "guessed",
-"total": 10,
-"swe_us": 1
+"total": 12,
+"swe_us": 2
 },
 {
 "id": "recrjJdWqpBU4wTwC",
@@ -14119,12 +14185,12 @@
 "city": "New York",
 "swe_flag": false,
 "errors": [
-"greenhouse/digitalremedy: HTTP Error 404: Not Found",
-"ashby/digitalremedy: HTTP Error 404: Not Found",
-"lever/digitalremedy: HTTP Error 404: Not Found",
 "greenhouse/digital-remedy: HTTP Error 404: Not Found",
 "ashby/digital-remedy: HTTP Error 404: Not Found",
-"lever/digital-remedy: HTTP Error 404: Not Found"
+"lever/digital-remedy: HTTP Error 404: Not Found",
+"greenhouse/digitalremedy: HTTP Error 404: Not Found",
+"ashby/digitalremedy: HTTP Error 404: Not Found",
+"lever/digitalremedy: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14435,15 +14501,15 @@
 "city": "Cupertino",
 "swe_flag": true,
 "errors": [
-"greenhouse/beezwax-datatools: HTTP Error 404: Not Found",
-"ashby/beezwax-datatools: HTTP Error 404: Not Found",
-"lever/beezwax-datatools: HTTP Error 404: Not Found",
 "greenhouse/beezwax: HTTP Error 404: Not Found",
 "ashby/beezwax: HTTP Error 404: Not Found",
 "lever/beezwax: HTTP Error 404: Not Found",
 "greenhouse/beezwaxdatatools: HTTP Error 404: Not Found",
 "ashby/beezwaxdatatools: HTTP Error 404: Not Found",
-"lever/beezwaxdatatools: HTTP Error 404: Not Found"
+"lever/beezwaxdatatools: HTTP Error 404: Not Found",
+"greenhouse/beezwax-datatools: HTTP Error 404: Not Found",
+"ashby/beezwax-datatools: HTTP Error 404: Not Found",
+"lever/beezwax-datatools: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14456,6 +14522,9 @@
 "city": "Netanya",
 "swe_flag": false,
 "errors": [
+"greenhouse/novidea-software: HTTP Error 404: Not Found",
+"ashby/novidea-software: HTTP Error 404: Not Found",
+"lever/novidea-software: HTTP Error 404: Not Found",
 "greenhouse/novidea: HTTP Error 404: Not Found"
 ],
 "status": "ok",
@@ -14597,12 +14666,12 @@
 "city": "Plantation",
 "swe_flag": false,
 "errors": [
-"greenhouse/chewy-com: HTTP Error 404: Not Found",
-"ashby/chewy-com: HTTP Error 404: Not Found",
-"lever/chewy-com: HTTP Error 404: Not Found",
 "greenhouse/chewy: HTTP Error 404: Not Found",
 "ashby/chewy: HTTP Error 404: Not Found",
-"lever/chewy: HTTP Error 404: Not Found"
+"lever/chewy: HTTP Error 404: Not Found",
+"greenhouse/chewy-com: HTTP Error 404: Not Found",
+"ashby/chewy-com: HTTP Error 404: Not Found",
+"lever/chewy-com: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14664,15 +14733,15 @@
 "swe_flag": false,
 "page_error": "HTTP Error 403: Forbidden",
 "errors": [
+"greenhouse/publitascom: HTTP Error 404: Not Found",
+"ashby/publitascom: HTTP Error 404: Not Found",
+"lever/publitascom: HTTP Error 404: Not Found",
 "greenhouse/publitas-com: HTTP Error 404: Not Found",
 "ashby/publitas-com: HTTP Error 404: Not Found",
 "lever/publitas-com: HTTP Error 404: Not Found",
 "greenhouse/publitas: HTTP Error 404: Not Found",
 "ashby/publitas: HTTP Error 404: Not Found",
-"lever/publitas: HTTP Error 404: Not Found",
-"greenhouse/publitascom: HTTP Error 404: Not Found",
-"ashby/publitascom: HTTP Error 404: Not Found",
-"lever/publitascom: HTTP Error 404: Not Found"
+"lever/publitas: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14766,12 +14835,12 @@
 "greenhouse/cboe: HTTP Error 404: Not Found",
 "ashby/cboe: HTTP Error 404: Not Found",
 "lever/cboe: HTTP Error 404: Not Found",
-"greenhouse/cboe-global-markets: HTTP Error 404: Not Found",
-"ashby/cboe-global-markets: HTTP Error 404: Not Found",
-"lever/cboe-global-markets: HTTP Error 404: Not Found",
 "greenhouse/cboeglobalmarkets: HTTP Error 404: Not Found",
 "ashby/cboeglobalmarkets: HTTP Error 404: Not Found",
-"lever/cboeglobalmarkets: HTTP Error 404: Not Found"
+"lever/cboeglobalmarkets: HTTP Error 404: Not Found",
+"greenhouse/cboe-global-markets: HTTP Error 404: Not Found",
+"ashby/cboe-global-markets: HTTP Error 404: Not Found",
+"lever/cboe-global-markets: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14855,12 +14924,12 @@
 "city": "Tulsa",
 "swe_flag": false,
 "errors": [
-"greenhouse/bok-financial: HTTP Error 404: Not Found",
-"ashby/bok-financial: HTTP Error 404: Not Found",
-"lever/bok-financial: HTTP Error 404: Not Found",
 "greenhouse/bokfinancial: HTTP Error 404: Not Found",
 "ashby/bokfinancial: HTTP Error 404: Not Found",
-"lever/bokfinancial: HTTP Error 404: Not Found"
+"lever/bokfinancial: HTTP Error 404: Not Found",
+"greenhouse/bok-financial: HTTP Error 404: Not Found",
+"ashby/bok-financial: HTTP Error 404: Not Found",
+"lever/bok-financial: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14873,12 +14942,12 @@
 "city": null,
 "swe_flag": false,
 "errors": [
-"greenhouse/axe-staffing-recruiting: HTTP Error 404: Not Found",
-"ashby/axe-staffing-recruiting: HTTP Error 404: Not Found",
-"lever/axe-staffing-recruiting: HTTP Error 404: Not Found",
 "greenhouse/axerecruiting: HTTP Error 404: Not Found",
 "ashby/axerecruiting: HTTP Error 404: Not Found",
 "lever/axerecruiting: HTTP Error 404: Not Found",
+"greenhouse/axe-staffing-recruiting: HTTP Error 404: Not Found",
+"ashby/axe-staffing-recruiting: HTTP Error 404: Not Found",
+"lever/axe-staffing-recruiting: HTTP Error 404: Not Found",
 "greenhouse/axestaffingrecruiting: HTTP Error 404: Not Found",
 "ashby/axestaffingrecruiting: HTTP Error 404: Not Found",
 "lever/axestaffingrecruiting: HTTP Error 404: Not Found"
@@ -14894,12 +14963,12 @@
 "city": "Windhoek",
 "swe_flag": false,
 "errors": [
-"greenhouse/gojabu: HTTP Error 404: Not Found",
-"ashby/gojabu: HTTP Error 404: Not Found",
-"lever/gojabu: HTTP Error 404: Not Found",
 "greenhouse/jabu: HTTP Error 404: Not Found",
 "ashby/jabu: HTTP Error 404: Not Found",
-"lever/jabu: HTTP Error 404: Not Found"
+"lever/jabu: HTTP Error 404: Not Found",
+"greenhouse/gojabu: HTTP Error 404: Not Found",
+"ashby/gojabu: HTTP Error 404: Not Found",
+"lever/gojabu: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -14927,12 +14996,12 @@
 "city": "Los Altos",
 "swe_flag": false,
 "errors": [
-"greenhouse/flexcollegeprep: HTTP Error 404: Not Found",
-"ashby/flexcollegeprep: HTTP Error 404: Not Found",
-"lever/flexcollegeprep: HTTP Error 404: Not Found",
 "greenhouse/flex-college-prep: HTTP Error 404: Not Found",
 "ashby/flex-college-prep: HTTP Error 404: Not Found",
-"lever/flex-college-prep: HTTP Error 404: Not Found"
+"lever/flex-college-prep: HTTP Error 404: Not Found",
+"greenhouse/flexcollegeprep: HTTP Error 404: Not Found",
+"ashby/flexcollegeprep: HTTP Error 404: Not Found",
+"lever/flexcollegeprep: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15077,7 +15146,7 @@
 "ats": "greenhouse",
 "slug": "checkr",
 "how": "guessed",
-"total": 37,
+"total": 38,
 "swe_us": 6
 },
 {
@@ -15119,12 +15188,12 @@
 "city": "Mountain View",
 "swe_flag": true,
 "errors": [
-"greenhouse/x: HTTP Error 404: Not Found",
-"ashby/x: HTTP Error 404: Not Found",
-"lever/x: HTTP Error 404: Not Found",
 "greenhouse/xthemoonshotfactory: HTTP Error 404: Not Found",
 "ashby/xthemoonshotfactory: HTTP Error 404: Not Found",
 "lever/xthemoonshotfactory: HTTP Error 404: Not Found",
+"greenhouse/x: HTTP Error 404: Not Found",
+"ashby/x: HTTP Error 404: Not Found",
+"lever/x: HTTP Error 404: Not Found",
 "greenhouse/x-the-moonshot-factory: HTTP Error 404: Not Found",
 "ashby/x-the-moonshot-factory: HTTP Error 404: Not Found",
 "lever/x-the-moonshot-factory: HTTP Error 404: Not Found"
@@ -15349,15 +15418,15 @@
 "city": "Calgary",
 "swe_flag": false,
 "errors": [
-"greenhouse/leankor-ai: HTTP Error 404: Not Found",
-"ashby/leankor-ai: HTTP Error 404: Not Found",
-"lever/leankor-ai: HTTP Error 404: Not Found",
+"greenhouse/leankorai: HTTP Error 404: Not Found",
+"ashby/leankorai: HTTP Error 404: Not Found",
+"lever/leankorai: HTTP Error 404: Not Found",
 "greenhouse/leankor: HTTP Error 404: Not Found",
 "ashby/leankor: HTTP Error 404: Not Found",
 "lever/leankor: HTTP Error 404: Not Found",
-"greenhouse/leankorai: HTTP Error 404: Not Found",
-"ashby/leankorai: HTTP Error 404: Not Found",
-"lever/leankorai: HTTP Error 404: Not Found"
+"greenhouse/leankor-ai: HTTP Error 404: Not Found",
+"ashby/leankor-ai: HTTP Error 404: Not Found",
+"lever/leankor-ai: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15385,15 +15454,15 @@
 "city": "Qu\u00e9bec",
 "swe_flag": false,
 "errors": [
+"greenhouse/kimobydealerengagementsystem: HTTP Error 404: Not Found",
+"ashby/kimobydealerengagementsystem: HTTP Error 404: Not Found",
+"lever/kimobydealerengagementsystem: HTTP Error 404: Not Found",
 "greenhouse/kimoby: HTTP Error 404: Not Found",
 "ashby/kimoby: HTTP Error 404: Not Found",
 "lever/kimoby: HTTP Error 404: Not Found",
 "greenhouse/kimoby-dealer-engagement-system: HTTP Error 404: Not Found",
 "ashby/kimoby-dealer-engagement-system: HTTP Error 404: Not Found",
-"lever/kimoby-dealer-engagement-system: HTTP Error 404: Not Found",
-"greenhouse/kimobydealerengagementsystem: HTTP Error 404: Not Found",
-"ashby/kimobydealerengagementsystem: HTTP Error 404: Not Found",
-"lever/kimobydealerengagementsystem: HTTP Error 404: Not Found"
+"lever/kimoby-dealer-engagement-system: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15405,6 +15474,11 @@
 "employees": 6832,
 "city": "San Francisco",
 "swe_flag": false,
+"errors": [
+"greenhouse/turingcom: HTTP Error 404: Not Found",
+"ashby/turingcom: HTTP Error 404: Not Found",
+"lever/turingcom: HTTP Error 404: Not Found"
+],
 "status": "ok",
 "ats": "greenhouse",
 "slug": "turing",
@@ -15432,12 +15506,12 @@
 "city": "London",
 "swe_flag": true,
 "errors": [
-"greenhouse/nodes-links: HTTP Error 404: Not Found",
-"ashby/nodes-links: HTTP Error 404: Not Found",
-"lever/nodes-links: HTTP Error 404: Not Found",
 "greenhouse/nodeslinks: HTTP Error 404: Not Found",
 "ashby/nodeslinks: HTTP Error 404: Not Found",
-"lever/nodeslinks: HTTP Error 404: Not Found"
+"lever/nodeslinks: HTTP Error 404: Not Found",
+"greenhouse/nodes-links: HTTP Error 404: Not Found",
+"ashby/nodes-links: HTTP Error 404: Not Found",
+"lever/nodes-links: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15557,15 +15631,15 @@
 "city": "Coraopolis",
 "swe_flag": true,
 "errors": [
+"greenhouse/dickssportinggoods: HTTP Error 404: Not Found",
+"ashby/dickssportinggoods: HTTP Error 404: Not Found",
+"lever/dickssportinggoods: HTTP Error 404: Not Found",
 "greenhouse/dick-s-sporting-goods: HTTP Error 404: Not Found",
 "ashby/dick-s-sporting-goods: HTTP Error 404: Not Found",
 "lever/dick-s-sporting-goods: HTTP Error 404: Not Found",
 "greenhouse/dick: HTTP Error 404: Not Found",
 "ashby/dick: HTTP Error 404: Not Found",
-"lever/dick: HTTP Error 404: Not Found",
-"greenhouse/dickssportinggoods: HTTP Error 404: Not Found",
-"ashby/dickssportinggoods: HTTP Error 404: Not Found",
-"lever/dickssportinggoods: HTTP Error 404: Not Found"
+"lever/dick: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15578,15 +15652,15 @@
 "city": "Phoenix",
 "swe_flag": false,
 "errors": [
-"greenhouse/republic-services: HTTP Error 404: Not Found",
-"ashby/republic-services: HTTP Error 404: Not Found",
-"lever/republic-services: HTTP Error 404: Not Found",
+"greenhouse/republic-services-inc: HTTP Error 404: Not Found",
+"ashby/republic-services-inc: HTTP Error 404: Not Found",
+"lever/republic-services-inc: HTTP Error 404: Not Found",
 "greenhouse/republicservices: HTTP Error 404: Not Found",
 "ashby/republicservices: HTTP Error 404: Not Found",
 "lever/republicservices: HTTP Error 404: Not Found",
-"greenhouse/republic-services-inc: HTTP Error 404: Not Found",
-"ashby/republic-services-inc: HTTP Error 404: Not Found",
-"lever/republic-services-inc: HTTP Error 404: Not Found"
+"greenhouse/republic-services: HTTP Error 404: Not Found",
+"ashby/republic-services: HTTP Error 404: Not Found",
+"lever/republic-services: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15650,15 +15724,15 @@
 "city": "Hamilton",
 "swe_flag": false,
 "errors": [
-"greenhouse/vicasso: HTTP Error 404: Not Found",
-"ashby/vicasso: HTTP Error 404: Not Found",
-"lever/vicasso: HTTP Error 404: Not Found",
+"greenhouse/vicassoweaccelerateservice: HTTP Error 404: Not Found",
+"ashby/vicassoweaccelerateservice: HTTP Error 404: Not Found",
+"lever/vicassoweaccelerateservice: HTTP Error 404: Not Found",
 "greenhouse/vicasso-we-accelerate-service: HTTP Error 404: Not Found",
 "ashby/vicasso-we-accelerate-service: HTTP Error 404: Not Found",
 "lever/vicasso-we-accelerate-service: HTTP Error 404: Not Found",
-"greenhouse/vicassoweaccelerateservice: HTTP Error 404: Not Found",
-"ashby/vicassoweaccelerateservice: HTTP Error 404: Not Found",
-"lever/vicassoweaccelerateservice: HTTP Error 404: Not Found"
+"greenhouse/vicasso: HTTP Error 404: Not Found",
+"ashby/vicasso: HTTP Error 404: Not Found",
+"lever/vicasso: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -15690,7 +15764,7 @@
 "ats": "greenhouse",
 "slug": "zerocater",
 "how": "guessed",
-"total": 8,
+"total": 9,
 "swe_us": 0
 },
 {
@@ -15705,7 +15779,7 @@
 "ats": "greenhouse",
 "slug": "roo",
 "how": "listed",
-"total": 15,
+"total": 14,
 "swe_us": 0
 },
 {
@@ -15732,6 +15806,9 @@
 "city": "Washington",
 "swe_flag": true,
 "errors": [
+"greenhouse/arcadiahq: HTTP Error 404: Not Found",
+"ashby/arcadiahq: HTTP Error 404: Not Found",
+"lever/arcadiahq: HTTP Error 404: Not Found",
 "greenhouse/arcadia: HTTP Error 404: Not Found",
 "ashby/arcadia: HTTP Error 404: Not Found"
 ],
@@ -15739,7 +15816,7 @@
 "ats": "lever",
 "slug": "arcadia",
 "how": "guessed",
-"total": 16,
+"total": 15,
 "swe_us": 4
 },
 {
@@ -15833,7 +15910,7 @@
 "ats": "greenhouse",
 "slug": "nextdoor",
 "how": "listed",
-"total": 20,
+"total": 21,
 "swe_us": 6
 },
 {
@@ -15926,8 +16003,8 @@
 "ats": "greenhouse",
 "slug": "affirm",
 "how": "listed",
-"total": 237,
-"swe_us": 46
+"total": 231,
+"swe_us": 45
 },
 {
 "id": "reczFiOey5fhUXiZs",
@@ -15959,11 +16036,11 @@
 "city": "Radnor",
 "swe_flag": false,
 "errors": [
-"ashby/relaynetwork: HTTP Error 404: Not Found",
-"lever/relaynetwork: HTTP Error 404: Not Found",
 "greenhouse/relay-network: HTTP Error 404: Not Found",
 "ashby/relay-network: HTTP Error 404: Not Found",
-"lever/relay-network: HTTP Error 404: Not Found"
+"lever/relay-network: HTTP Error 404: Not Found",
+"ashby/relaynetwork: HTTP Error 404: Not Found",
+"lever/relaynetwork: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16021,12 +16098,12 @@
 "city": "Boulder",
 "swe_flag": false,
 "errors": [
-"greenhouse/elephantenergy: HTTP Error 404: Not Found",
-"ashby/elephantenergy: HTTP Error 404: Not Found",
-"lever/elephantenergy: HTTP Error 404: Not Found",
 "greenhouse/elephant-energy: HTTP Error 404: Not Found",
 "ashby/elephant-energy: HTTP Error 404: Not Found",
-"lever/elephant-energy: HTTP Error 404: Not Found"
+"lever/elephant-energy: HTTP Error 404: Not Found",
+"greenhouse/elephantenergy: HTTP Error 404: Not Found",
+"ashby/elephantenergy: HTTP Error 404: Not Found",
+"lever/elephantenergy: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16053,12 +16130,9 @@
 "employees": 99,
 "city": "San Francisco",
 "swe_flag": false,
-"errors": [
-"greenhouse/ossium-health: HTTP Error 404: Not Found"
-],
 "status": "ok",
-"ats": "ashby",
-"slug": "ossium-health",
+"ats": "greenhouse",
+"slug": "ossiumhealth",
 "how": "guessed",
 "total": 6,
 "swe_us": 0
@@ -16093,12 +16167,12 @@
 "greenhouse/sixflow: HTTP Error 404: Not Found",
 "ashby/sixflow: HTTP Error 404: Not Found",
 "lever/sixflow: HTTP Error 404: Not Found",
-"greenhouse/six-flow: HTTP Error 404: Not Found",
-"ashby/six-flow: HTTP Error 404: Not Found",
-"lever/six-flow: HTTP Error 404: Not Found",
 "greenhouse/sixandflow: HTTP Error 404: Not Found",
 "ashby/sixandflow: HTTP Error 404: Not Found",
-"lever/sixandflow: HTTP Error 404: Not Found"
+"lever/sixandflow: HTTP Error 404: Not Found",
+"greenhouse/six-flow: HTTP Error 404: Not Found",
+"ashby/six-flow: HTTP Error 404: Not Found",
+"lever/six-flow: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16145,7 +16219,7 @@
 "slug": "relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs",
 "how": "listed",
 "total": 40,
-"swe_us": 14
+"swe_us": 13
 },
 {
 "id": "recGGFgKp193bN3oA",
@@ -16156,12 +16230,12 @@
 "city": "Bellevue",
 "swe_flag": false,
 "errors": [
-"greenhouse/aim-consulting-group: HTTP Error 404: Not Found",
-"ashby/aim-consulting-group: HTTP Error 404: Not Found",
-"lever/aim-consulting-group: HTTP Error 404: Not Found",
 "greenhouse/aimconsulting: HTTP Error 404: Not Found",
 "ashby/aimconsulting: HTTP Error 404: Not Found",
 "lever/aimconsulting: HTTP Error 404: Not Found",
+"greenhouse/aim-consulting-group: HTTP Error 404: Not Found",
+"ashby/aim-consulting-group: HTTP Error 404: Not Found",
+"lever/aim-consulting-group: HTTP Error 404: Not Found",
 "greenhouse/aimconsultinggroup: HTTP Error 404: Not Found",
 "ashby/aimconsultinggroup: HTTP Error 404: Not Found",
 "lever/aimconsultinggroup: HTTP Error 404: Not Found"
@@ -16211,11 +16285,11 @@
 "swe_flag": true,
 "errors": [
 "ashby/woflow: HTTP Error 404: Not Found",
-"greenhouse/woflow: HTTP Error 404: Not Found",
-"lever/woflow: HTTP Error 404: Not Found",
 "greenhouse/ashbyhq: HTTP Error 404: Not Found",
 "ashby/ashbyhq: HTTP Error 404: Not Found",
-"lever/ashbyhq: HTTP Error 404: Not Found"
+"lever/ashbyhq: HTTP Error 404: Not Found",
+"greenhouse/woflow: HTTP Error 404: Not Found",
+"lever/woflow: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16246,15 +16320,15 @@
 "swe_flag": true,
 "page_error": "HTTP Error 404: Not Found",
 "errors": [
-"greenhouse/dye-durham-corporation: HTTP Error 404: Not Found",
-"ashby/dye-durham-corporation: HTTP Error 404: Not Found",
-"lever/dye-durham-corporation: HTTP Error 404: Not Found",
+"greenhouse/dyedurham: HTTP Error 404: Not Found",
+"ashby/dyedurham: HTTP Error 404: Not Found",
+"lever/dyedurham: HTTP Error 404: Not Found",
 "greenhouse/dyedurhamcorporation: HTTP Error 404: Not Found",
 "ashby/dyedurhamcorporation: HTTP Error 404: Not Found",
 "lever/dyedurhamcorporation: HTTP Error 404: Not Found",
-"greenhouse/dyedurham: HTTP Error 404: Not Found",
-"ashby/dyedurham: HTTP Error 404: Not Found",
-"lever/dyedurham: HTTP Error 404: Not Found"
+"greenhouse/dye-durham-corporation: HTTP Error 404: Not Found",
+"ashby/dye-durham-corporation: HTTP Error 404: Not Found",
+"lever/dye-durham-corporation: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16267,12 +16341,12 @@
 "city": "Philadelphia",
 "swe_flag": false,
 "errors": [
-"greenhouse/cmi-media-group: HTTP Error 404: Not Found",
-"ashby/cmi-media-group: HTTP Error 404: Not Found",
-"lever/cmi-media-group: HTTP Error 404: Not Found",
 "greenhouse/cmimediagroup: HTTP Error 404: Not Found",
 "ashby/cmimediagroup: HTTP Error 404: Not Found",
-"lever/cmimediagroup: HTTP Error 404: Not Found"
+"lever/cmimediagroup: HTTP Error 404: Not Found",
+"greenhouse/cmi-media-group: HTTP Error 404: Not Found",
+"ashby/cmi-media-group: HTTP Error 404: Not Found",
+"lever/cmi-media-group: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16377,7 +16451,7 @@
 "ats": "greenhouse",
 "slug": "onemedical",
 "how": "guessed",
-"total": 355,
+"total": 359,
 "swe_us": 0
 },
 {
@@ -16456,12 +16530,12 @@
 "city": "Grapevine",
 "swe_flag": false,
 "errors": [
-"greenhouse/venn-technology: HTTP Error 404: Not Found",
-"ashby/venn-technology: HTTP Error 404: Not Found",
-"lever/venn-technology: HTTP Error 404: Not Found",
 "greenhouse/venntechnology: HTTP Error 404: Not Found",
 "ashby/venntechnology: HTTP Error 404: Not Found",
-"lever/venntechnology: HTTP Error 404: Not Found"
+"lever/venntechnology: HTTP Error 404: Not Found",
+"greenhouse/venn-technology: HTTP Error 404: Not Found",
+"ashby/venn-technology: HTTP Error 404: Not Found",
+"lever/venn-technology: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16505,11 +16579,11 @@
 "swe_flag": false,
 "errors": [
 "greenhouse/capellaspace: HTTP Error 404: Not Found",
+"ashby/capellaspace: HTTP Error 404: Not Found",
+"lever/capellaspace: HTTP Error 404: Not Found",
 "greenhouse/capella-space: HTTP Error 404: Not Found",
 "ashby/capella-space: HTTP Error 404: Not Found",
-"lever/capella-space: HTTP Error 404: Not Found",
-"ashby/capellaspace: HTTP Error 404: Not Found",
-"lever/capellaspace: HTTP Error 404: Not Found"
+"lever/capella-space: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16540,12 +16614,12 @@
 "city": "Hershey",
 "swe_flag": false,
 "errors": [
-"greenhouse/the-hershey-company: HTTP Error 404: Not Found",
-"ashby/the-hershey-company: HTTP Error 404: Not Found",
-"lever/the-hershey-company: HTTP Error 404: Not Found",
 "greenhouse/thehersheycompany: HTTP Error 404: Not Found",
 "ashby/thehersheycompany: HTTP Error 404: Not Found",
-"lever/thehersheycompany: HTTP Error 404: Not Found"
+"lever/thehersheycompany: HTTP Error 404: Not Found",
+"greenhouse/the-hershey-company: HTTP Error 404: Not Found",
+"ashby/the-hershey-company: HTTP Error 404: Not Found",
+"lever/the-hershey-company: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16573,15 +16647,15 @@
 "city": "Hillsborough",
 "swe_flag": false,
 "errors": [
-"greenhouse/vbeyondcorporation: HTTP Error 404: Not Found",
-"ashby/vbeyondcorporation: HTTP Error 404: Not Found",
-"lever/vbeyondcorporation: HTTP Error 404: Not Found",
+"greenhouse/vbeyond-corporation: HTTP Error 404: Not Found",
+"ashby/vbeyond-corporation: HTTP Error 404: Not Found",
+"lever/vbeyond-corporation: HTTP Error 404: Not Found",
 "greenhouse/vbeyond: HTTP Error 404: Not Found",
 "ashby/vbeyond: HTTP Error 404: Not Found",
 "lever/vbeyond: HTTP Error 404: Not Found",
-"greenhouse/vbeyond-corporation: HTTP Error 404: Not Found",
-"ashby/vbeyond-corporation: HTTP Error 404: Not Found",
-"lever/vbeyond-corporation: HTTP Error 404: Not Found"
+"greenhouse/vbeyondcorporation: HTTP Error 404: Not Found",
+"ashby/vbeyondcorporation: HTTP Error 404: Not Found",
+"lever/vbeyondcorporation: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16598,12 +16672,12 @@
 "greenhouse/fenix24recoverybattalion: HTTP Error 404: Not Found",
 "ashby/fenix24recoverybattalion: HTTP Error 404: Not Found",
 "lever/fenix24recoverybattalion: HTTP Error 404: Not Found",
-"greenhouse/fenix24-recovery-battalion: HTTP Error 404: Not Found",
-"ashby/fenix24-recovery-battalion: HTTP Error 404: Not Found",
-"lever/fenix24-recovery-battalion: HTTP Error 404: Not Found",
 "greenhouse/fenix24: HTTP Error 404: Not Found",
 "ashby/fenix24: HTTP Error 404: Not Found",
-"lever/fenix24: HTTP Error 404: Not Found"
+"lever/fenix24: HTTP Error 404: Not Found",
+"greenhouse/fenix24-recovery-battalion: HTTP Error 404: Not Found",
+"ashby/fenix24-recovery-battalion: HTTP Error 404: Not Found",
+"lever/fenix24-recovery-battalion: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16691,12 +16765,12 @@
 "city": "Quincy",
 "swe_flag": false,
 "errors": [
-"greenhouse/credenzahealth: HTTP Error 404: Not Found",
-"ashby/credenzahealth: HTTP Error 404: Not Found",
-"lever/credenzahealth: HTTP Error 404: Not Found",
 "greenhouse/intelycare: HTTP Error 404: Not Found",
 "ashby/intelycare: HTTP Error 404: Not Found",
-"lever/intelycare: HTTP Error 404: Not Found"
+"lever/intelycare: HTTP Error 404: Not Found",
+"greenhouse/credenzahealth: HTTP Error 404: Not Found",
+"ashby/credenzahealth: HTTP Error 404: Not Found",
+"lever/credenzahealth: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16709,15 +16783,15 @@
 "city": "Uniondale",
 "swe_flag": false,
 "errors": [
+"greenhouse/nygci: HTTP Error 404: Not Found",
+"ashby/nygci: HTTP Error 404: Not Found",
+"lever/nygci: HTTP Error 404: Not Found",
 "greenhouse/new-york-global-consultants-inc: HTTP Error 404: Not Found",
 "ashby/new-york-global-consultants-inc: HTTP Error 404: Not Found",
 "lever/new-york-global-consultants-inc: HTTP Error 404: Not Found",
 "greenhouse/newyorkglobalconsultantsinc: HTTP Error 404: Not Found",
 "ashby/newyorkglobalconsultantsinc: HTTP Error 404: Not Found",
-"lever/newyorkglobalconsultantsinc: HTTP Error 404: Not Found",
-"greenhouse/nygci: HTTP Error 404: Not Found",
-"ashby/nygci: HTTP Error 404: Not Found",
-"lever/nygci: HTTP Error 404: Not Found"
+"lever/newyorkglobalconsultantsinc: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16745,15 +16819,15 @@
 "city": "Orlando",
 "swe_flag": true,
 "errors": [
+"greenhouse/design-interactive-inc: HTTP Error 404: Not Found",
+"ashby/design-interactive-inc: HTTP Error 404: Not Found",
+"lever/design-interactive-inc: HTTP Error 404: Not Found",
 "greenhouse/design-interactive: HTTP Error 404: Not Found",
 "ashby/design-interactive: HTTP Error 404: Not Found",
 "lever/design-interactive: HTTP Error 404: Not Found",
 "greenhouse/designinteractive: HTTP Error 404: Not Found",
 "ashby/designinteractive: HTTP Error 404: Not Found",
-"lever/designinteractive: HTTP Error 404: Not Found",
-"greenhouse/design-interactive-inc: HTTP Error 404: Not Found",
-"ashby/design-interactive-inc: HTTP Error 404: Not Found",
-"lever/design-interactive-inc: HTTP Error 404: Not Found"
+"lever/designinteractive: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16788,15 +16862,15 @@
 "city": "New York",
 "swe_flag": false,
 "errors": [
+"greenhouse/tuckersfarm: HTTP Error 404: Not Found",
+"ashby/tuckersfarm: HTTP Error 404: Not Found",
+"lever/tuckersfarm: HTTP Error 404: Not Found",
 "greenhouse/tuckersfarmcorporation: HTTP Error 404: Not Found",
 "ashby/tuckersfarmcorporation: HTTP Error 404: Not Found",
 "lever/tuckersfarmcorporation: HTTP Error 404: Not Found",
 "greenhouse/tucker-s-farm-corporation: HTTP Error 404: Not Found",
 "ashby/tucker-s-farm-corporation: HTTP Error 404: Not Found",
-"lever/tucker-s-farm-corporation: HTTP Error 404: Not Found",
-"greenhouse/tuckersfarm: HTTP Error 404: Not Found",
-"ashby/tuckersfarm: HTTP Error 404: Not Found",
-"lever/tuckersfarm: HTTP Error 404: Not Found"
+"lever/tucker-s-farm-corporation: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16824,12 +16898,12 @@
 "city": "New York City",
 "swe_flag": false,
 "errors": [
-"greenhouse/warnerbrosdiscovery: HTTP Error 404: Not Found",
-"ashby/warnerbrosdiscovery: HTTP Error 404: Not Found",
-"lever/warnerbrosdiscovery: HTTP Error 404: Not Found",
 "greenhouse/warner-bros-discovery: HTTP Error 404: Not Found",
 "ashby/warner-bros-discovery: HTTP Error 404: Not Found",
-"lever/warner-bros-discovery: HTTP Error 404: Not Found"
+"lever/warner-bros-discovery: HTTP Error 404: Not Found",
+"greenhouse/warnerbrosdiscovery: HTTP Error 404: Not Found",
+"ashby/warnerbrosdiscovery: HTTP Error 404: Not Found",
+"lever/warnerbrosdiscovery: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16901,7 +16975,6 @@
 "employees": 266,
 "city": "Remote",
 "swe_flag": false,
-"page_error": "HTTP Error 403: Forbidden",
 "errors": [
 "greenhouse/izea: HTTP Error 404: Not Found",
 "ashby/izea: HTTP Error 404: Not Found",
@@ -16923,12 +16996,12 @@
 "greenhouse/viva-talent: HTTP Error 404: Not Found",
 "ashby/viva-talent: HTTP Error 404: Not Found",
 "lever/viva-talent: HTTP Error 404: Not Found",
-"greenhouse/execviva: HTTP Error 404: Not Found",
-"ashby/execviva: HTTP Error 404: Not Found",
-"lever/execviva: HTTP Error 404: Not Found",
 "greenhouse/vivatalent: HTTP Error 404: Not Found",
 "ashby/vivatalent: HTTP Error 404: Not Found",
-"lever/vivatalent: HTTP Error 404: Not Found"
+"lever/vivatalent: HTTP Error 404: Not Found",
+"greenhouse/execviva: HTTP Error 404: Not Found",
+"ashby/execviva: HTTP Error 404: Not Found",
+"lever/execviva: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16956,12 +17029,12 @@
 "city": "Indianapolis",
 "swe_flag": false,
 "errors": [
-"greenhouse/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found",
-"ashby/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found",
-"lever/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found",
 "greenhouse/hopebridge: HTTP Error 404: Not Found",
 "ashby/hopebridge: HTTP Error 404: Not Found",
-"lever/hopebridge: HTTP Error 404: Not Found"
+"lever/hopebridge: HTTP Error 404: Not Found",
+"greenhouse/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found",
+"ashby/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found",
+"lever/hopebridge-autism-therapy-centers: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -16974,12 +17047,12 @@
 "city": "Dallas",
 "swe_flag": false,
 "errors": [
-"greenhouse/behavioral-health-group-bhg: HTTP Error 404: Not Found",
-"ashby/behavioral-health-group-bhg: HTTP Error 404: Not Found",
-"lever/behavioral-health-group-bhg: HTTP Error 404: Not Found",
 "greenhouse/bhgrecovery: HTTP Error 404: Not Found",
 "ashby/bhgrecovery: HTTP Error 404: Not Found",
 "lever/bhgrecovery: HTTP Error 404: Not Found",
+"greenhouse/behavioral-health-group-bhg: HTTP Error 404: Not Found",
+"ashby/behavioral-health-group-bhg: HTTP Error 404: Not Found",
+"lever/behavioral-health-group-bhg: HTTP Error 404: Not Found",
 "greenhouse/behavioralhealthgroupbhg: HTTP Error 404: Not Found",
 "ashby/behavioralhealthgroupbhg: HTTP Error 404: Not Found",
 "lever/behavioralhealthgroupbhg: HTTP Error 404: Not Found"
@@ -17025,12 +17098,12 @@
 "city": "Madison",
 "swe_flag": false,
 "errors": [
-"greenhouse/mid-west-family-madison: HTTP Error 404: Not Found",
-"ashby/mid-west-family-madison: HTTP Error 404: Not Found",
-"lever/mid-west-family-madison: HTTP Error 404: Not Found",
 "greenhouse/midwestfamilymadison: HTTP Error 404: Not Found",
 "ashby/midwestfamilymadison: HTTP Error 404: Not Found",
-"lever/midwestfamilymadison: HTTP Error 404: Not Found"
+"lever/midwestfamilymadison: HTTP Error 404: Not Found",
+"greenhouse/mid-west-family-madison: HTTP Error 404: Not Found",
+"ashby/mid-west-family-madison: HTTP Error 404: Not Found",
+"lever/mid-west-family-madison: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17043,12 +17116,12 @@
 "city": "Santa Clara",
 "swe_flag": true,
 "errors": [
-"greenhouse/percipient-ai: HTTP Error 404: Not Found",
-"ashby/percipient-ai: HTTP Error 404: Not Found",
-"lever/percipient-ai: HTTP Error 404: Not Found",
 "greenhouse/percipientai: HTTP Error 404: Not Found",
 "ashby/percipientai: HTTP Error 404: Not Found",
-"lever/percipientai: HTTP Error 404: Not Found"
+"lever/percipientai: HTTP Error 404: Not Found",
+"greenhouse/percipient-ai: HTTP Error 404: Not Found",
+"ashby/percipient-ai: HTTP Error 404: Not Found",
+"lever/percipient-ai: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17120,8 +17193,8 @@
 "ats": "workable",
 "slug": "umbra-1",
 "how": "page",
-"total": 54,
-"swe_us": 19
+"total": 57,
+"swe_us": 22
 },
 {
 "id": "recB2SCM8IPF6UBo2",
@@ -17162,12 +17235,12 @@
 "city": "Houston",
 "swe_flag": false,
 "errors": [
-"greenhouse/macrofab: HTTP Error 404: Not Found",
-"ashby/macrofab: HTTP Error 404: Not Found",
-"lever/macrofab: HTTP Error 404: Not Found",
 "greenhouse/macrofab-inc-: HTTP Error 404: Not Found",
 "ashby/macrofab-inc-: HTTP Error 404: Not Found",
-"lever/macrofab-inc-: HTTP Error 404: Not Found"
+"lever/macrofab-inc-: HTTP Error 404: Not Found",
+"greenhouse/macrofab: HTTP Error 404: Not Found",
+"ashby/macrofab: HTTP Error 404: Not Found",
+"lever/macrofab: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17212,15 +17285,15 @@
 "city": "Irvine",
 "swe_flag": false,
 "errors": [
-"greenhouse/buildstaffing: HTTP Error 404: Not Found",
-"ashby/buildstaffing: HTTP Error 404: Not Found",
-"lever/buildstaffing: HTTP Error 404: Not Found",
 "greenhouse/build-staffing-group: HTTP Error 404: Not Found",
 "ashby/build-staffing-group: HTTP Error 404: Not Found",
 "lever/build-staffing-group: HTTP Error 404: Not Found",
 "greenhouse/buildstaffinggroup: HTTP Error 404: Not Found",
 "ashby/buildstaffinggroup: HTTP Error 404: Not Found",
-"lever/buildstaffinggroup: HTTP Error 404: Not Found"
+"lever/buildstaffinggroup: HTTP Error 404: Not Found",
+"greenhouse/buildstaffing: HTTP Error 404: Not Found",
+"ashby/buildstaffing: HTTP Error 404: Not Found",
+"lever/buildstaffing: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17251,7 +17324,7 @@
 "ats": "greenhouse",
 "slug": "jackpot",
 "how": "page",
-"total": 5,
+"total": 6,
 "swe_us": 0
 },
 {
@@ -17323,15 +17396,15 @@
 "city": "Toronto",
 "swe_flag": false,
 "errors": [
-"greenhouse/rangle: HTTP Error 404: Not Found",
-"ashby/rangle: HTTP Error 404: Not Found",
-"lever/rangle: HTTP Error 404: Not Found",
 "greenhouse/rangle-io: HTTP Error 404: Not Found",
 "ashby/rangle-io: HTTP Error 404: Not Found",
 "lever/rangle-io: HTTP Error 404: Not Found",
 "greenhouse/rangleio: HTTP Error 404: Not Found",
 "ashby/rangleio: HTTP Error 404: Not Found",
-"lever/rangleio: HTTP Error 404: Not Found"
+"lever/rangleio: HTTP Error 404: Not Found",
+"greenhouse/rangle: HTTP Error 404: Not Found",
+"ashby/rangle: HTTP Error 404: Not Found",
+"lever/rangle: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17417,12 +17490,12 @@
 "city": "Liverpool",
 "swe_flag": false,
 "errors": [
-"greenhouse/lula-group: HTTP Error 404: Not Found",
-"ashby/lula-group: HTTP Error 404: Not Found",
-"lever/lula-group: HTTP Error 404: Not Found",
 "greenhouse/lulagroup: HTTP Error 404: Not Found",
 "ashby/lulagroup: HTTP Error 404: Not Found",
-"lever/lulagroup: HTTP Error 404: Not Found"
+"lever/lulagroup: HTTP Error 404: Not Found",
+"greenhouse/lula-group: HTTP Error 404: Not Found",
+"ashby/lula-group: HTTP Error 404: Not Found",
+"lever/lula-group: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17450,15 +17523,15 @@
 "city": "Houston",
 "swe_flag": false,
 "errors": [
+"greenhouse/tailored-brands-inc-: HTTP Error 404: Not Found",
+"ashby/tailored-brands-inc-: HTTP Error 404: Not Found",
+"lever/tailored-brands-inc-: HTTP Error 404: Not Found",
 "greenhouse/tailored-brands: HTTP Error 404: Not Found",
 "ashby/tailored-brands: HTTP Error 404: Not Found",
 "lever/tailored-brands: HTTP Error 404: Not Found",
 "greenhouse/tailoredbrands: HTTP Error 404: Not Found",
 "ashby/tailoredbrands: HTTP Error 404: Not Found",
-"lever/tailoredbrands: HTTP Error 404: Not Found",
-"greenhouse/tailored-brands-inc-: HTTP Error 404: Not Found",
-"ashby/tailored-brands-inc-: HTTP Error 404: Not Found",
-"lever/tailored-brands-inc-: HTTP Error 404: Not Found"
+"lever/tailoredbrands: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17504,15 +17577,15 @@
 "city": "Woking",
 "swe_flag": false,
 "errors": [
-"greenhouse/kfc-uk-ireland: HTTP Error 404: Not Found",
-"ashby/kfc-uk-ireland: HTTP Error 404: Not Found",
-"lever/kfc-uk-ireland: HTTP Error 404: Not Found",
 "greenhouse/kfc-uki: HTTP Error 404: Not Found",
 "ashby/kfc-uki: HTTP Error 404: Not Found",
 "lever/kfc-uki: HTTP Error 404: Not Found",
 "greenhouse/kfcukireland: HTTP Error 404: Not Found",
 "ashby/kfcukireland: HTTP Error 404: Not Found",
-"lever/kfcukireland: HTTP Error 404: Not Found"
+"lever/kfcukireland: HTTP Error 404: Not Found",
+"greenhouse/kfc-uk-ireland: HTTP Error 404: Not Found",
+"ashby/kfc-uk-ireland: HTTP Error 404: Not Found",
+"lever/kfc-uk-ireland: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17558,7 +17631,7 @@
 "ats": "teamtailor",
 "slug": "https://careers.nlsnow.com",
 "how": "page",
-"total": 10,
+"total": 8,
 "swe_us": 4
 },
 {
@@ -17659,12 +17732,12 @@
 "city": "Vancouver",
 "swe_flag": false,
 "errors": [
-"greenhouse/noisedigital: HTTP Error 404: Not Found",
-"ashby/noisedigital: HTTP Error 404: Not Found",
-"lever/noisedigital: HTTP Error 404: Not Found",
 "greenhouse/noise-digital: HTTP Error 404: Not Found",
 "ashby/noise-digital: HTTP Error 404: Not Found",
-"lever/noise-digital: HTTP Error 404: Not Found"
+"lever/noise-digital: HTTP Error 404: Not Found",
+"greenhouse/noisedigital: HTTP Error 404: Not Found",
+"ashby/noisedigital: HTTP Error 404: Not Found",
+"lever/noisedigital: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17722,12 +17795,12 @@
 "city": "Needham",
 "swe_flag": true,
 "errors": [
-"greenhouse/midnight-mansion: HTTP Error 404: Not Found",
-"ashby/midnight-mansion: HTTP Error 404: Not Found",
-"lever/midnight-mansion: HTTP Error 404: Not Found",
 "greenhouse/midnightmansion: HTTP Error 404: Not Found",
 "ashby/midnightmansion: HTTP Error 404: Not Found",
-"lever/midnightmansion: HTTP Error 404: Not Found"
+"lever/midnightmansion: HTTP Error 404: Not Found",
+"greenhouse/midnight-mansion: HTTP Error 404: Not Found",
+"ashby/midnight-mansion: HTTP Error 404: Not Found",
+"lever/midnight-mansion: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 },
@@ -17740,12 +17813,12 @@
 "city": "New York",
 "swe_flag": true,
 "errors": [
-"greenhouse/relevanthealthcare: HTTP Error 404: Not Found",
-"ashby/relevanthealthcare: HTTP Error 404: Not Found",
-"lever/relevanthealthcare: HTTP Error 404: Not Found",
 "greenhouse/relevant: HTTP Error 404: Not Found",
 "ashby/relevant: HTTP Error 404: Not Found",
 "lever/relevant: HTTP Error 404: Not Found",
+"greenhouse/relevanthealthcare: HTTP Error 404: Not Found",
+"ashby/relevanthealthcare: HTTP Error 404: Not Found",
+"lever/relevanthealthcare: HTTP Error 404: Not Found",
 "greenhouse/relevant-healthcare: HTTP Error 404: Not Found",
 "ashby/relevant-healthcare: HTTP Error 404: Not Found",
 "lever/relevant-healthcare: HTTP Error 404: Not Found"
@@ -17792,6 +17865,9 @@
 "swe_flag": true,
 "page_error": "HTTP Error 403: Forbidden",
 "errors": [
+"greenhouse/academia-edu: HTTP Error 404: Not Found",
+"ashby/academia-edu: HTTP Error 404: Not Found",
+"lever/academia-edu: HTTP Error 404: Not Found",
 "greenhouse/academiaedu: HTTP Error 404: Not Found",
 "ashby/academiaedu: HTTP Error 404: Not Found",
 "lever/academiaedu: HTTP Error 404: Not Found",
@@ -17846,8 +17922,8 @@
 "ats": "bamboohr",
 "slug": "pontosense",
 "how": "listed",
-"total": 0,
-"swe_us": 0
+"total": 12,
+"swe_us": 1
 },
 {
 "id": "recMkbv59uwNrg5uO",
@@ -17899,6 +17975,9 @@
 "city": "Los Angeles",
 "swe_flag": false,
 "errors": [
+"greenhouse/the-believer-company: HTTP Error 404: Not Found",
+"ashby/the-believer-company: HTTP Error 404: Not Found",
+"lever/the-believer-company: HTTP Error 404: Not Found",
 "greenhouse/thebelievercompany: HTTP Error 404: Not Found",
 "ashby/thebelievercompany: HTTP Error 404: Not Found",
 "lever/thebelievercompany: HTTP Error 404: Not Found",
@@ -17920,12 +17999,12 @@
 "city": "Columbus",
 "swe_flag": false,
 "errors": [
-"greenhouse/bbi-logistics: HTTP Error 404: Not Found",
-"ashby/bbi-logistics: HTTP Error 404: Not Found",
-"lever/bbi-logistics: HTTP Error 404: Not Found",
 "greenhouse/bbilogistics: HTTP Error 404: Not Found",
 "ashby/bbilogistics: HTTP Error 404: Not Found",
-"lever/bbilogistics: HTTP Error 404: Not Found"
+"lever/bbilogistics: HTTP Error 404: Not Found",
+"greenhouse/bbi-logistics: HTTP Error 404: Not Found",
+"ashby/bbi-logistics: HTTP Error 404: Not Found",
+"lever/bbi-logistics: HTTP Error 404: Not Found"
 ],
 "status": "unresolved"
 }
