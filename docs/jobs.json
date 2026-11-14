@@ -1743,19 +1743,6 @@
 "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Senior-DevOps-Developer_26WD100437-1",
 "us": "maybe"
 },
-"https://autodesk.wd1.myworkdayjobs.com/ext/job/ontario-can---remote/senior-software-developer_26wd100706-1": {
-"ats": "workday",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Autodesk",
-"company_id": "reczLXQrzqzQlKbZh",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "2 Locations",
-"open": false,
-"posted": null,
-"title": "Senior Software Developer",
-"url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Senior-Software-Developer_26WD100706-1",
-"us": "maybe"
-},
 "https://autodesk.wd1.myworkdayjobs.com/ext/job/portland-or-usa/software-engineer_26wd101204-1": {
 "ats": "workday",
 "closed_at": "2026-10-29T21:07:52Z",
@@ -4669,11 +4656,12 @@
 },
 "https://boards.greenhouse.io/spacex/jobs/8570046002": {
 "ats": "greenhouse",
+"closed_at": "2026-11-14T11:28:28Z",
 "company": "SpaceX",
 "company_id": "reccEp5jDQy5044Zw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Hawthorne, CA",
-"open": true,
+"open": false,
 "posted": "2026-05-28T19:56:16-04:00",
 "title": "IT Network Infrastructure Engineer",
 "url": "https://boards.greenhouse.io/spacex/jobs/8570046002?gh_jid=8570046002",
@@ -6409,11 +6397,12 @@
 },
 "https://boards.greenhouse.io/spacex/jobs/8674890002": {
 "ats": "greenhouse",
+"closed_at": "2026-11-14T11:28:28Z",
 "company": "SpaceX",
 "company_id": "reccEp5jDQy5044Zw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Palo Alto, CA",
-"open": true,
+"open": false,
 "posted": "2026-08-05T17:58:07-04:00",
 "title": "RAN Validation Engineer (Starlink Mobile)",
 "url": "https://boards.greenhouse.io/spacex/jobs/8674890002?gh_jid=8674890002",
@@ -6421,11 +6410,12 @@
 },
 "https://boards.greenhouse.io/spacex/jobs/8675026002": {
 "ats": "greenhouse",
+"closed_at": "2026-11-14T11:28:28Z",
 "company": "SpaceX",
 "company_id": "reccEp5jDQy5044Zw",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Redmond, WA",
-"open": true,
+"open": false,
 "posted": "2026-08-05T17:58:08-04:00",
 "title": "RAN Validation Engineer (Starlink Mobile)",
 "url": "https://boards.greenhouse.io/spacex/jobs/8675026002?gh_jid=8675026002",
@@ -8494,19 +8484,6 @@
 "posted": "2026-09-21T20:43:33-04:00",
 "title": "Sr. Software Engineer, C++ (Simulations) ",
 "url": "https://boards.greenhouse.io/spacex/jobs/8829330002?gh_jid=8829330002",
-"us": "yes"
-},
-"https://boards.greenhouse.io/spacex/jobs/8829675002": {
-"ats": "greenhouse",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "SpaceX",
-"company_id": "reccEp5jDQy5044Zw",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Palo Alto, CA",
-"open": false,
-"posted": "2026-09-21T21:31:05-04:00",
-"title": "Network Engineer, AI Infrastructure (Starshield)",
-"url": "https://boards.greenhouse.io/spacex/jobs/8829675002?gh_jid=8829675002",
 "us": "yes"
 },
 "https://boards.greenhouse.io/spacex/jobs/8829677002": {
@@ -13478,6 +13455,18 @@
 "url": "https://careers.roblox.com/jobs/8346849?gh_jid=8346849",
 "us": "yes"
 },
+"https://careers.roblox.com/jobs/8350723": {
+"ats": "greenhouse",
+"company": "Roblox",
+"company_id": "rec20wjQhppThtvoi",
+"first_seen": "2026-11-14T11:28:28Z",
+"location": "San Mateo, CA, United States",
+"open": true,
+"posted": "2026-11-13T20:56:05-05:00",
+"title": "Senior Software Engineer, Roblox OS",
+"url": "https://careers.roblox.com/jobs/8350723?gh_jid=8350723",
+"us": "yes"
+},
 "https://careers.roblox.com/jobs/8350725": {
 "ats": "greenhouse",
 "company": "Roblox",
@@ -18161,19 +18150,6 @@
 "posted": "2026-05-06T03:14:11-04:00",
 "title": "Staff+ Software Engineer, Kubernetes Platform",
 "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211241008",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/anthropic/jobs/5229345008": {
-"ats": "greenhouse",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Anthropic",
-"company_id": "rec5kwVgAYWhk4UoC",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "San Francisco, CA | New York City, NY | Seattle, WA",
-"open": false,
-"posted": "2026-05-27T20:20:38-04:00",
-"title": "Staff Software Engineer, Claude Design",
-"url": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/anthropic/jobs/5238637008": {
@@ -32676,19 +32652,6 @@
 "url": "https://jobs.ashbyhq.com/Abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
 "us": "yes"
 },
-"https://jobs.ashbyhq.com/abridge/57967034-08cb-4cfe-8243-4e9564acc32e": {
-"ats": "ashby",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Abridge",
-"company_id": "recSZvwgAJxbgkqcQ",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "SF Office / USA",
-"open": false,
-"posted": "2025-04-14T16:55:01.344+00:00",
-"title": "Senior Application Security Engineer",
-"url": "https://jobs.ashbyhq.com/Abridge/57967034-08cb-4cfe-8243-4e9564acc32e",
-"us": "yes"
-},
 "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e": {
 "ats": "ashby",
 "closed_at": "2026-10-15T23:04:32Z",
@@ -32752,19 +32715,6 @@
 "posted": "2026-11-05T23:28:23.605+00:00",
 "title": "Member of Technical Staff, VA",
 "url": "https://jobs.ashbyhq.com/Abridge/b68ad2ef-daaa-4504-84ca-55eeabf0eee4",
-"us": "yes"
-},
-"https://jobs.ashbyhq.com/abridge/b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69": {
-"ats": "ashby",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Abridge",
-"company_id": "recSZvwgAJxbgkqcQ",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "SF Office / USA",
-"open": false,
-"posted": "2026-06-10T21:16:24.706+00:00",
-"title": "Staff Application Security Engineer",
-"url": "https://jobs.ashbyhq.com/Abridge/b8206fdb-4d85-472c-bd8f-7c7a2dcbfa69",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b": {
@@ -32850,19 +32800,6 @@
 "posted": "2026-03-07T05:39:25.881+00:00",
 "title": "Software Engineer, Agentic AI",
 "url": "https://jobs.ashbyhq.com/airwallex/1d4b22cd-33cd-44b8-83fe-108d11907f2f",
-"us": "yes"
-},
-"https://jobs.ashbyhq.com/airwallex/23e17f1d-517d-4964-b30b-509aff010212": {
-"ats": "ashby",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Airwallex",
-"company_id": "recNnMGv53brZv8SC",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "KR - Seoul / South Korea",
-"open": false,
-"posted": "2026-06-26T09:26:58.091+00:00",
-"title": "Staff Software Engineer, GTPN Platform",
-"url": "https://jobs.ashbyhq.com/airwallex/23e17f1d-517d-4964-b30b-509aff010212",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/airwallex/281e3717-87dc-4036-ab1c-5d35bb83b319": {
@@ -37212,19 +37149,6 @@
 "posted": "2026-09-04T16:13:27.042+00:00",
 "title": "Software Developer - L4",
 "url": "https://jobs.ashbyhq.com/ncontracts/26450edb-10ca-4286-81f6-7203f177c122",
-"us": "yes"
-},
-"https://jobs.ashbyhq.com/ncontracts/a53c19bd-31de-4fac-b87a-46851d7e1d0d": {
-"ats": "ashby",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Ncontracts",
-"company_id": "recFpK3cCUBgu74Iu",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Remote / United States",
-"open": false,
-"posted": "2026-09-03T03:03:22.057+00:00",
-"title": "Data Engineer II",
-"url": "https://jobs.ashbyhq.com/ncontracts/a53c19bd-31de-4fac-b87a-46851d7e1d0d",
 "us": "yes"
 },
 "https://jobs.ashbyhq.com/newtonx/463365ed-d5cc-48ae-97a1-ac4d1ac65dfe": {
@@ -43368,19 +43292,6 @@
 "url": "https://jobs.lever.co/brightmachines/ee38d1e1-3d85-4a9d-a44d-4c804f19fa8e",
 "us": "yes"
 },
-"https://jobs.lever.co/brightmachines/f051001d-4533-4974-bad6-63f0693e6634": {
-"ats": "lever",
-"closed_at": "2026-10-15T04:40:21Z",
-"company": "Bright Machines",
-"company_id": "recLzxBFjaCxN39zZ",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Burlingame, California / US",
-"open": false,
-"posted": 1790281668488,
-"title": "Staff Platform Engineer",
-"url": "https://jobs.lever.co/brightmachines/f051001d-4533-4974-bad6-63f0693e6634",
-"us": "yes"
-},
 "https://jobs.lever.co/canarytechnologies/0e1532cc-85e4-4f9d-a78c-defc089b14c8": {
 "ats": "lever",
 "closed_at": "2026-11-05T21:59:09Z",
@@ -49270,11 +49181,12 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
+"closed_at": "2026-11-14T11:28:28Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -49295,11 +49207,12 @@
 },
 "https://orca.security/about/careers/6240515004": {
 "ats": "greenhouse",
+"closed_at": "2026-11-14T11:28:28Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-11-04T19:45:39Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": true,
+"open": false,
 "posted": "2026-11-04T07:12:46-05:00",
 "title": "Staff Software Engineer - Data Platform Team",
 "url": "https://orca.security/about/careers/6240515004?gh_jid=6240515004",
@@ -58267,5 +58180,5 @@
 "us": "yes"
 }
 },
-"updated": "2026-11-14T00:53:20Z"
+"updated": "2026-11-14T11:28:28Z"
 }
