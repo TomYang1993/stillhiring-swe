@@ -10223,6 +10223,30 @@
 "url": "https://boards.greenhouse.io/spacex/jobs/8940270002?gh_jid=8940270002",
 "us": "yes"
 },
+"https://boards.greenhouse.io/spacex/jobs/8943586002": {
+"ats": "greenhouse",
+"company": "SpaceX",
+"company_id": "reccEp5jDQy5044Zw",
+"first_seen": "2026-11-15T06:33:25Z",
+"location": "Palo Alto, CA",
+"open": true,
+"posted": "2026-11-14T21:59:43-05:00",
+"title": "Full Stack Software Engineer (Starlink)",
+"url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
+"us": "yes"
+},
+"https://boards.greenhouse.io/spacex/jobs/8943684002": {
+"ats": "greenhouse",
+"company": "SpaceX",
+"company_id": "reccEp5jDQy5044Zw",
+"first_seen": "2026-11-15T06:33:25Z",
+"location": "Palo Alto, CA",
+"open": true,
+"posted": "2026-11-14T21:56:23-05:00",
+"title": "Sr. Full Stack Software Engineer (Starlink)",
+"url": "https://boards.greenhouse.io/spacex/jobs/8943684002?gh_jid=8943684002",
+"us": "yes"
+},
 "https://boards.greenhouse.io/tomorrow/jobs/7805860003": {
 "ats": "greenhouse",
 "closed_at": "2026-10-28T21:05:27Z",
@@ -15178,19 +15202,6 @@
 "title": "Cloud Developer",
 "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas/Cloud-Developer_1212916",
 "us": "maybe"
-},
-"https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/cloud-developer-ii_1214980": {
-"ats": "workday",
-"closed_at": "2026-10-16T04:33:14Z",
-"company": "Juniper Networks",
-"company_id": "rece3qr4ha1O1XIpM",
-"first_seen": "2026-10-15T19:53:39Z",
-"location": "San Jose, California, United States of America",
-"open": false,
-"posted": null,
-"title": "Cloud Developer II",
-"url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-II_1214980",
-"us": "yes"
 },
 "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/cloud-developer-iii_1205852-2": {
 "ats": "workday",
@@ -25890,6 +25901,18 @@
 "posted": "2026-11-05T15:11:30-05:00",
 "title": "Senior Software Engineer, Java ",
 "url": "https://job-boards.greenhouse.io/ninjaone/jobs/4457539009",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/ninjaone/jobs/4459194009": {
+"ats": "greenhouse",
+"company": "NinjaOne",
+"company_id": "recQ9EY5hAerWrRoR",
+"first_seen": "2026-11-15T06:33:25Z",
+"location": "Austin, Texas, United States",
+"open": true,
+"posted": "2026-11-14T19:12:30-05:00",
+"title": "Staff Software Engineer | Emerging Products ",
+"url": "https://job-boards.greenhouse.io/ninjaone/jobs/4459194009",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/ninjaone/jobs/4465686009": {
@@ -47716,19 +47739,6 @@
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192920",
 "us": "yes"
 },
-"https://leidos.wd5.myworkdayjobs.com/external/job/shiloh-il/data-engineer-software-developer_r-00189905": {
-"ats": "workday",
-"closed_at": "2026-10-16T04:33:14Z",
-"company": "Kudu Dynamics LLC",
-"company_id": "recDWFYXGbY5uqdZH",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Shiloh, IL",
-"open": false,
-"posted": null,
-"title": "Data Engineer Software Developer",
-"url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineer-Software-Developer_R-00189905",
-"us": "yes"
-},
 "https://leidos.wd5.myworkdayjobs.com/external/job/st-louis-mo/junior-software-developer_r-00195126": {
 "ats": "workday",
 "company": "Kudu Dynamics LLC",
@@ -55617,11 +55627,11 @@
 "company": "Dealpath",
 "company_id": "recqSZ9x74kN8UH1y",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "New York City, New York",
+"location": "San Francisco, California, United States",
 "open": true,
-"posted": "2026-10-05T15:19:01-04:00",
+"posted": "2026-10-05T15:19:54-04:00",
 "title": "Senior Full Stack Engineer",
-"url": "https://www.dealpath.com/job-post/?gh_jid=8257183",
+"url": "https://www.dealpath.com/job-post/?gh_jid=8257190",
 "us": "yes"
 },
 "https://www.digicert.com/careers": {
@@ -57558,5 +57568,5 @@
 "us": "yes"
 }
 },
-"updated": "2026-11-14T23:55:33Z"
+"updated": "2026-11-15T06:33:25Z"
 }
