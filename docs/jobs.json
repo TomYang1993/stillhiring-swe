@@ -551,11 +551,12 @@
 },
 "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/bucharest/sr-full-stack-engineer---adobe-experience-platform_r172252": {
 "ats": "workday",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Adobe",
 "company_id": "recpRCIjVv7HCC37E",
 "first_seen": "2026-11-16T18:33:13Z",
 "location": "Bucharest",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Sr. Full Stack Engineer - Adobe Experience Platform",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Sr-Full-Stack-Engineer---Adobe-Experience-Platform_R172252",
@@ -610,6 +611,18 @@
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Engineer-3----PySpark--Databricks--Data---AI-Governance-_R173685",
 "us": "maybe"
 },
+"https://adobe.wd5.myworkdayjobs.com/external_experienced/job/noida/software-development-engineer-3_r173673": {
+"ats": "workday",
+"company": "Adobe",
+"company_id": "recpRCIjVv7HCC37E",
+"first_seen": "2026-11-27T13:52:17Z",
+"location": "Noida",
+"open": true,
+"posted": null,
+"title": "Software Development Engineer 3",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R173673",
+"us": "maybe"
+},
 "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/noida/software-development-engineer-3_r173715": {
 "ats": "workday",
 "company": "Adobe",
@@ -622,13 +635,26 @@
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R173715",
 "us": "maybe"
 },
+"https://adobe.wd5.myworkdayjobs.com/external_experienced/job/noida/software-development-engineer-3_r173717": {
+"ats": "workday",
+"company": "Adobe",
+"company_id": "recpRCIjVv7HCC37E",
+"first_seen": "2026-11-27T13:52:17Z",
+"location": "Noida",
+"open": true,
+"posted": null,
+"title": "Software Development Engineer 3",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R173717",
+"us": "maybe"
+},
 "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/noida/sr-forward-deployed-engineer_r172762": {
 "ats": "workday",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Adobe",
 "company_id": "recpRCIjVv7HCC37E",
 "first_seen": "2026-10-13T19:18:13Z",
 "location": "Noida",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Sr Forward Deployed Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
@@ -1698,11 +1724,12 @@
 },
 "https://bb.wd3.myworkdayjobs.com/blackberry/job/ottawa-ontario/qnx--senior-systems-software-developer--sensor-frameworks-_20260309-2": {
 "ats": "workday",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "BlackBerry",
 "company_id": "rec5TstXaRc9tSohU",
 "first_seen": "2026-10-26T21:01:05Z",
 "location": "Ottawa, Ontario",
-"open": true,
+"open": false,
 "posted": null,
 "title": "QNX- Senior Systems Software Developer (Sensor Frameworks)",
 "url": "https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX--Senior-Systems-Software-Developer--Sensor-Frameworks-_20260309-2",
@@ -2788,19 +2815,6 @@
 "posted": "2026-09-22T12:41:53-04:00",
 "title": "Senior AI Enablement Engineer, People",
 "url": "https://boards.greenhouse.io/justworks/jobs/8214215?gh_jid=8214215",
-"us": "yes"
-},
-"https://boards.greenhouse.io/justworks/jobs/8236798": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Justworks",
-"company_id": "recwK9kkmMKfeSLMB",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "New York, New York",
-"open": false,
-"posted": "2026-10-02T14:39:34-04:00",
-"title": "Senior Software Engineer, Frontend ",
-"url": "https://boards.greenhouse.io/justworks/jobs/8236798?gh_jid=8236798",
 "us": "yes"
 },
 "https://boards.greenhouse.io/justworks/jobs/8236874": {
@@ -8740,19 +8754,6 @@
 "url": "https://boards.greenhouse.io/spacex/jobs/8877232002?gh_jid=8877232002",
 "us": "yes"
 },
-"https://boards.greenhouse.io/spacex/jobs/8877862002": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "SpaceX",
-"company_id": "reccEp5jDQy5044Zw",
-"first_seen": "2026-10-09T20:55:01Z",
-"location": "Bastrop, TX",
-"open": false,
-"posted": "2026-10-09T14:21:38-04:00",
-"title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
-"url": "https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002",
-"us": "yes"
-},
 "https://boards.greenhouse.io/spacex/jobs/8880385002": {
 "ats": "greenhouse",
 "company": "SpaceX",
@@ -12727,19 +12728,6 @@
 "url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
 "us": "yes"
 },
-"https://careers.roblox.com/jobs/8159886": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Roblox",
-"company_id": "rec20wjQhppThtvoi",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "San Mateo, CA, United States",
-"open": false,
-"posted": "2026-09-08T16:26:25-04:00",
-"title": "Senior Software Engineer, Creator Core Systems",
-"url": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886",
-"us": "yes"
-},
 "https://careers.roblox.com/jobs/8164933": {
 "ats": "greenhouse",
 "company": "Roblox",
@@ -15878,19 +15866,6 @@
 "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/TX-Home-Office/Software-Engineer_JR103344",
 "us": "maybe"
 },
-"https://insperity.wd12.myworkdayjobs.com/nsp/job/tx-kingwood-2/senior-data-engineer_jr103247": {
-"ats": "workday",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Insperity",
-"company_id": "recMGT9nrTEFQy9ei",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "2 Locations",
-"open": false,
-"posted": null,
-"title": "Senior Data Engineer",
-"url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/TX-Kingwood-2/Senior-Data-Engineer_JR103247",
-"us": "maybe"
-},
 "https://intapp.wd1.myworkdayjobs.com/intapp/job/charlotte-nc/data-engineer_r2025424-1": {
 "ats": "workday",
 "company": "Intapp",
@@ -17519,6 +17494,18 @@
 "posted": "2026-11-09T14:25:30-05:00",
 "title": "Senior Software Engineer, Backend (Trust & Safety)",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
+"us": "yes"
+},
+"https://job-boards.greenhouse.io/affirm/jobs/8199161003": {
+"ats": "greenhouse",
+"company": "Affirm",
+"company_id": "rec2ybztZlf2yizli",
+"first_seen": "2026-11-27T13:52:17Z",
+"location": "Remote US",
+"open": true,
+"posted": "2026-11-27T08:42:35-05:00",
+"title": "Senior Software Engineer, Backend (Trust Infra)",
+"url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/affirm/jobs/8199419003": {
@@ -21299,7 +21286,7 @@
 "location": "Czechia",
 "open": true,
 "posted": "2026-10-14T11:36:10-04:00",
-"title": "Senior Software Engineer, Data Pipeline ",
+"title": "Senior/Staff Software Engineer, Data Pipeline ",
 "url": "https://job-boards.greenhouse.io/bloomreach/jobs/8281676",
 "us": "maybe"
 },
@@ -21311,7 +21298,7 @@
 "location": "Slovakia",
 "open": true,
 "posted": "2026-10-14T11:36:12-04:00",
-"title": "Senior Software Engineer, Data Pipeline ",
+"title": "Senior/Staff Software Engineer, Data Pipeline ",
 "url": "https://job-boards.greenhouse.io/bloomreach/jobs/8281677",
 "us": "maybe"
 },
@@ -22085,32 +22072,6 @@
 "url": "https://job-boards.greenhouse.io/checkr/jobs/8412514",
 "us": "yes"
 },
-"https://job-boards.greenhouse.io/chicory/jobs/6146214004": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Chicory",
-"company_id": "recBFAHI6MC7chGIG",
-"first_seen": "2026-10-08T21:20:34Z",
-"location": "United States",
-"open": false,
-"posted": "2026-10-08T11:50:12-04:00",
-"title": "Senior Software Engineer, Backend",
-"url": "https://job-boards.greenhouse.io/chicory/jobs/6146214004",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/chicory/jobs/6220362004": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Chicory",
-"company_id": "recBFAHI6MC7chGIG",
-"first_seen": "2026-10-08T21:20:34Z",
-"location": "United States",
-"open": false,
-"posted": "2026-10-08T11:52:05-04:00",
-"title": "Senior Data Engineer",
-"url": "https://job-boards.greenhouse.io/chicory/jobs/6220362004",
-"us": "yes"
-},
 "https://job-boards.greenhouse.io/coherehealth/jobs/7815472003": {
 "ats": "greenhouse",
 "company": "Cohere Health",
@@ -22831,19 +22792,6 @@
 "posted": "2025-06-16T09:42:26-04:00",
 "title": "Software Engineer- General Interest",
 "url": "https://job-boards.greenhouse.io/givecampus/jobs/4005082009",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/givecampus/jobs/4374577009": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "GiveCampus",
-"company_id": "recqeRResGXb6I7gI",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "United States",
-"open": false,
-"posted": "2026-08-18T15:32:27-04:00",
-"title": "Senior Software Engineer, Online Giving",
-"url": "https://job-boards.greenhouse.io/givecampus/jobs/4374577009",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/givecampus/jobs/4409577009": {
@@ -25387,32 +25335,6 @@
 "posted": "2026-10-20T18:17:48-04:00",
 "title": "Staff Software Engineer - AI Applications",
 "url": "https://job-boards.greenhouse.io/moloco/jobs/7982507003",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/mozilla/jobs/8055489": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Mozilla",
-"company_id": "recX5Zkt2VHpxmgLw",
-"first_seen": "2026-10-15T19:53:39Z",
-"location": "Remote",
-"open": false,
-"posted": "2026-07-15T17:07:09-04:00",
-"title": "Senior Software Engineer, APZ (Asynchronous Pan & Zoom)",
-"url": "https://job-boards.greenhouse.io/mozilla/jobs/8055489",
-"us": "maybe"
-},
-"https://job-boards.greenhouse.io/mozilla/jobs/8060216": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Mozilla",
-"company_id": "recX5Zkt2VHpxmgLw",
-"first_seen": "2026-10-15T19:53:39Z",
-"location": "Remote US",
-"open": false,
-"posted": "2026-07-15T17:07:10-04:00",
-"title": "Senior Software Engineer, APZ (Asynchronous Pan & Zoom)",
-"url": "https://job-boards.greenhouse.io/mozilla/jobs/8060216",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/mozilla/jobs/8103947": {
@@ -28227,32 +28149,6 @@
 "posted": "2026-07-07T17:48:11-04:00",
 "title": "Agentic AI Engineer, Salt Lake City",
 "url": "https://job-boards.greenhouse.io/taxbit/jobs/6111141004",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/taxbit/jobs/6111171004": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Taxbit",
-"company_id": "recFEQN0Dh7xjMg7s",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Seattle, Washington",
-"open": false,
-"posted": "2026-07-07T18:28:47-04:00",
-"title": "UI Engineer, Seattle",
-"url": "https://job-boards.greenhouse.io/taxbit/jobs/6111171004",
-"us": "yes"
-},
-"https://job-boards.greenhouse.io/taxbit/jobs/6111172004": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Taxbit",
-"company_id": "recFEQN0Dh7xjMg7s",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Salt Lake City, Utah",
-"open": false,
-"posted": "2026-07-07T18:28:48-04:00",
-"title": "UI Engineer, Salt Lake City",
-"url": "https://job-boards.greenhouse.io/taxbit/jobs/6111172004",
 "us": "yes"
 },
 "https://job-boards.greenhouse.io/taxbit/jobs/6188716004": {
@@ -31722,11 +31618,12 @@
 },
 "https://job-boards.greenhouse.io/zscaler/jobs/5255850007": {
 "ats": "greenhouse",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Zscaler",
 "company_id": "rec6vlXnqlTpgtdzt",
 "first_seen": "2026-10-16T13:15:57Z",
 "location": "Mohali, IND",
-"open": true,
+"open": false,
 "posted": "2026-10-16T05:29:15-04:00",
 "title": "Staff Software Development Engineer ",
 "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255850007",
@@ -32757,11 +32654,12 @@
 },
 "https://jobs.ashbyhq.com/airwallex/6d70c4e9-add4-40f4-b2df-e26b37c856c5": {
 "ats": "ashby",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Airwallex",
 "company_id": "recNnMGv53brZv8SC",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "US - San Francisco / United States",
-"open": true,
+"open": false,
 "posted": "2026-05-20T07:36:13.710+00:00",
 "title": "Senior Site Reliability Engineer, Spend",
 "url": "https://jobs.ashbyhq.com/airwallex/6d70c4e9-add4-40f4-b2df-e26b37c856c5",
@@ -47412,11 +47310,12 @@
 },
 "https://lego.wd103.myworkdayjobs.com/lego_external/job/copenhagen/senior-game-developer_0000040486": {
 "ats": "workday",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "the LEGO Group",
 "company_id": "rec73lANmma5FJmus",
 "first_seen": "2026-11-25T14:22:58Z",
 "location": "",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Senior Game Developer",
 "url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen/Senior-Game-Developer_0000040486",
@@ -48286,19 +48185,6 @@
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Harrogate-England-Vocalink/Senior-Software-Engineer---Connex_R-274939-1",
 "us": "maybe"
 },
-"https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/mexico-city-mexico/lead-site-reliability-engineer_r-279410-1": {
-"ats": "workday",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Mastercard",
-"company_id": "recgWQkJgT9Duul1s",
-"first_seen": "2026-10-14T20:12:28Z",
-"location": "Mexico City, Mexico",
-"open": false,
-"posted": null,
-"title": "Lead, DevOps Engineer",
-"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Lead-Site-Reliability-Engineer_R-279410-1",
-"us": "yes"
-},
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/mexico-city-mexico/lead-software-engineer_r-280100-1": {
 "ats": "workday",
 "company": "Mastercard",
@@ -48496,12 +48382,11 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/senior-software-engineer_r-282821": {
 "ats": "workday",
-"closed_at": "2026-11-25T14:22:58Z",
 "company": "Mastercard",
 "company_id": "recgWQkJgT9Duul1s",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "O'Fallon, Missouri",
-"open": false,
+"open": true,
 "posted": null,
 "title": "Senior Software Engineer",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-282821",
@@ -48529,19 +48414,6 @@
 "posted": null,
 "title": "Senior Software Engineer",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-289666",
-"us": "yes"
-},
-"https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/senior-software-engineer_r-292051": {
-"ats": "workday",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Mastercard",
-"company_id": "recgWQkJgT9Duul1s",
-"first_seen": "2026-10-27T05:05:57Z",
-"location": "O'Fallon, Missouri",
-"open": false,
-"posted": null,
-"title": "Senior Software Engineer",
-"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-292051",
 "us": "yes"
 },
 "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/ofallon-missouri/software-engineer-ii_r-289342": {
@@ -48580,19 +48452,6 @@
 "title": "Software Engineer II",
 "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-292491",
 "us": "yes"
-},
-"https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/warsaw-poland/lead-software-engineer---connectivity_r-294136": {
-"ats": "workday",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Mastercard",
-"company_id": "recgWQkJgT9Duul1s",
-"first_seen": "2026-10-20T19:59:57Z",
-"location": "2 Locations",
-"open": false,
-"posted": null,
-"title": "Lead Software Engineer \u2014 Connectivity",
-"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Lead-Software-Engineer---Connectivity_R-294136",
-"us": "maybe"
 },
 "https://modmed.wd501.myworkdayjobs.com/modmed12/job/boca-raton-fl/cloud-ops-engineer_r4935": {
 "ats": "workday",
@@ -48828,12 +48687,11 @@
 },
 "https://orca.security/about/careers/5263129004": {
 "ats": "greenhouse",
-"closed_at": "2026-11-27T00:35:16Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2024-08-22T03:41:58-04:00",
 "title": "Senior Software Engineer ",
 "url": "https://orca.security/about/careers/5263129004?gh_jid=5263129004",
@@ -48854,12 +48712,11 @@
 },
 "https://orca.security/about/careers/6240515004": {
 "ats": "greenhouse",
-"closed_at": "2026-11-27T00:35:16Z",
 "company": "Orca Security",
 "company_id": "rec5dCTjuCgE3vMU3",
 "first_seen": "2026-11-04T19:45:39Z",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"open": false,
+"open": true,
 "posted": "2026-11-04T07:12:46-05:00",
 "title": "Staff Software Engineer - Data Platform Team",
 "url": "https://orca.security/about/careers/6240515004?gh_jid=6240515004",
@@ -49978,11 +49835,12 @@
 },
 "https://pontosense.bamboohr.com/careers/159": {
 "ats": "bamboohr",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Pontosense",
 "company_id": "recEs4HSOrK9ToHjB",
 "first_seen": "2026-11-04T19:45:39Z",
 "location": "",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Product Engineer, Mobile & UX",
 "url": "https://pontosense.bamboohr.com/careers/159",
@@ -49990,11 +49848,12 @@
 },
 "https://pontosense.bamboohr.com/careers/163": {
 "ats": "bamboohr",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "Pontosense",
 "company_id": "recEs4HSOrK9ToHjB",
 "first_seen": "2026-11-05T21:59:09Z",
 "location": "",
-"open": true,
+"open": false,
 "posted": null,
 "title": "Product Engineer, Mobile & UX",
 "url": "https://pontosense.bamboohr.com/careers/163",
@@ -50671,19 +50530,6 @@
 "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Horsham-PA/Principal-Machine-Learning-Engineer-I---Hybrid-in-Horsham--PA-or-Remote-EST-Preferred_R117875-3",
 "us": "maybe"
 },
-"https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/illinois/senior-software-engineer-ii_r118760": {
-"ats": "workday",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "LexisNexis UK",
-"company_id": "rec3ml1dLU4WlQcRL",
-"first_seen": "2026-10-27T20:42:07Z",
-"location": "Illinois",
-"open": false,
-"posted": null,
-"title": "Senior Software Engineer II",
-"url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Illinois/Senior-Software-Engineer-II_R118760",
-"us": "yes"
-},
 "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/india-chennai-ascendas-tech-park/consulting-principal-software-engineer_r118513": {
 "ats": "workday",
 "company": "LexisNexis UK",
@@ -51062,11 +50908,12 @@
 },
 "https://ripple.com/careers/all-jobs/job/8241603": {
 "ats": "greenhouse",
+"closed_at": "2026-11-27T13:52:17Z",
 "company": "rippleofficial",
 "company_id": "recS81ZGeIG7bhN0u",
 "first_seen": "2026-10-05T23:59:26Z",
 "location": "San Francisco, CA, United States",
-"open": true,
+"open": false,
 "posted": "2026-09-29T21:39:09-04:00",
 "title": "Software Engineer II",
 "url": "https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603",
@@ -52402,19 +52249,6 @@
 "url": "https://tractionrec.bamboohr.com/careers/151",
 "us": "yes"
 },
-"https://tractionrec.bamboohr.com/careers/156": {
-"ats": "bamboohr",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Traction Rec",
-"company_id": "recmcLOaoRq32meSN",
-"first_seen": "2026-10-22T04:47:09Z",
-"location": "",
-"open": false,
-"posted": null,
-"title": "Product Developer (Hybrid)",
-"url": "https://tractionrec.bamboohr.com/careers/156",
-"us": "maybe"
-},
 "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/ph-makati/ai-software-engineer---voice-platform_r2025-242486": {
 "ats": "workday",
 "company": "TransPerfect",
@@ -52596,6 +52430,18 @@
 "posted": null,
 "title": "Senior Software Engineer, Agentic Commerce",
 "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Senior-Software-Engineer--Agentic-Commerce_R0077212",
+"us": "maybe"
+},
+"https://tsys.wd1.myworkdayjobs.com/tsys/job/cambridge--united-kingdom/java-software-engineer--cambridge-_r0075460-1": {
+"ats": "workday",
+"company": "Heartland",
+"company_id": "recE61MnzOWzzD4rR",
+"first_seen": "2026-11-27T13:52:17Z",
+"location": "2 Locations",
+"open": true,
+"posted": null,
+"title": "Java Software Engineer",
+"url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/CAMBRIDGE--UNITED-KINGDOM/Java-Software-Engineer--Cambridge-_R0075460-1",
 "us": "maybe"
 },
 "https://tsys.wd1.myworkdayjobs.com/tsys/job/chengdu-sichaun-china/software-engineer-iii_r0077352": {
@@ -52803,6 +52649,18 @@
 "posted": null,
 "title": "Lead Software Development Engineer in Test",
 "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/TEMPE-ARIZONA/Lead-Software-Development-Engineer-in-Test_R0074198",
+"us": "maybe"
+},
+"https://tsys.wd1.myworkdayjobs.com/tsys/job/xian-shaanxi-china/software-qa-engineer-iii_r0077291-1": {
+"ats": "workday",
+"company": "Heartland",
+"company_id": "recE61MnzOWzzD4rR",
+"first_seen": "2026-11-27T13:52:17Z",
+"location": "2 Locations",
+"open": true,
+"posted": null,
+"title": "Software QA Engineer III",
+"url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/XIAN-SHAANXI-CHINA/Software-QA-Engineer-III_R0077291-1",
 "us": "maybe"
 },
 "https://tulip.co/careers/job-posting": {
@@ -56008,11 +55866,11 @@
 "company": "Dealpath",
 "company_id": "recqSZ9x74kN8UH1y",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "New York City, New York",
+"location": "San Francisco, California, United States",
 "open": true,
-"posted": "2026-10-05T15:19:01-04:00",
+"posted": "2026-10-05T15:19:54-04:00",
 "title": "Senior Full Stack Engineer",
-"url": "https://www.dealpath.com/job-post/?gh_jid=8257183",
+"url": "https://www.dealpath.com/job-post/?gh_jid=8257190",
 "us": "yes"
 },
 "https://www.digicert.com/careers": {
@@ -56297,19 +56155,6 @@
 "posted": "2026-06-25T12:54:20-04:00",
 "title": "Senior Software Engineer, Platform Engineering",
 "url": "https://www.klaviyo.com/careers/jobs/7783904003?gh_jid=7783904003",
-"us": "yes"
-},
-"https://www.klaviyo.com/careers/jobs/7783906003": {
-"ats": "greenhouse",
-"closed_at": "2026-10-28T05:42:58Z",
-"company": "Klaviyo",
-"company_id": "rec5bKcoctyeEnLCH",
-"first_seen": "2026-10-05T23:59:26Z",
-"location": "Boston, MA",
-"open": false,
-"posted": "2026-07-15T10:34:02-04:00",
-"title": "Lead Security Governance & Risk Engineer",
-"url": "https://www.klaviyo.com/careers/jobs/7783906003?gh_jid=7783906003",
 "us": "yes"
 },
 "https://www.klaviyo.com/careers/jobs/7792539003": {
@@ -56664,11 +56509,11 @@
 "company": "NexHealth",
 "company_id": "reclQmTppNnGW7Fz7",
 "first_seen": "2026-10-05T23:59:26Z",
-"location": "Seattle, Washington, United States",
+"location": "Boston, Massachusetts, United States",
 "open": true,
-"posted": "2026-10-09T14:35:02-04:00",
+"posted": "2026-10-09T14:34:58-04:00",
 "title": "Senior Software Engineer, Fullstack, Practice Eng",
-"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6220067004",
+"url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6219644004",
 "us": "yes"
 },
 "https://www.praetorian.com/careers": {
@@ -57938,5 +57783,5 @@
 "us": "yes"
 }
 },
-"updated": "2026-11-27T00:35:16Z"
+"updated": "2026-11-27T13:52:17Z"
 }
